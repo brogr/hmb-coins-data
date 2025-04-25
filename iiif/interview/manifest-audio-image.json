@@ -1,0 +1,92 @@
+{
+	"@context": "http://iiif.io/api/presentation/3/context.json",
+	"id": "https://hmb-coins.vercel.app/iiif/interview/manifest.json",
+	"type": "Manifest",
+	"label": {
+		"de": ["Interview with coin collector"]
+	},
+	"items": [
+		{
+			"id": "https://hmb-coins.vercel.app/iiif/interview/canvas-1",
+			"type": "Canvas",
+			"duration": 51.0,
+			"accompanyingCanvas": {
+				"id": "https://hmb-coins.vercel.app/iiif/interview/canvas-1/accompanying",
+				"type": "Canvas",
+				"label": {
+					"de": ["Zeigen über der Gesamtansicht des Albums"]
+				},
+				"height": 7320,
+				"width": 5484,
+				"items": [
+					{
+						"id": "https://hmb-coins.vercel.app/iiif/interview/canvas-1/accompanying/annotation/page",
+						"type": "AnnotationPage",
+						"items": [
+							{
+								"id": "https://hmb-coins.vercel.app/iiif/interview/canvas-1/accompanying/annotation/image",
+								"type": "Annotation",
+								"motivation": "painting",
+								"body": {
+									"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D001.jpg/full/max/0/default.jpg",
+									"type": "Image",
+									"format": "image/jpeg",
+									"height": 7320,
+									"width": 5484,
+									"service": [
+										{
+											"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D001.jpg",
+											"type": "ImageService3",
+											"profile": "level1"
+										}
+									]
+								},
+								"target": "https://hmb-coins.vercel.app/iiif/interview/canvas-1/accompanying"
+							}
+						]
+					}
+				]
+			},
+			"items": [
+				{
+					"id": "https://hmb-coins.vercel.app/iiif/interview/canvas-1/annopage-1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://hmb-coins.vercel.app/iiif/interview/canvas-1/annopage-1/annotation",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://hmb-coins.vercel.app/iiif/interview/audio/introduction.mp3",
+								"type": "Sound",
+								"format": "audio/mp3",
+								"duration": 51.0
+							},
+							"target": "https://hmb-coins.vercel.app/iiif/interview/canvas-1"
+						}
+					]
+				}
+			],
+			"annotations": [
+				{
+					"id": "https://hmb-coins.vercel.app/iiif/interview/canvas-1/annopage-1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://hmb-coins.vercel.app/iiif/interview/canvas-1/annopage-1/annotation",
+							"type": "Annotation",
+							"motivation": "commenting",
+							"body": {
+								"type": "TextualBody",
+								"language": "de",
+								"format": "text/plain",
+								"value": "Einführung zum Album"
+							},
+							"target": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1"
+						}
+					]
+				}
+			]
+		}
+	]
+}

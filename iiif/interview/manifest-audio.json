@@ -1,0 +1,55 @@
+{
+	"@context": "http://iiif.io/api/presentation/3/context.json",
+	"id": "https://hmb-coins.vercel.app/iiif/interview/manifest.json",
+	"type": "Manifest",
+	"label": {
+		"de": ["Interview with coin collector"]
+	},
+	"items": [
+		{
+			"id": "https://hmb-coins.vercel.app/iiif/interview/canvas-1",
+			"type": "Canvas",
+			"duration": 51.0,
+			"items": [
+				{
+					"id": "https://hmb-coins.vercel.app/iiif/interview/canvas-1/annopage-1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://hmb-coins.vercel.app/iiif/interview/canvas-1/annopage-1/annotation",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://hmb-coins.vercel.app/iiif/interview/audio/introduction.mp3",
+								"type": "Sound",
+								"format": "audio/mp3",
+								"duration": 51.0
+							},
+							"target": "https://hmb-coins.vercel.app/iiif/interview/canvas-1"
+						}
+					]
+				}
+			],
+			"annotations": [
+				{
+					"id": "https://hmb-coins.vercel.app/iiif/interview/canvas-1/annopage-1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://hmb-coins.vercel.app/iiif/interview/canvas-1/annopage-1/annotation",
+							"type": "Annotation",
+							"motivation": "commenting",
+							"body": {
+								"type": "TextualBody",
+								"language": "de",
+								"format": "text/plain",
+								"value": "Einführung zum Album: Zeigen über der Gesamtansicht des Albums"
+							},
+							"target": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1"
+						}
+					]
+				}
+			]
+		}
+	]
+}
