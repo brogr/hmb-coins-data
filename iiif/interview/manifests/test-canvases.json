@@ -5,11 +5,15 @@
 	"label": {
 		"de": ["Interview mit Münzsammlerin M. Bieri: Test Canvases"]
 	},
+	"behavior": ["paged"],
 	"items": [
 		{
 			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-canvases/canvas-1",
 			"type": "Canvas",
 			"duration": 51.0,
+			"label": {
+				"de": ["Zeigen über der Gesamtansicht des Albums"]
+			},
 			"accompanyingCanvas": {
 				"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-canvases/canvas-1/accompanying",
 				"type": "Canvas",
@@ -88,6 +92,9 @@
 			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-canvases/canvas-2",
 			"type": "Canvas",
 			"duration": 4072.0,
+			"label": {
+				"de": ["Gesamtes Interview"]
+			},
 			"accompanyingCanvas": {
 				"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-canvases/canvas-2/accompanying",
 				"type": "Canvas",
