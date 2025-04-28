@@ -1,0 +1,45 @@
+{
+	"@context": "http://iiif.io/api/presentation/3/context.json",
+	"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/11-no-audio.json",
+	"type": "Manifest",
+	"label": {
+		"de": ["Interview mit Münzsammlerin M. Bieri: Auswahlkriterien"]
+	},
+	"items": [
+		{
+			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/11-no-audio/canvas",
+			"type": "Canvas",
+			"duration": 51.0,
+
+			"items": [
+				{
+					"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/11-no-audio/canvas/annotation/page",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/11-no-audio/canvas/annotation/image",
+							"type": "Annotation",
+							"motivation": "painting",
+							"label": {
+								"de": ["Auswahlkriterien"]
+							},
+							"body": {
+								"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D017.jpg/full/max/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"service": [
+									{
+										"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D017.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
+							},
+							"target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/11-no-audio/canvas"
+						}
+					]
+				}
+			]
+		}
+	]
+}
