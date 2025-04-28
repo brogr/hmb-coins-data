@@ -6,11 +6,13 @@
 	"items": [
 		{
 			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/01.json",
-			"type": "Manifest"
+			"type": "Manifest",
+			"label": { "de": ["Manifest 01"] }
 		},
 		{
 			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/02.json",
-			"type": "Manifest"
+			"type": "Manifest",
+			"label": { "de": ["Manifest 02"] }
 		}
 	]
 }
