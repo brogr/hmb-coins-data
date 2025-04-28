@@ -1,42 +1,42 @@
 {
 	"@context": "http://iiif.io/api/presentation/3/context.json",
-	"id": "https://hmb-coins.vercel.app/iiif/interview/manifest.json",
+	"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-audio.json",
 	"type": "Manifest",
 	"label": {
-		"de": ["Interview with coin collector"]
+		"de": ["Interview mit Münzsammlerin M. Bieri: Test Audio"]
 	},
 	"items": [
 		{
-			"id": "https://hmb-coins.vercel.app/iiif/interview/canvas-1",
+			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-audio/canvas-1",
 			"type": "Canvas",
 			"duration": 51.0,
 			"items": [
 				{
-					"id": "https://hmb-coins.vercel.app/iiif/interview/canvas-1/annopage-1",
+					"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-audio/canvas-1/annopage-1",
 					"type": "AnnotationPage",
 					"items": [
 						{
-							"id": "https://hmb-coins.vercel.app/iiif/interview/canvas-1/annopage-1/annotation",
+							"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-audio/canvas-1/annopage-1/annotation",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://hmb-coins.vercel.app/iiif/interview/audio/introduction.mp3",
+								"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-audio/audio/introduction.mp3",
 								"type": "Sound",
 								"format": "audio/mp3",
 								"duration": 51.0
 							},
-							"target": "https://hmb-coins.vercel.app/iiif/interview/canvas-1"
+							"target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-audio/canvas-1"
 						}
 					]
 				}
 			],
 			"annotations": [
 				{
-					"id": "https://hmb-coins.vercel.app/iiif/interview/canvas-1/annopage-1",
+					"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-audio/canvas-1/annopage-1",
 					"type": "AnnotationPage",
 					"items": [
 						{
-							"id": "https://hmb-coins.vercel.app/iiif/interview/canvas-1/annopage-1/annotation",
+							"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-audio/canvas-1/annopage-1/annotation",
 							"type": "Annotation",
 							"motivation": "commenting",
 							"body": {
