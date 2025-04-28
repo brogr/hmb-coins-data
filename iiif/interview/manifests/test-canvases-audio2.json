@@ -1,0 +1,148 @@
+{
+	"@context": "http://iiif.io/api/presentation/3/context.json",
+	"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-canvases-audio2.json",
+	"type": "Manifest",
+	"label": {
+		"de": ["Interview mit Münzsammlerin M. Bieri: Test Canvases audio2"]
+	},
+	"behavior": ["paged"],
+	"items": [
+		{
+			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-canvases-audio2/canvas-1",
+			"type": "Canvas",
+			"duration": 51.0,
+			"label": {
+				"de": ["Zeigen über der Gesamtansicht des Albums"]
+			},
+			"items": [
+				{
+					"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-canvases-audio2/canvas-1/annotation/page",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-canvases-audio2/canvas-1/annotation/image",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D001.jpg/full/max/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"service": [
+									{
+										"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D001.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
+							},
+							"target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-canvases-audio2/canvas-1"
+						}
+					]
+				}
+			],
+			"accompanyingCanvas": {
+				"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-canvases-audio2/canvas-1/accompanying",
+				"type": "Canvas",
+				"label": {
+					"de": ["Einführung zum Album"]
+				},
+				"items": [
+					{
+						"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-canvases-audio2/canvas-1/accompanying/annopage-1",
+						"type": "AnnotationPage",
+						"items": [
+							{
+								"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-canvases-audio2/canvas-1/accompanying/annopage-1/annotation",
+								"type": "Annotation",
+								"motivation": "painting",
+								"body": {
+									"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-canvases-audio2/audio/introduction.mp3",
+									"type": "Sound",
+									"format": "audio/mp3",
+									"duration": 51.0
+								},
+								"target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-canvases-audio2/canvas-1/accompanying"
+							}
+						]
+					}
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-canvases-audio2/canvas-1/annopage-1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-canvases-audio2/canvas-1/annopage-1/annotation",
+							"type": "Annotation",
+							"motivation": "commenting",
+							"body": {
+								"type": "TextualBody",
+								"language": "de",
+								"format": "text/plain",
+								"value": "Einführung zum Album"
+							},
+							"target": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-canvases-audio2/canvas-2",
+			"type": "Canvas",
+			"duration": 4072.0,
+			"label": {
+				"de": ["Gesamtes Interview"]
+			},
+
+			"items": [
+				{
+					"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-canvases-audio2/canvas-2/annotation/page",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-canvases-audio2/canvas-2/annotation/image",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D003.jpg/full/max/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"service": [
+									{
+										"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D003.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
+							},
+							"target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-canvases-audio2/canvas-2"
+						}
+					]
+				}
+			],
+
+			"annotations": [
+				{
+					"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-canvases-audio2/canvas-2/annopage-1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/test-canvases-audio2/canvas-2/annopage-1/annotation",
+							"type": "Annotation",
+							"motivation": "commenting",
+							"body": {
+								"type": "TextualBody",
+								"language": "de",
+								"format": "text/plain",
+								"value": "Gesamtes Interview"
+							},
+							"target": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1"
+						}
+					]
+				}
+			]
+		}
+	]
+}
