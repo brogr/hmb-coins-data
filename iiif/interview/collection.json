@@ -1,0 +1,16 @@
+{
+	"@context": "http://iiif.io/api/presentation/3/context.json",
+	"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/collection.json",
+	"type": "Collection",
+	"label": { "de": ["Interview mit Münzsammlerin M. Bieri"] },
+	"items": [
+		{
+			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/01.json",
+			"type": "Manifest"
+		},
+		{
+			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/02.json",
+			"type": "Manifest"
+		}
+	]
+}
