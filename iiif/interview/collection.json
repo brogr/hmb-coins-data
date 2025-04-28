@@ -7,77 +7,77 @@
 		{
 			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/01.json",
 			"type": "Manifest",
-			"label": { "de": ["Manifest 01"] }
+			"label": { "de": ["Manifest 001"] }
 		},
 		{
 			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/02.json",
 			"type": "Manifest",
-			"label": { "de": ["Manifest 02"] }
+			"label": { "de": ["Manifest 002"] }
 		},
 		{
 			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/03.json",
 			"type": "Manifest",
-			"label": { "de": ["Manifest 03"] }
+			"label": { "de": ["Manifest 003"] }
 		},
 		{
 			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04.json",
 			"type": "Manifest",
-			"label": { "de": ["Manifest 04"] }
+			"label": { "de": ["Manifest 004"] }
 		},
 		{
 			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/05.json",
 			"type": "Manifest",
-			"label": { "de": ["Manifest 05"] }
+			"label": { "de": ["Manifest 005"] }
 		},
 		{
 			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/06.json",
 			"type": "Manifest",
-			"label": { "de": ["Manifest 06"] }
+			"label": { "de": ["Manifest 006"] }
 		},
 		{
 			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/07.json",
 			"type": "Manifest",
-			"label": { "de": ["Manifest 07"] }
+			"label": { "de": ["Manifest 007"] }
 		},
 		{
 			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/08.json",
 			"type": "Manifest",
-			"label": { "de": ["Manifest 08"] }
+			"label": { "de": ["Manifest 008"] }
 		},
 		{
 			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/09.json",
 			"type": "Manifest",
-			"label": { "de": ["Manifest 09"] }
+			"label": { "de": ["Manifest 009"] }
 		},
 		{
 			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/10-11.json",
 			"type": "Manifest",
-			"label": { "de": ["Manifest 10-11"] }
+			"label": { "de": ["Manifest 010-011"] }
 		},
 		{
 			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/12.json",
 			"type": "Manifest",
-			"label": { "de": ["Manifest 12"] }
+			"label": { "de": ["Manifest 012"] }
 		},
 		{
 			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/13.json",
 			"type": "Manifest",
-			"label": { "de": ["Manifest 13"] }
+			"label": { "de": ["Manifest 013"] }
 		},
 		{
 			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/14.json",
 			"type": "Manifest",
-			"label": { "de": ["Manifest 14"] }
+			"label": { "de": ["Manifest 014"] }
 		},
 		{
 			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/15.json",
 			"type": "Manifest",
-			"label": { "de": ["Manifest 15"] }
+			"label": { "de": ["Manifest 015"] }
 		},
 		{
 			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/16.json",
 			"type": "Manifest",
-			"label": { "de": ["Manifest 16"] }
+			"label": { "de": ["Manifest 016"] }
 		}
 	]
 }
