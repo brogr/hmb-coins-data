@@ -1,0 +1,71 @@
+{
+	"@context": "http://iiif.io/api/presentation/3/context.json",
+	"id": "https://hmb-coins.vercel.app/iiif/interview/manifest.json",
+	"type": "Manifest",
+	"label": {
+		"de": ["Interview mit Münzsammlerin M. Bieri"]
+	},
+	"items": [
+		{
+			"id": "https://hmb-coins.vercel.app/iiif/interview/canvas-1",
+			"type": "Canvas",
+			"duration": 51.0,
+			"accompanyingCanvas": {
+				"id": "https://hmb-coins.vercel.app/iiif/interview/canvas-1/accompanying",
+				"type": "Canvas",
+				"label": {
+					"de": ["Zeigen über der Gesamtansicht des Albums"]
+				},
+				"items": [
+					{
+						"id": "https://hmb-coins.vercel.app/iiif/interview/canvas-1/accompanying/annotation/page",
+						"type": "AnnotationPage",
+						"items": [
+							{
+								"id": "https://hmb-coins.vercel.app/iiif/interview/canvas-1/accompanying/annotation/image",
+								"type": "Annotation",
+								"motivation": "painting",
+								"label": {
+									"de": ["Einführung zum Album"]
+								},
+								"body": {
+									"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D001.jpg/full/max/0/default.jpg",
+									"type": "Image",
+									"format": "image/jpeg",
+									"service": [
+										{
+											"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D001.jpg",
+											"type": "ImageService3",
+											"profile": "level2"
+										}
+									]
+								},
+								"target": "https://hmb-coins.vercel.app/iiif/interview/canvas-1/accompanying"
+							}
+						]
+					}
+				]
+			},
+			"items": [
+				{
+					"id": "https://hmb-coins.vercel.app/iiif/interview/canvas-1/annopage-1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://hmb-coins.vercel.app/iiif/interview/canvas-1/annopage-1/annotation",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://hmb-coins.vercel.app/iiif/interview/audio/introduction.mp3",
+								"type": "Sound",
+								"format": "audio/mp3",
+								"duration": 51.0
+							},
+							"target": "https://hmb-coins.vercel.app/iiif/interview/canvas-1"
+						}
+					]
+				}
+			]
+		}
+	]
+}
