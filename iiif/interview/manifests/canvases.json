@@ -16,8 +16,6 @@
 				"label": {
 					"de": ["Zeigen über der Gesamtansicht des Albums"]
 				},
-				"height": 7320,
-				"width": 5484,
 				"items": [
 					{
 						"id": "https://hmb-coins.vercel.app/iiif/interview/canvas-1/accompanying/annotation/page",
@@ -31,8 +29,6 @@
 									"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D001.jpg/full/max/0/default.jpg",
 									"type": "Image",
 									"format": "image/jpeg",
-									"height": 7320,
-									"width": 5484,
 									"service": [
 										{
 											"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D001.jpg",
@@ -98,8 +94,6 @@
 				"label": {
 					"de": ["Gesamtes Interview"]
 				},
-				"height": 7320,
-				"width": 5484,
 				"items": [
 					{
 						"id": "https://hmb-coins.vercel.app/iiif/interview/canvas-2/accompanying/annotation/page",
@@ -113,8 +107,6 @@
 									"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D003.jpg/full/max/0/default.jpg",
 									"type": "Image",
 									"format": "image/jpeg",
-									"height": 7320,
-									"width": 5484,
 									"service": [
 										{
 											"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D003.jpg",
