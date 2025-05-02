@@ -121,7 +121,7 @@
                 ]
               },
               "body": {
-                "id": "https://media.githubusercontent.com/media/brogr/hmb-coins-data/refs/heads/main/iiif/interview/audio/01_01_Einfu%CC%88hrung_zum_Album.mp3",
+                "id": "https://media.githubusercontent.com/media/brogr/hmb-coins-data/refs/heads/main/iiif/interview/audio/01_01_Einf%C3%BChrung_zum_Album.mp3",
                 "type": "Sound",
                 "format": "audio/mp3",
                 "duration": 51

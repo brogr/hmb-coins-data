@@ -121,7 +121,7 @@
                 ]
               },
               "body": {
-                "id": "https://media.githubusercontent.com/media/brogr/hmb-coins-data/refs/heads/main/iiif/interview/audio/03_01_Gedicht_zum_Mu%CC%88nzalbum.mp3",
+                "id": "https://media.githubusercontent.com/media/brogr/hmb-coins-data/refs/heads/main/iiif/interview/audio/03_01_Gedicht_zum_M%C3%BCnzalbum.mp3",
                 "type": "Sound",
                 "format": "audio/mp3",
                 "duration": 181
