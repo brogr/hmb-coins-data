@@ -5,6 +5,24 @@
 	"label": {
 		"de": ["Interview mit Münzsammlerin M. Bieri: Einführung zum Album"]
 	},
+	"metadata": [
+		{
+			"label": {
+				"de": ["Creator"]
+			},
+			"value": {
+				"de": ["Digitales Schaudepot"]
+			}
+		},
+		{
+			"label": {
+				"de": ["Description"]
+			},
+			"value": {
+				"de": ["Interview mit Münzsammlerin M. Bieri: Einführung zum Album"]
+			}
+		}
+	],
 	"items": [
 		{
 			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/01/canvas",
@@ -14,8 +32,18 @@
 				"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/01/canvas/accompanying",
 				"type": "Canvas",
 				"label": {
-					"de": ["Zeigen über der Gesamtansicht des Albums"]
+					"de": ["Einführung zum Album"]
 				},
+				"metadata": [
+					{
+						"label": {
+							"de": ["Description"]
+						},
+						"value": {
+							"de": ["Einführung zum Album"]
+						}
+					}
+				],
 				"items": [
 					{
 						"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/01/canvas/accompanying/annotation/page",
@@ -26,8 +54,18 @@
 								"type": "Annotation",
 								"motivation": "painting",
 								"label": {
-									"de": ["Einführung zum Album"]
+									"de": ["Zeigen über der Gesamtansicht des Albums"]
 								},
+								"metadata": [
+									{
+										"label": {
+											"de": ["Description"]
+										},
+										"value": {
+											"de": ["Zeigen über der Gesamtansicht des Albums"]
+										}
+									}
+								],
 								"body": {
 									"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D001.jpg/full/max/0/default.jpg",
 									"type": "Image",
@@ -55,8 +93,11 @@
 							"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/01/canvas/annopage/annotation",
 							"type": "Annotation",
 							"motivation": "painting",
+							"label": {
+								"de": ["Zeigen über der Gesamtansicht des Albums"]
+							},
 							"body": {
-								"id": "https://github.com/brogr/hmb-coins-data/raw/refs/heads/main/iiif/interview/audio/introduction.mp3",
+								"id": "https://github.com/brogr/hmb-coins-data/raw/refs/heads/main/iiif/interview/audio/01_01_Einführung_zum_Album.mp3",
 								"type": "Sound",
 								"format": "audio/mp3",
 								"duration": 51.0
