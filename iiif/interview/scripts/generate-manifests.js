@@ -148,7 +148,14 @@ async function generateManifests() {
 								if (annotation.body) {
 									// URL encode the image source
 									const encodedImageSrc = encodeURIComponent(image.src);
-									annotation.body.id = `${IMAGE_BASE_PATH}${encodedImageSrc}/full/max/0/default.jpg`;
+
+									// Use iiifImageRegion if available, otherwise use "full"
+									const imageRegion = image.iiifImageRegion
+										? image.iiifImageRegion
+										: "full";
+
+									// Construct the image URL with the appropriate region
+									annotation.body.id = `${IMAGE_BASE_PATH}${encodedImageSrc}/${imageRegion}/max/0/default.jpg`;
 
 									if (
 										annotation.body.service &&
@@ -204,8 +211,11 @@ async function generateManifests() {
 				}
 				if (image.src) {
 					const encodedImageSrc = encodeURIComponent(image.src);
+					const imageRegion = image.iiifImageRegion
+						? image.iiifImageRegion
+						: "full";
 					console.log(
-						`Image URL: ${IMAGE_BASE_PATH}${encodedImageSrc}/full/max/0/default.jpg`
+						`Image URL: ${IMAGE_BASE_PATH}${encodedImageSrc}/${imageRegion}/max/0/default.jpg`
 					);
 				}
 			}

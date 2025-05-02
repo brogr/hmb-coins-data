@@ -34,6 +34,7 @@
 			"images": [
 				{
 					"src": "2020-160-230_Gedicht Bieri.pdf",
+					"iiifImageRegion": "100,150,760,1300",
 					"startTime": 591,
 					"endTime": 772,
 					"duration": 181,
