@@ -144,15 +144,17 @@ async function generateManifests() {
 									annotation.metadata[0].value = { de: [description] };
 								}
 
-								// Update image body
+								// Update image body with URL encoded image source
 								if (annotation.body) {
-									annotation.body.id = `${IMAGE_BASE_PATH}${image.src}/full/max/0/default.jpg`;
+									// URL encode the image source
+									const encodedImageSrc = encodeURIComponent(image.src);
+									annotation.body.id = `${IMAGE_BASE_PATH}${encodedImageSrc}/full/max/0/default.jpg`;
 
 									if (
 										annotation.body.service &&
 										annotation.body.service.length > 0
 									) {
-										annotation.body.service[0].id = `${IMAGE_BASE_PATH}${image.src}`;
+										annotation.body.service[0].id = `${IMAGE_BASE_PATH}${encodedImageSrc}`;
 									}
 								}
 
@@ -173,10 +175,11 @@ async function generateManifests() {
 							// Use description WITHOUT prefix
 							annotation.label = { de: [description] };
 
-							// Update audio body
+							// Update audio body with URL encoded filename
 							if (annotation.body) {
-								// Fix the MP3 URL to use the correct format
-								annotation.body.id = `${AUDIO_BASE_URL}/${image.fileName}`;
+								// URL encode the MP3 filename
+								const encodedFileName = encodeURIComponent(image.fileName);
+								annotation.body.id = `${AUDIO_BASE_URL}/${encodedFileName}`;
 
 								// Set duration as float
 								annotation.body.duration = durationFloat;
@@ -194,9 +197,16 @@ async function generateManifests() {
 					`Created manifest: ${manifestPath} with label: "${prefixedLabel}"`
 				);
 
-				// Log the audio URL for verification
+				// Log the encoded URLs for verification
 				if (image.fileName) {
-					console.log(`Audio URL: ${AUDIO_BASE_URL}/${image.fileName}`);
+					const encodedFileName = encodeURIComponent(image.fileName);
+					console.log(`Audio URL: ${AUDIO_BASE_URL}/${encodedFileName}`);
+				}
+				if (image.src) {
+					const encodedImageSrc = encodeURIComponent(image.src);
+					console.log(
+						`Image URL: ${IMAGE_BASE_PATH}${encodedImageSrc}/full/max/0/default.jpg`
+					);
 				}
 			}
 		}
