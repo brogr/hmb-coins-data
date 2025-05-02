@@ -58,11 +58,19 @@ async function generateManifests() {
 				)}_${String(imageIndex + 1).padStart(2, "0")}`;
 				manifest.id = `${MANIFEST_BASE_PATH}/${manifestId}.json`;
 
-				// Create a consistent label that combines snippet title and image description
+				// Create a consistent label, checking if title and description are identical
 				let combinedLabel;
+
+				// Check if image has a description and it's not empty
 				if (image.description && image.description.trim() !== "") {
-					// If image has a description, format as "Snippet Title – Image Description"
-					combinedLabel = `${snippet.title} – ${image.description}`;
+					// Check if snippet title and image description are identical
+					if (snippet.title === image.description) {
+						// If they're identical, just use one of them
+						combinedLabel = snippet.title;
+					} else {
+						// If they're different, format as "Snippet Title – Image Description"
+						combinedLabel = `${snippet.title} – ${image.description}`;
+					}
 				} else {
 					// If no image description, just use the snippet title
 					combinedLabel = snippet.title;
