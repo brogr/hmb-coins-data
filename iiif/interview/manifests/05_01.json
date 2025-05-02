@@ -121,7 +121,7 @@
                 ]
               },
               "body": {
-                "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/audio/05_01_Wie_es_zu_den_vielen_Reisen_kam.mp3",
+                "id": "https://media.githubusercontent.com/media/brogr/hmb-coins-data/refs/heads/main/iiif/interview/audio/05_01_Wie_es_zu_den_vielen_Reisen_kam.mp3",
                 "type": "Sound",
                 "format": "audio/mp3",
                 "duration": 32

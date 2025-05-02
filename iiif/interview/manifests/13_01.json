@@ -121,7 +121,7 @@
                 ]
               },
               "body": {
-                "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/audio/13_01_Skandinavien.mp3",
+                "id": "https://media.githubusercontent.com/media/brogr/hmb-coins-data/refs/heads/main/iiif/interview/audio/13_01_Skandinavien.mp3",
                 "type": "Sound",
                 "format": "audio/mp3",
                 "duration": 40

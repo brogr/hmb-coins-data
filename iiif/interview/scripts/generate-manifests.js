@@ -8,7 +8,11 @@ async function generateManifests() {
 			"https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main";
 		const IIIF_BASE_URL = "https://philhist-vanuatu.philhist.unibas.ch/iiif/3";
 		const MANIFEST_BASE_PATH = `${GITHUB_BASE_URL}/iiif/interview/manifests`;
-		const AUDIO_BASE_URL = `${GITHUB_BASE_URL}/iiif/interview/audio`;
+
+		// Fix the audio URL to use media.githubusercontent.com instead of raw.githubusercontent.com
+		const AUDIO_BASE_URL =
+			"https://media.githubusercontent.com/media/brogr/hmb-coins-data/refs/heads/main/iiif/interview/audio";
+
 		const IMAGE_BASE_PATH = `${IIIF_BASE_URL}/coins%2Finterview%2F`;
 
 		// Define the interview prefix
@@ -171,6 +175,7 @@ async function generateManifests() {
 
 							// Update audio body
 							if (annotation.body) {
+								// Fix the MP3 URL to use the correct format
 								annotation.body.id = `${AUDIO_BASE_URL}/${image.fileName}`;
 
 								// Set duration as float
@@ -188,6 +193,11 @@ async function generateManifests() {
 				console.log(
 					`Created manifest: ${manifestPath} with label: "${prefixedLabel}"`
 				);
+
+				// Log the audio URL for verification
+				if (image.fileName) {
+					console.log(`Audio URL: ${AUDIO_BASE_URL}/${image.fileName}`);
+				}
 			}
 		}
 

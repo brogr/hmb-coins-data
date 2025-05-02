@@ -4,7 +4,7 @@
   "type": "Manifest",
   "label": {
     "de": [
-      "Interview mit Münzsammlerin M. Bieri: Afghanistan – Arabische Zahlen"
+      "Interview mit Münzsammlerin M. Bieri: Afghanistan – Arabische Zahlen II"
     ]
   },
   "metadata": [
@@ -28,7 +28,7 @@
       },
       "value": {
         "de": [
-          "Interview mit Münzsammlerin M. Bieri: Afghanistan – Arabische Zahlen"
+          "Interview mit Münzsammlerin M. Bieri: Afghanistan – Arabische Zahlen II"
         ]
       }
     }
@@ -43,7 +43,7 @@
         "type": "Canvas",
         "label": {
           "de": [
-            "Arabische Zahlen"
+            "Arabische Zahlen II"
           ]
         },
         "metadata": [
@@ -55,7 +55,7 @@
             },
             "value": {
               "de": [
-                "Arabische Zahlen"
+                "Arabische Zahlen II"
               ]
             }
           }
@@ -71,7 +71,7 @@
                 "motivation": "painting",
                 "label": {
                   "de": [
-                    "Arabische Zahlen"
+                    "Arabische Zahlen II"
                   ]
                 },
                 "metadata": [
@@ -83,7 +83,7 @@
                     },
                     "value": {
                       "de": [
-                        "Arabische Zahlen"
+                        "Arabische Zahlen II"
                       ]
                     }
                   }
@@ -117,11 +117,11 @@
               "motivation": "painting",
               "label": {
                 "de": [
-                  "Arabische Zahlen"
+                  "Arabische Zahlen II"
                 ]
               },
               "body": {
-                "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/audio/09_02_Afghanistan.mp3",
+                "id": "https://media.githubusercontent.com/media/brogr/hmb-coins-data/refs/heads/main/iiif/interview/audio/09_02_Afghanistan.mp3",
                 "type": "Sound",
                 "format": "audio/mp3",
                 "duration": 23

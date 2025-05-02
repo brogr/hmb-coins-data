@@ -121,7 +121,7 @@
                 ]
               },
               "body": {
-                "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/audio/02_01_Gesamtes_Interview.mp3",
+                "id": "https://media.githubusercontent.com/media/brogr/hmb-coins-data/refs/heads/main/iiif/interview/audio/02_01_Gesamtes_Interview.mp3",
                 "type": "Sound",
                 "format": "audio/mp3",
                 "duration": 4072

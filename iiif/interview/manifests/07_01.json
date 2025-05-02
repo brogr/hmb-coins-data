@@ -4,7 +4,7 @@
   "type": "Manifest",
   "label": {
     "de": [
-      "Interview mit Münzsammlerin M. Bieri: Entstehung des Münzalbums"
+      "Interview mit Münzsammlerin M. Bieri: Entstehung des Münzalbums – I"
     ]
   },
   "metadata": [
@@ -28,7 +28,7 @@
       },
       "value": {
         "de": [
-          "Interview mit Münzsammlerin M. Bieri: Entstehung des Münzalbums"
+          "Interview mit Münzsammlerin M. Bieri: Entstehung des Münzalbums – I"
         ]
       }
     }
@@ -43,7 +43,7 @@
         "type": "Canvas",
         "label": {
           "de": [
-            "Entstehung des Münzalbums"
+            "I"
           ]
         },
         "metadata": [
@@ -55,7 +55,7 @@
             },
             "value": {
               "de": [
-                "Entstehung des Münzalbums"
+                "I"
               ]
             }
           }
@@ -71,7 +71,7 @@
                 "motivation": "painting",
                 "label": {
                   "de": [
-                    "Entstehung des Münzalbums"
+                    "I"
                   ]
                 },
                 "metadata": [
@@ -83,7 +83,7 @@
                     },
                     "value": {
                       "de": [
-                        "Entstehung des Münzalbums"
+                        "I"
                       ]
                     }
                   }
@@ -117,11 +117,11 @@
               "motivation": "painting",
               "label": {
                 "de": [
-                  "Entstehung des Münzalbums"
+                  "I"
                 ]
               },
               "body": {
-                "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/audio/07_01_Entstehung_des_Münzalbums.mp3",
+                "id": "https://media.githubusercontent.com/media/brogr/hmb-coins-data/refs/heads/main/iiif/interview/audio/07_01_Entstehung_des_Münzalbums.mp3",
                 "type": "Sound",
                 "format": "audio/mp3",
                 "duration": 64
