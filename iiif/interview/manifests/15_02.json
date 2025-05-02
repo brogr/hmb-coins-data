@@ -1,0 +1,136 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/15_02.json",
+  "type": "Manifest",
+  "label": {
+    "de": [
+      "Interview mit Münzsammlerin M. Bieri: Das Ende des Sammelns – Digitale Zahlungen"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "de": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "de": [
+          "Digitales Schaudepot"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Description"
+        ]
+      },
+      "value": {
+        "de": [
+          "Interview mit Münzsammlerin M. Bieri: Das Ende des Sammelns – Digitale Zahlungen"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/15_02/canvas",
+      "type": "Canvas",
+      "duration": 39,
+      "accompanyingCanvas": {
+        "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/15_02/canvas/accompanying",
+        "type": "Canvas",
+        "label": {
+          "de": [
+            "Digitale Zahlungen"
+          ]
+        },
+        "metadata": [
+          {
+            "label": {
+              "de": [
+                "Description"
+              ]
+            },
+            "value": {
+              "de": [
+                "Digitale Zahlungen"
+              ]
+            }
+          }
+        ],
+        "items": [
+          {
+            "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/15_02/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/15_02/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "label": {
+                  "de": [
+                    "Digitale Zahlungen"
+                  ]
+                },
+                "metadata": [
+                  {
+                    "label": {
+                      "de": [
+                        "Description"
+                      ]
+                    },
+                    "value": {
+                      "de": [
+                        "Digitale Zahlungen"
+                      ]
+                    }
+                  }
+                ],
+                "body": {
+                  "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D021.jpg/full/max/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "service": [
+                    {
+                      "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D021.jpg",
+                      "type": "ImageService3",
+                      "profile": "level2"
+                    }
+                  ]
+                },
+                "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/15_02/canvas/accompanying"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/15_02/canvas/annopage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/15_02/canvas/annopage/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "de": [
+                  "Digitale Zahlungen"
+                ]
+              },
+              "body": {
+                "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/audio/15_02_Das_Ende_des_Sammelns.mp3",
+                "type": "Sound",
+                "format": "audio/mp3",
+                "duration": 39
+              },
+              "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/15_02/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+	"name": "iiif-manifest-generator",
+	"version": "1.0.0",
+	"description": "Generates IIIF manifests from interview data",
+	"type": "module",
+	"scripts": {
+		"generate-manifests": "node generate-manifests.js"
+	}
+}

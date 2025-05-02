@@ -1,0 +1,136 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/07_01.json",
+  "type": "Manifest",
+  "label": {
+    "de": [
+      "Interview mit Münzsammlerin M. Bieri: Entstehung des Münzalbums"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "de": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "de": [
+          "Digitales Schaudepot"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Description"
+        ]
+      },
+      "value": {
+        "de": [
+          "Interview mit Münzsammlerin M. Bieri: Entstehung des Münzalbums"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/07_01/canvas",
+      "type": "Canvas",
+      "duration": 64,
+      "accompanyingCanvas": {
+        "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/07_01/canvas/accompanying",
+        "type": "Canvas",
+        "label": {
+          "de": [
+            "Entstehung des Münzalbums"
+          ]
+        },
+        "metadata": [
+          {
+            "label": {
+              "de": [
+                "Description"
+              ]
+            },
+            "value": {
+              "de": [
+                "Entstehung des Münzalbums"
+              ]
+            }
+          }
+        ],
+        "items": [
+          {
+            "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/07_01/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/07_01/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "label": {
+                  "de": [
+                    "Entstehung des Münzalbums"
+                  ]
+                },
+                "metadata": [
+                  {
+                    "label": {
+                      "de": [
+                        "Description"
+                      ]
+                    },
+                    "value": {
+                      "de": [
+                        "Entstehung des Münzalbums"
+                      ]
+                    }
+                  }
+                ],
+                "body": {
+                  "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D007.jpg/full/max/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "service": [
+                    {
+                      "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D007.jpg",
+                      "type": "ImageService3",
+                      "profile": "level2"
+                    }
+                  ]
+                },
+                "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/07_01/canvas/accompanying"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/07_01/canvas/annopage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/07_01/canvas/annopage/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "de": [
+                  "Entstehung des Münzalbums"
+                ]
+              },
+              "body": {
+                "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/audio/07_01_Entstehung_des_Münzalbums.mp3",
+                "type": "Sound",
+                "format": "audio/mp3",
+                "duration": 64
+              },
+              "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/07_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

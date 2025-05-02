@@ -1,0 +1,136 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/05_01.json",
+  "type": "Manifest",
+  "label": {
+    "de": [
+      "Interview mit Münzsammlerin M. Bieri: Wie es zu den vielen Reisen kam"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "de": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "de": [
+          "Digitales Schaudepot"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Description"
+        ]
+      },
+      "value": {
+        "de": [
+          "Interview mit Münzsammlerin M. Bieri: Wie es zu den vielen Reisen kam"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/05_01/canvas",
+      "type": "Canvas",
+      "duration": 32,
+      "accompanyingCanvas": {
+        "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/05_01/canvas/accompanying",
+        "type": "Canvas",
+        "label": {
+          "de": [
+            "Wie es zu den vielen Reisen kam"
+          ]
+        },
+        "metadata": [
+          {
+            "label": {
+              "de": [
+                "Description"
+              ]
+            },
+            "value": {
+              "de": [
+                "Wie es zu den vielen Reisen kam"
+              ]
+            }
+          }
+        ],
+        "items": [
+          {
+            "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/05_01/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/05_01/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "label": {
+                  "de": [
+                    "Wie es zu den vielen Reisen kam"
+                  ]
+                },
+                "metadata": [
+                  {
+                    "label": {
+                      "de": [
+                        "Description"
+                      ]
+                    },
+                    "value": {
+                      "de": [
+                        "Wie es zu den vielen Reisen kam"
+                      ]
+                    }
+                  }
+                ],
+                "body": {
+                  "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D020.jpg/full/max/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "service": [
+                    {
+                      "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D020.jpg",
+                      "type": "ImageService3",
+                      "profile": "level2"
+                    }
+                  ]
+                },
+                "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/05_01/canvas/accompanying"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/05_01/canvas/annopage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/05_01/canvas/annopage/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "de": [
+                  "Wie es zu den vielen Reisen kam"
+                ]
+              },
+              "body": {
+                "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/audio/05_01_Wie_es_zu_den_vielen_Reisen_kam.mp3",
+                "type": "Sound",
+                "format": "audio/mp3",
+                "duration": 32
+              },
+              "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/05_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

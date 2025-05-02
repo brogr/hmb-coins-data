@@ -1,0 +1,136 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/08_02.json",
+  "type": "Manifest",
+  "label": {
+    "de": [
+      "Interview mit Münzsammlerin M. Bieri: Die erste Reise der Sammlung - Griechenland – Motive der griechischen Münzen"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "de": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "de": [
+          "Digitales Schaudepot"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Description"
+        ]
+      },
+      "value": {
+        "de": [
+          "Interview mit Münzsammlerin M. Bieri: Die erste Reise der Sammlung - Griechenland – Motive der griechischen Münzen"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/08_02/canvas",
+      "type": "Canvas",
+      "duration": 19,
+      "accompanyingCanvas": {
+        "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/08_02/canvas/accompanying",
+        "type": "Canvas",
+        "label": {
+          "de": [
+            "Motive der griechischen Münzen"
+          ]
+        },
+        "metadata": [
+          {
+            "label": {
+              "de": [
+                "Description"
+              ]
+            },
+            "value": {
+              "de": [
+                "Motive der griechischen Münzen"
+              ]
+            }
+          }
+        ],
+        "items": [
+          {
+            "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/08_02/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/08_02/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "label": {
+                  "de": [
+                    "Motive der griechischen Münzen"
+                  ]
+                },
+                "metadata": [
+                  {
+                    "label": {
+                      "de": [
+                        "Description"
+                      ]
+                    },
+                    "value": {
+                      "de": [
+                        "Motive der griechischen Münzen"
+                      ]
+                    }
+                  }
+                ],
+                "body": {
+                  "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D013.jpg/full/max/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "service": [
+                    {
+                      "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D013.jpg",
+                      "type": "ImageService3",
+                      "profile": "level2"
+                    }
+                  ]
+                },
+                "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/08_02/canvas/accompanying"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/08_02/canvas/annopage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/08_02/canvas/annopage/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "de": [
+                  "Motive der griechischen Münzen"
+                ]
+              },
+              "body": {
+                "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/audio/08_02_Die_erste_Reise_der_Sammlung_-_Griechenland.mp3",
+                "type": "Sound",
+                "format": "audio/mp3",
+                "duration": 19
+              },
+              "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/08_02/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

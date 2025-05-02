@@ -1,0 +1,136 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/03_01.json",
+  "type": "Manifest",
+  "label": {
+    "de": [
+      "Interview mit Münzsammlerin M. Bieri: Gedicht zum Münzalbum – Vorgelesenes Gedicht"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "de": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "de": [
+          "Digitales Schaudepot"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Description"
+        ]
+      },
+      "value": {
+        "de": [
+          "Interview mit Münzsammlerin M. Bieri: Gedicht zum Münzalbum – Vorgelesenes Gedicht"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/03_01/canvas",
+      "type": "Canvas",
+      "duration": 181,
+      "accompanyingCanvas": {
+        "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/03_01/canvas/accompanying",
+        "type": "Canvas",
+        "label": {
+          "de": [
+            "Vorgelesenes Gedicht"
+          ]
+        },
+        "metadata": [
+          {
+            "label": {
+              "de": [
+                "Description"
+              ]
+            },
+            "value": {
+              "de": [
+                "Vorgelesenes Gedicht"
+              ]
+            }
+          }
+        ],
+        "items": [
+          {
+            "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/03_01/canvas/accompanying/annotation/page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/03_01/canvas/accompanying/annotation/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "label": {
+                  "de": [
+                    "Vorgelesenes Gedicht"
+                  ]
+                },
+                "metadata": [
+                  {
+                    "label": {
+                      "de": [
+                        "Description"
+                      ]
+                    },
+                    "value": {
+                      "de": [
+                        "Vorgelesenes Gedicht"
+                      ]
+                    }
+                  }
+                ],
+                "body": {
+                  "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160-230_Gedicht Bieri.pdf/full/max/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "service": [
+                    {
+                      "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160-230_Gedicht Bieri.pdf",
+                      "type": "ImageService3",
+                      "profile": "level2"
+                    }
+                  ]
+                },
+                "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/03_01/canvas/accompanying"
+              }
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/03_01/canvas/annopage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/03_01/canvas/annopage/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "de": [
+                  "Vorgelesenes Gedicht"
+                ]
+              },
+              "body": {
+                "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/audio/03_01_Gedicht_zum_Münzalbum.mp3",
+                "type": "Sound",
+                "format": "audio/mp3",
+                "duration": 181
+              },
+              "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/03_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

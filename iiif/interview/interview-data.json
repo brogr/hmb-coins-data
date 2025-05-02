@@ -1,0 +1,366 @@
+{
+	"snippets": [
+		{
+			"title": "Einführung zum Album",
+			"transcript": "tbd",
+			"images": [
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D001.jpg",
+					"startTime": 0,
+					"endTime": 51,
+					"duration": 51,
+					"fileName": "01_01_Einführung_zum_Album.mp3",
+					"description": "Zeigen über der Gesamtansicht des Albums"
+				}
+			]
+		},
+		{
+			"title": "Gesamtes Interview",
+			"transcript": "tbd",
+			"images": [
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D003.jpg",
+					"startTime": 15,
+					"endTime": 4087,
+					"duration": 4072,
+					"fileName": "02_01_Gesamtes_Interview.mp3",
+					"description": "Gesamtes Interview"
+				}
+			]
+		},
+		{
+			"title": "Gedicht zum Münzalbum",
+			"transcript": "tbd",
+			"images": [
+				{
+					"src": "2020-160-230_Gedicht Bieri.pdf",
+					"startTime": 591,
+					"endTime": 772,
+					"duration": 181,
+					"fileName": "03_01_Gedicht_zum_Münzalbum.mp3",
+					"description": "Vorgelesenes Gedicht"
+				},
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D002.jpg",
+					"startTime": 3525,
+					"endTime": 3602,
+					"duration": 77,
+					"fileName": "03_02_Gedicht_zum_Münzalbum.mp3",
+					"description": "Schenkung an das Historische Museum"
+				}
+			]
+		},
+		{
+			"title": "Besondere Formen",
+			"transcript": "tbd",
+			"images": [
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D011.jpg",
+					"startTime": 1674,
+					"endTime": 1700,
+					"duration": 26,
+					"fileName": "04_01_Besondere_Formen.mp3",
+					"description": "Formen"
+				},
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D008.jpg",
+					"startTime": 1732,
+					"endTime": 1750,
+					"duration": 18,
+					"fileName": "04_02_Besondere_Formen.mp3",
+					"description": "Zweifarbige Münzen - Italien"
+				},
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D009.jpg",
+					"startTime": 1776,
+					"endTime": 1805,
+					"duration": 29,
+					"fileName": "04_03_Besondere_Formen.mp3",
+					"description": "Zweifarbige Münzen - Frankreich"
+				}
+			]
+		},
+		{
+			"title": "Wie es zu den vielen Reisen kam",
+			"transcript": "tbd",
+			"images": [
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D020.jpg",
+					"startTime": 100,
+					"endTime": 132,
+					"duration": 32,
+					"fileName": "05_01_Wie_es_zu_den_vielen_Reisen_kam.mp3",
+					"description": ""
+				}
+			]
+		},
+		{
+			"title": "Motivation für das Sammeln von Münzen",
+			"transcript": "tbd",
+			"images": [
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D011.jpg",
+					"startTime": 132,
+					"endTime": 170,
+					"duration": 38,
+					"fileName": "06_01_Motivation_für_das_Sammeln_von_Münzen.mp3",
+					"description": ""
+				},
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D017.jpg",
+					"startTime": 2594,
+					"endTime": 2617,
+					"duration": 23,
+					"fileName": "06_02_Motivation_für_das_Sammeln_von_Münzen.mp3",
+					"description": "Sammeln für sich selbst"
+				},
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D017.jpg",
+					"startTime": 2642,
+					"endTime": 2682,
+					"duration": 40,
+					"fileName": "06_03_Motivation_für_das_Sammeln_von_Münzen.mp3",
+					"description": "Auswahlkriterien"
+				},
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D015.jpg",
+					"startTime": 2860,
+					"endTime": 2914,
+					"duration": 54,
+					"fileName": "06_04_Motivation_für_das_Sammeln_von_Münzen.mp3",
+					"description": "Weibliches Sammeln"
+				}
+			]
+		},
+		{
+			"title": "Entstehung des Münzalbums",
+			"transcript": "tbd",
+			"images": [
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D007.jpg",
+					"startTime": 501,
+					"endTime": 565,
+					"duration": 64,
+					"fileName": "07_01_Entstehung_des_Münzalbums.mp3",
+					"description": ""
+				},
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D011.jpg",
+					"startTime": 843,
+					"endTime": 890,
+					"duration": 47,
+					"fileName": "07_02_Entstehung_des_Münzalbums.mp3",
+					"description": ""
+				},
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D005.jpg",
+					"startTime": 2434,
+					"endTime": 2525,
+					"duration": 91,
+					"fileName": "07_03_Entstehung_des_Münzalbums.mp3",
+					"description": "Systematik im Album"
+				},
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D019.jpg",
+					"startTime": 2556,
+					"endTime": 2583,
+					"duration": 27,
+					"fileName": "07_04_Entstehung_des_Münzalbums.mp3",
+					"description": "Schutz der Münzen"
+				}
+			]
+		},
+		{
+			"title": "Die erste Reise der Sammlung - Griechenland",
+			"transcript": "tbd",
+			"images": [
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D014.jpg",
+					"startTime": 1010,
+					"endTime": 1036,
+					"duration": 26,
+					"fileName": "08_01_Die_erste_Reise_der_Sammlung_-_Griechenland.mp3",
+					"description": "Frühe Reise nach Griechenland"
+				},
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D013.jpg",
+					"startTime": 1182,
+					"endTime": 1201,
+					"duration": 19,
+					"fileName": "08_02_Die_erste_Reise_der_Sammlung_-_Griechenland.mp3",
+					"description": "Motive der griechischen Münzen"
+				},
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D014.jpg",
+					"startTime": 1225,
+					"endTime": 1251,
+					"duration": 26,
+					"fileName": "08_03_Die_erste_Reise_der_Sammlung_-_Griechenland.mp3",
+					"description": "Auswahl der Münzen"
+				},
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D013.jpg",
+					"startTime": 1263,
+					"endTime": 1292,
+					"duration": 29,
+					"fileName": "08_04_Die_erste_Reise_der_Sammlung_-_Griechenland.mp3",
+					"description": "Lochform der Münzen"
+				},
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D013.jpg",
+					"startTime": 1329,
+					"endTime": 1348,
+					"duration": 19,
+					"fileName": "08_05_Die_erste_Reise_der_Sammlung_-_Griechenland.mp3",
+					"description": "Mythologie auf den Münzen"
+				}
+			]
+		},
+		{
+			"title": "Afghanistan",
+			"transcript": "tbd",
+			"images": [
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D011.jpg",
+					"startTime": 1351,
+					"endTime": 1364,
+					"duration": 13,
+					"fileName": "09_01_Afghanistan.mp3",
+					"description": "Arabische Zahlen"
+				},
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D012.jpg",
+					"startTime": 2690,
+					"endTime": 2713,
+					"duration": 23,
+					"fileName": "09_02_Afghanistan.mp3",
+					"description": "Arabische Zahlen"
+				},
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D011.jpg",
+					"startTime": 1890,
+					"endTime": 1918,
+					"duration": 28,
+					"fileName": "09_03_Afghanistan.mp3",
+					"description": "Wert von Münzen"
+				}
+			]
+		},
+		{
+			"title": "Finnland",
+			"transcript": "tbd",
+			"images": [
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D004.jpg",
+					"startTime": 1365,
+					"endTime": 1415,
+					"duration": 50,
+					"fileName": "10_01_Finnland.mp3",
+					"description": ""
+				}
+			]
+		},
+		{
+			"title": "Südafrika",
+			"transcript": "tbd",
+			"images": [
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D005.jpg",
+					"startTime": 1440,
+					"endTime": 1453,
+					"duration": 13,
+					"fileName": "11_01_Südafrika.mp3",
+					"description": ""
+				},
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D005.jpg",
+					"startTime": 1506,
+					"endTime": 1598,
+					"duration": 92,
+					"fileName": "11_02_Südafrika.mp3",
+					"description": ""
+				}
+			]
+		},
+		{
+			"title": "Australien",
+			"transcript": "tbd",
+			"images": [
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D018.jpg",
+					"startTime": 2792,
+					"endTime": 2813,
+					"duration": 21,
+					"fileName": "12_01_Australien.mp3",
+					"description": "Australien Reise"
+				},
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D017.jpg",
+					"startTime": 2813,
+					"endTime": 2866,
+					"duration": 53,
+					"fileName": "12_02_Australien.mp3",
+					"description": "Tiermotive"
+				}
+			]
+		},
+		{
+			"title": "Skandinavien",
+			"transcript": "tbd",
+			"images": [
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D003.jpg",
+					"startTime": 3205,
+					"endTime": 3245,
+					"duration": 40,
+					"fileName": "13_01_Skandinavien.mp3",
+					"description": "Kleine und billige Münzen"
+				}
+			]
+		},
+		{
+			"title": "Russland",
+			"transcript": "tbd",
+			"images": [
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D011.jpg",
+					"startTime": 3088,
+					"endTime": 3144,
+					"duration": 56,
+					"fileName": "14_01_Russland.mp3",
+					"description": "Schmuggel eines Rubels"
+				}
+			]
+		},
+		{
+			"title": "Das Ende des Sammelns",
+			"transcript": "tbd",
+			"images": [
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D007.jpg",
+					"startTime": 2927,
+					"endTime": 3010,
+					"duration": 83,
+					"fileName": "15_01_Das_Ende_des_Sammelns.mp3",
+					"description": "Globalisierung durch den Euro"
+				},
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D021.jpg",
+					"startTime": 3749,
+					"endTime": 3788,
+					"duration": 39,
+					"fileName": "15_02_Das_Ende_des_Sammelns.mp3",
+					"description": "Digitale Zahlungen"
+				},
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D022.jpg",
+					"startTime": 3840,
+					"endTime": 3903,
+					"duration": 63,
+					"fileName": "15_03_Das_Ende_des_Sammelns.mp3",
+					"description": "Digitale Zahlungen II"
+				}
+			]
+		}
+	]
+}
