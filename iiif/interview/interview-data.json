@@ -142,7 +142,7 @@
 					"endTime": 565,
 					"duration": 64,
 					"fileName": "07_01_Entstehung_des_Münzalbums.mp3",
-					"description": ""
+					"description": "I"
 				},
 				{
 					"src": "2020-160_shmjan_Muenzalbum_D011.jpg",
@@ -150,7 +150,7 @@
 					"endTime": 890,
 					"duration": 47,
 					"fileName": "07_02_Entstehung_des_Münzalbums.mp3",
-					"description": ""
+					"description": "II"
 				},
 				{
 					"src": "2020-160_shmjan_Muenzalbum_D005.jpg",
@@ -226,7 +226,7 @@
 					"endTime": 1364,
 					"duration": 13,
 					"fileName": "09_01_Afghanistan.mp3",
-					"description": "Arabische Zahlen"
+					"description": "Arabische Zahlen I"
 				},
 				{
 					"src": "2020-160_shmjan_Muenzalbum_D012.jpg",
@@ -234,7 +234,7 @@
 					"endTime": 2713,
 					"duration": 23,
 					"fileName": "09_02_Afghanistan.mp3",
-					"description": "Arabische Zahlen"
+					"description": "Arabische Zahlen II"
 				},
 				{
 					"src": "2020-160_shmjan_Muenzalbum_D011.jpg",
@@ -270,7 +270,7 @@
 					"endTime": 1453,
 					"duration": 13,
 					"fileName": "11_01_Südafrika.mp3",
-					"description": ""
+					"description": "I"
 				},
 				{
 					"src": "2020-160_shmjan_Muenzalbum_D005.jpg",
@@ -278,7 +278,7 @@
 					"endTime": 1598,
 					"duration": 92,
 					"fileName": "11_02_Südafrika.mp3",
-					"description": ""
+					"description": "II"
 				}
 			]
 		},
