@@ -1,5 +1,5 @@
 {
-	"name": "iiif-manifest-generator",
+	"name": "hmb-coins-iiif-manifest-generator-interview",
 	"version": "1.0.0",
 	"description": "Generates IIIF manifests from interview data",
 	"type": "module",

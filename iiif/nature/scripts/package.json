@@ -1,0 +1,9 @@
+{
+	"name": "hmb-coins-iiif-manifest-generator-nature",
+	"version": "1.0.0",
+	"description": "Generates IIIF manifests from nature data",
+	"type": "module",
+	"scripts": {
+		"generate-manifests": "node generate-manifests.js"
+	}
+}
