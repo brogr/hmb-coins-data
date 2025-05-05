@@ -20,7 +20,7 @@ async function generateManifests() {
 
 		// Define file paths
 		const TEMPLATE_PATH = "../manifests/_template.json";
-		const INTERVIEW_DATA_PATH = "../interview.json";
+		const INTERVIEW_DATA_PATH = "../../../data/interview.json";
 		const OUTPUT_DIR = "../manifests";
 
 		// Create output directory if it doesn't exist

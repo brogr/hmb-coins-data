@@ -13,7 +13,7 @@ Contains IIIF Representation API manifests, the data and scripts to generate the
 
 ## Use
 
-- manifests: `cd ./iiif/interview/scripts/ && npm run generate-manifests` ingests [interview.json](./iiif/interview/data/interview.json) to generate [manifests](./iiif/interview/manifests/) based on [\_template.json](./iiif/interview/manifests/_template.json), which are then linked to from the Exhibit.so story
+- manifests: `cd ./iiif/interview/scripts/ && npm run generate-manifests` ingests [interview.json](./data/interview.json) to generate [manifests](./iiif/interview/manifests/) based on [\_template.json](./iiif/interview/manifests/_template.json), which are then linked to from the Exhibit.so story
 - audio files: change into the directory containing the files to be compressed; execute [compress_mp3.sh](./iiif/interview/scripts/compress_mp3.sh); move the resulting files from the `_compressed/` directory to [./iiif/interview/audio/](./iiif/interview/audio/)
 
 # traces
