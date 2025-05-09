@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/3/context.json",
-	"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/50794.json",
+	"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/test-facing.json",
 	"type": "Manifest",
 	"label": {
 		"de": ["Nature on Coins: Naxos (Sizilien/Sikelia). Tetradrachmon"]
@@ -25,7 +25,7 @@
 	],
 	"items": [
 		{
-			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/50794/canvas",
+			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/test-facing/canvas",
 			"type": "Canvas",
 			"width": 2881,
 			"height": 1422,
@@ -35,11 +35,11 @@
 			"behavior": ["facing-pages"],
 			"items": [
 				{
-					"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/50794/canvas/annotation-1/page",
+					"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/test-facing/canvas/annotation-1/page",
 					"type": "AnnotationPage",
 					"items": [
 						{
-							"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/50794/canvas/annotation-1/image",
+							"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/test-facing/canvas/annotation-1/image",
 							"type": "Annotation",
 							"motivation": "painting",
 							"label": {
@@ -69,16 +69,16 @@
 									}
 								]
 							},
-							"target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/50794/canvas"
+							"target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/test-facing/canvas"
 						}
 					]
 				},
 				{
-					"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/50794/canvas/annotation-2/page",
+					"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/test-facing/canvas/annotation-2/page",
 					"type": "AnnotationPage",
 					"items": [
 						{
-							"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/50794/canvas/annotation-2/image",
+							"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/test-facing/canvas/annotation-2/image",
 							"type": "Annotation",
 							"motivation": "painting",
 							"label": {
@@ -110,7 +110,7 @@
 									}
 								]
 							},
-							"target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/50794/canvas"
+							"target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/test-facing/canvas"
 						}
 					]
 				}
