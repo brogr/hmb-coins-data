@@ -59,6 +59,8 @@
 								"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1995.21.-1995-21.JPG/full/max/0/default.jpg",
 								"type": "Image",
 								"format": "image/jpeg",
+								"width": 1449,
+								"height": 1422,
 								"service": [
 									{
 										"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1995.21.-1995-21.JPG",
@@ -111,6 +113,8 @@
 								"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1995.21.-1995-21--1.JPG/full/max/0/default.jpg",
 								"type": "Image",
 								"format": "image/jpeg",
+								"width": 1432,
+								"height": 1381,
 								"service": [
 									{
 										"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1995.21.-1995-21--1.JPG",
