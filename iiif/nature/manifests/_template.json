@@ -23,10 +23,16 @@
 			}
 		}
 	],
+	"behavior": ["paged"],
 	"items": [
 		{
 			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/50794/canvas-front",
 			"type": "Canvas",
+			"width": 1449,
+			"height": 1422,
+			"label": {
+				"de": ["Vorderseite"]
+			},
 			"items": [
 				{
 					"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/50794/canvas-front/accompanying/annotation/page",
@@ -70,6 +76,11 @@
 		{
 			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/50794/canvas-back",
 			"type": "Canvas",
+			"width": 1432,
+			"height": 1381,
+			"label": {
+				"de": ["Rückseite"]
+			},
 			"items": [
 				{
 					"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/50794/canvas-back/accompanying/annotation/page",
