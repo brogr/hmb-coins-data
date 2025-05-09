@@ -23,7 +23,7 @@
 			}
 		}
 	],
-	"behavior": ["continuous"],
+	"behavior": ["paged"],
 	"items": [
 		{
 			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/50794/canvas-front",
@@ -35,11 +35,11 @@
 			},
 			"items": [
 				{
-					"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/50794/canvas-front/accompanying/annotation/page",
+					"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/50794/canvas-front/annotation/page",
 					"type": "AnnotationPage",
 					"items": [
 						{
-							"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/50794/canvas-front/accompanying/annotation/image",
+							"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/50794/canvas-front/annotation/image",
 							"type": "Annotation",
 							"motivation": "painting",
 							"label": {
@@ -69,7 +69,7 @@
 									}
 								]
 							},
-							"target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/50794/canvas-front/accompanying"
+							"target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/50794/canvas-front"
 						}
 					]
 				}
@@ -85,11 +85,11 @@
 			},
 			"items": [
 				{
-					"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/50794/canvas-back/accompanying/annotation/page",
+					"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/50794/canvas-back/annotation/page",
 					"type": "AnnotationPage",
 					"items": [
 						{
-							"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/50794/canvas-back/accompanying/annotation/image",
+							"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/50794/canvas-back/annotation/image",
 							"type": "Annotation",
 							"motivation": "painting",
 							"label": {
@@ -123,7 +123,7 @@
 									}
 								]
 							},
-							"target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/50794/canvas-back/accompanying"
+							"target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/50794/canvas-back"
 						}
 					]
 				}
