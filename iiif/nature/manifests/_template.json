@@ -23,7 +23,7 @@
 			}
 		}
 	],
-	"behavior": ["paged"],
+	"behavior": ["continuous"],
 	"items": [
 		{
 			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/50794/canvas-front",
