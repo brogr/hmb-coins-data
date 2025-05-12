@@ -3,12 +3,31 @@
 	"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/test-paged2.json",
 	"type": "Manifest",
 	"label": {
-		"de": ["Nature on Coins: Naxos (Sizilien/Sikelia). Tetradrachmon"]
+		"de": ["Nature on Coins", "Naxos (Sizilien/Sikelia). Tetradrachmon"]
 	},
+	"requiredStatement": {
+		"label": { "de": ["Attribution"] },
+		"value": { "de": ["Historisches Museum Basel"] }
+	},
+	"provider": [
+		{
+			"id": "https://digitalesschaudepot.ch/",
+			"type": "Agent",
+			"label": { "de": ["Digitales Schaudepot"] },
+			"homepage": [
+				{
+					"id": "https://digitalesschaudepot.ch/",
+					"type": "Text",
+					"label": { "de": ["Digitales Schaudepot"] },
+					"format": "text/html"
+				}
+			]
+		}
+	],
 	"metadata": [
 		{
 			"label": {
-				"de": ["Creator"]
+				"de": ["Urheber"]
 			},
 			"value": {
 				"de": ["Digitales Schaudepot"]
@@ -16,10 +35,18 @@
 		},
 		{
 			"label": {
-				"de": ["Description"]
+				"de": ["Sammlung"]
 			},
 			"value": {
-				"de": ["Nature on Coins: Naxos (Sizilien/Sikelia). Tetradrachmon"]
+				"de": ["Nature on Coins"]
+			}
+		},
+		{
+			"label": {
+				"de": ["Beschreibung"]
+			},
+			"value": {
+				"de": ["Naxos (Sizilien/Sikelia). Tetradrachmon"]
 			}
 		}
 	],
@@ -48,7 +75,7 @@
 							"metadata": [
 								{
 									"label": {
-										"de": ["Description"]
+										"de": ["Beschreibung"]
 									},
 									"value": {
 										"de": ["Kopf des Dionysos mit Efeukranz nach rechts"]
@@ -100,7 +127,7 @@
 							"metadata": [
 								{
 									"label": {
-										"de": ["Description"]
+										"de": ["Beschreibung"]
 									},
 									"value": {
 										"de": [
