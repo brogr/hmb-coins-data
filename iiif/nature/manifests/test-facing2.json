@@ -1,0 +1,162 @@
+{
+	"@context": "http://iiif.io/api/presentation/3/context.json",
+	"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/test-paged2.json",
+	"type": "Manifest",
+	"label": {
+		"de": ["Naxos (Sizilien/Sikelia). Tetradrachmon"]
+	},
+	"requiredStatement": {
+		"label": { "de": ["Attribution"] },
+		"value": { "de": ["Historisches Museum Basel"] }
+	},
+	"provider": [
+		{
+			"id": "https://digitalesschaudepot.ch/",
+			"type": "Agent",
+			"label": { "de": ["Digitales Schaudepot"] },
+			"homepage": [
+				{
+					"id": "https://digitalesschaudepot.ch/",
+					"type": "Text",
+					"label": { "de": ["Digitales Schaudepot"] },
+					"format": "text/html"
+				}
+			]
+		}
+	],
+	"metadata": [
+		{
+			"label": {
+				"de": ["Urheber"]
+			},
+			"value": {
+				"de": ["Digitales Schaudepot"]
+			}
+		},
+		{
+			"label": {
+				"de": ["Sammlung"]
+			},
+			"value": {
+				"de": ["Nature on Coins"]
+			}
+		},
+		{
+			"label": {
+				"de": ["Beschreibung"]
+			},
+			"value": {
+				"de": ["Naxos (Sizilien/Sikelia). Tetradrachmon"]
+			}
+		}
+	],
+	"behavior": ["paged"],
+	"items": [
+		{
+			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/test-paged2/canvas-front",
+			"type": "Canvas",
+			"width": 1449,
+			"height": 1422,
+			"label": {
+				"de": ["Vorderseite"]
+			},
+			"behavior": ["facing-pages"],
+			"items": [
+				{
+					"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/test-paged2/canvas-front/annotation/page",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/test-paged2/canvas-front/annotation/image",
+							"type": "Annotation",
+							"motivation": "painting",
+							"label": {
+								"de": ["Kopf des Dionysos mit Efeukranz nach rechts"]
+							},
+							"metadata": [
+								{
+									"label": {
+										"de": ["Beschreibung"]
+									},
+									"value": {
+										"de": ["Kopf des Dionysos mit Efeukranz nach rechts"]
+									}
+								}
+							],
+							"body": {
+								"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1995.21.-1995-21.JPG/full/max/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"width": 1449,
+								"height": 1422,
+								"service": [
+									{
+										"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1995.21.-1995-21.JPG",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
+							},
+							"target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/test-paged2/canvas-front"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/test-paged2/canvas-back",
+			"type": "Canvas",
+			"width": 1432,
+			"height": 1381,
+			"label": {
+				"de": ["Rückseite"]
+			},
+			"behavior": ["facing-pages"],
+			"items": [
+				{
+					"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/test-paged2/canvas-back/annotation/page",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/test-paged2/canvas-back/annotation/image",
+							"type": "Annotation",
+							"motivation": "painting",
+							"label": {
+								"de": [
+									"N-AXI-ON (gr. Buchstaben analog lat.)._x000D_\nSitzender Silen von vorne, Kopf n.l., in der erhobenen Rechten Kantharos, Linke auf Boden aufgestützt."
+								]
+							},
+							"metadata": [
+								{
+									"label": {
+										"de": ["Beschreibung"]
+									},
+									"value": {
+										"de": [
+											"N-AXI-ON (gr. Buchstaben analog lat.)._x000D_\nSitzender Silen von vorne, Kopf n.l., in der erhobenen Rechten Kantharos, Linke auf Boden aufgestützt."
+										]
+									}
+								}
+							],
+							"body": {
+								"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1995.21.-1995-21--1.JPG/full/max/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"width": 1432,
+								"height": 1381,
+								"service": [
+									{
+										"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1995.21.-1995-21--1.JPG",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
+							},
+							"target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/test-paged2/canvas-back"
+						}
+					]
+				}
+			]
+		}
+	]
+}
