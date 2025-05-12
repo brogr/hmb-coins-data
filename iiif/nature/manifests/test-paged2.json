@@ -3,7 +3,7 @@
 	"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/test-paged2.json",
 	"type": "Manifest",
 	"label": {
-		"de": ["Nature on Coins", "Naxos (Sizilien/Sikelia). Tetradrachmon"]
+		"de": ["Naxos (Sizilien/Sikelia). Tetradrachmon"]
 	},
 	"requiredStatement": {
 		"label": { "de": ["Attribution"] },
