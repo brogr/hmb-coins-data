@@ -13,7 +13,7 @@ async function generateManifests() {
 		const AUDIO_BASE_URL =
 			"https://media.githubusercontent.com/media/brogr/hmb-coins-data/refs/heads/main/iiif/nature/audio";
 
-		const IMAGE_BASE_PATH = `${IIIF_BASE_URL}/coins%2Finterview%2F`;
+		const IMAGE_BASE_PATH = `${IIIF_BASE_URL}/coins%2Fnature_on_coins%2F`;
 
 		// Define the interview prefix
 		const INTERVIEW_PREFIX = "Interview mit Münzsammlerin M. Bieri: ";
