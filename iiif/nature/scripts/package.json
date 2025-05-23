@@ -4,6 +4,6 @@
 	"description": "Generates IIIF manifests from nature data",
 	"type": "module",
 	"scripts": {
-		"generate-manifests": "node generate-manifests.js"
+		"generate-manifests": "node generate-manifests-nature.js"
 	}
 }
