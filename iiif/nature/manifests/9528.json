@@ -130,30 +130,6 @@
     {
       "label": {
         "de": [
-          "EDTF Datum"
-        ]
-      },
-      "value": {
-        "de": [
-          "-520"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Datierung"
-        ]
-      },
-      "value": {
-        "de": [
-          "520 v. Chr."
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
           "Datierungsart"
         ]
       },
@@ -292,42 +268,6 @@
       "value": {
         "de": [
           "38.380844625717835, 16.409614689756257"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Ausstellungskategorie"
-        ]
-      },
-      "value": {
-        "de": [
-          "nature"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Tier-Tag"
-        ]
-      },
-      "value": {
-        "de": [
-          "Hirschkuh"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Mythologie-Tag"
-        ]
-      },
-      "value": {
-        "de": [
-          "Apollon; Daimon; Artemis"
         ]
       }
     }

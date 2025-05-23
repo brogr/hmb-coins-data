@@ -130,30 +130,6 @@
     {
       "label": {
         "de": [
-          "EDTF Datum"
-        ]
-      },
-      "value": {
-        "de": [
-          "-600/-550"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Datierung"
-        ]
-      },
-      "value": {
-        "de": [
-          "600 v. Chr. bis 550 v. Chr."
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
           "Datierungsinfo"
         ]
       },
@@ -388,30 +364,6 @@
       "value": {
         "de": [
           "Für die Schätzung (Stand Mai 2020) vgl. Leu Numismatik AG, Web Auction 12, 30.05.2020, Lot 416"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Ausstellungskategorie"
-        ]
-      },
-      "value": {
-        "de": [
-          "nature"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Tier-Tag"
-        ]
-      },
-      "value": {
-        "de": [
-          "Löwe"
         ]
       }
     }

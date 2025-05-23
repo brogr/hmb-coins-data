@@ -130,30 +130,6 @@
     {
       "label": {
         "de": [
-          "EDTF Datum"
-        ]
-      },
-      "value": {
-        "de": [
-          "-485/-478"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Datierung"
-        ]
-      },
-      "value": {
-        "de": [
-          "485 v. Chr. bis 478 v. Chr."
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
           "Datierungsart"
         ]
       },
@@ -292,54 +268,6 @@
       "value": {
         "de": [
           "37.07517534845927, 15.286603247311954"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Ausstellungskategorie"
-        ]
-      },
-      "value": {
-        "de": [
-          "nature"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Tier-Tag"
-        ]
-      },
-      "value": {
-        "de": [
-          "Delfin; Pferd"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Mythologie-Tag"
-        ]
-      },
-      "value": {
-        "de": [
-          "Arethusa"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Natur-Tag"
-        ]
-      },
-      "value": {
-        "de": [
-          "Quelle; Meer"
         ]
       }
     }

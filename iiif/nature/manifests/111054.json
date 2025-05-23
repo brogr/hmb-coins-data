@@ -142,30 +142,6 @@
     {
       "label": {
         "de": [
-          "EDTF Datum"
-        ]
-      },
-      "value": {
-        "de": [
-          "[-90]/[-50]"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Datierung"
-        ]
-      },
-      "value": {
-        "de": [
-          "-90]/[-50"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
           "Datierungsart"
         ]
       },
@@ -304,42 +280,6 @@
       "value": {
         "de": [
           "Alter Bestand"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Ausstellungskategorie"
-        ]
-      },
-      "value": {
-        "de": [
-          "nature"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Tier-Tag"
-        ]
-      },
-      "value": {
-        "de": [
-          "Wolf"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Mythologie-Tag"
-        ]
-      },
-      "value": {
-        "de": [
-          "Aphrodite"
         ]
       }
     }

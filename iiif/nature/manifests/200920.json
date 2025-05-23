@@ -130,30 +130,6 @@
     {
       "label": {
         "de": [
-          "EDTF Datum"
-        ]
-      },
-      "value": {
-        "de": [
-          "-170/-150"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Datierung"
-        ]
-      },
-      "value": {
-        "de": [
-          "170 v. Chr. bis 150 v. Chr."
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
           "Datierungsart"
         ]
       },
@@ -352,42 +328,6 @@
       "value": {
         "de": [
           "Sammlung Der Grigorian\n"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Ausstellungskategorie"
-        ]
-      },
-      "value": {
-        "de": [
-          "nature"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Tier-Tag"
-        ]
-      },
-      "value": {
-        "de": [
-          "Schlange"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Natur-Tag"
-        ]
-      },
-      "value": {
-        "de": [
-          "Efeu"
         ]
       }
     }

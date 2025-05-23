@@ -234,54 +234,6 @@
           "37.55752559168532, 14.072362774061181"
         ]
       }
-    },
-    {
-      "label": {
-        "de": [
-          "Ausstellungskategorie"
-        ]
-      },
-      "value": {
-        "de": [
-          "nature"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Tier-Tag"
-        ]
-      },
-      "value": {
-        "de": [
-          "Pferd; Löwe"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Mythologie-Tag"
-        ]
-      },
-      "value": {
-        "de": [
-          "Herakles"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Natur-Tag"
-        ]
-      },
-      "value": {
-        "de": [
-          "Palme"
-        ]
-      }
     }
   ],
   "behavior": [

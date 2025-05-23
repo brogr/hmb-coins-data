@@ -130,30 +130,6 @@
     {
       "label": {
         "de": [
-          "EDTF Datum"
-        ]
-      },
-      "value": {
-        "de": [
-          "-393/-370"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Datierung"
-        ]
-      },
-      "value": {
-        "de": [
-          "393 v. Chr. bis 370 v. Chr."
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
           "Datierungsart"
         ]
       },
@@ -328,42 +304,6 @@
       "value": {
         "de": [
           "Inschrift: Rs. AMY[N] - TA"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Ausstellungskategorie"
-        ]
-      },
-      "value": {
-        "de": [
-          "nature"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Tier-Tag"
-        ]
-      },
-      "value": {
-        "de": [
-          "Löwe; Adler"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Mythologie-Tag"
-        ]
-      },
-      "value": {
-        "de": [
-          "Herakles; Prometheus; Zeus"
         ]
       }
     }

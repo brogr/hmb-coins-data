@@ -198,30 +198,6 @@
           "Sammlungsobjekt"
         ]
       }
-    },
-    {
-      "label": {
-        "de": [
-          "Ausstellungskategorie"
-        ]
-      },
-      "value": {
-        "de": [
-          "nature"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Tier-Tag"
-        ]
-      },
-      "value": {
-        "de": [
-          "Pferd"
-        ]
-      }
     }
   ],
   "behavior": [

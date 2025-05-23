@@ -282,54 +282,6 @@
           "Inschrift: Vs. (Signatur nicht sichtbar) Rs. ΣY - PAK - O - ΣI - ΩN"
         ]
       }
-    },
-    {
-      "label": {
-        "de": [
-          "Ausstellungskategorie"
-        ]
-      },
-      "value": {
-        "de": [
-          "nature"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Tier-Tag"
-        ]
-      },
-      "value": {
-        "de": [
-          "Delfin; Pferd"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Mythologie-Tag"
-        ]
-      },
-      "value": {
-        "de": [
-          "Arethusa"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Natur-Tag"
-        ]
-      },
-      "value": {
-        "de": [
-          "Meer; Quelle"
-        ]
-      }
     }
   ],
   "behavior": [

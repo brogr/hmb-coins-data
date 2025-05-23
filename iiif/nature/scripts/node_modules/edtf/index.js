@@ -1,5 +1,0 @@
-export { edtf as default } from './src/edtf.js'
-export * from './src/types.js'
-export { Bitmask } from './src/bitmask.js'
-export { parse, defaults } from './src/parser.js'
-export { format } from './src/format.js'

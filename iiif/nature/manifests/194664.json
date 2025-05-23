@@ -270,30 +270,6 @@
           "Inschrift: Rand: Punzierung RR (Robert Cooper Ready, British Museum, 1859-1901)"
         ]
       }
-    },
-    {
-      "label": {
-        "de": [
-          "Ausstellungskategorie"
-        ]
-      },
-      "value": {
-        "de": [
-          "nature"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Natur-Tag"
-        ]
-      },
-      "value": {
-        "de": [
-          "Robbe"
-        ]
-      }
     }
   ],
   "behavior": [
