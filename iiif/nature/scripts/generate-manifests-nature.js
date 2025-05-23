@@ -483,17 +483,6 @@ async function generateManifests() {
 				coin.published_object_description
 			);
 
-			// Add DSD project info tags
-			if (coin.DSD_project_info) {
-				addMetadata(
-					"Ausstellungskategorie",
-					coin.DSD_project_info.exhibition_category
-				);
-				addMetadata("Tier-Tag", coin.DSD_project_info.animal_tag);
-				addMetadata("Mythologie-Tag", coin.DSD_project_info.mythology_tag);
-				addMetadata("Natur-Tag", coin.DSD_project_info.nature_tag);
-			}
-
 			// Replace the manifest metadata with our new metadata
 			manifest.metadata = newMetadata;
 
