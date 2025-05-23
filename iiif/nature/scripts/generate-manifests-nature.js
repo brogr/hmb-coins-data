@@ -221,13 +221,13 @@ async function generateManifests() {
 						: coin.inventory_relations.person_id;
 
 					const personLabel = `${personCategory ?? "Person"}${
-						personType ? "(" + personType + ")" : ""
+						personType ? " (" + personType + ")" : ""
 					}`;
 					const PersonNameId = `${personName}${
-						personId ? "(" + personId + ")" : ""
+						personId ? " (" + personId + ")" : ""
 					}`;
 
-					addMetadata("Person", PersonNameId, personLabel);
+					addMetadata(personLabel, PersonNameId);
 				}
 			}
 
