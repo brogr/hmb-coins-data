@@ -142,6 +142,18 @@
     {
       "label": {
         "de": [
+          "Datierung"
+        ]
+      },
+      "value": {
+        "de": [
+          "170 v. Chr. bis 150 v. Chr."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
           "Datierungsart"
         ]
       },
@@ -398,12 +410,12 @@
         {
           "label": {
             "de": [
-              "Beschreibung"
+              "Seite"
             ]
           },
           "value": {
             "de": [
-              "Vs. Cista mystica mit halbgeöffnetem Deckel, aus welcher sich eine Schlange windet, gebundener Efeukranz "
+              "Vorderseite"
             ]
           }
         }
@@ -451,12 +463,12 @@
         {
           "label": {
             "de": [
-              "Beschreibung"
+              "Seite"
             ]
           },
           "value": {
             "de": [
-              "Rs. zwei Schlangen mit erhobenen Köpfen schlingen sich um einen reich verzierten Köcher, Keule, Monogramm"
+              "Rückseite"
             ]
           }
         }

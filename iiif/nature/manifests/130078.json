@@ -142,6 +142,18 @@
     {
       "label": {
         "de": [
+          "Datierung"
+        ]
+      },
+      "value": {
+        "de": [
+          "361 v. Chr. bis 331 v. Chr."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
           "Datierungsart"
         ]
       },
@@ -338,12 +350,12 @@
         {
           "label": {
             "de": [
-              "Beschreibung"
+              "Seite"
             ]
           },
           "value": {
             "de": [
-              "Vs. Baal n.l. thronend "
+              "Vorderseite"
             ]
           }
         }
@@ -391,12 +403,12 @@
         {
           "label": {
             "de": [
-              "Beschreibung"
+              "Seite"
             ]
           },
           "value": {
             "de": [
-              "Rs. Löwe reisst Rind"
+              "Rückseite"
             ]
           }
         }

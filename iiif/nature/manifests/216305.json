@@ -142,6 +142,18 @@
     {
       "label": {
         "de": [
+          "Datierung"
+        ]
+      },
+      "value": {
+        "de": [
+          "600 v. Chr. bis 550 v. Chr."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
           "Datierungsinfo"
         ]
       },
@@ -422,12 +434,12 @@
         {
           "label": {
             "de": [
-              "Beschreibung"
+              "Seite"
             ]
           },
           "value": {
             "de": [
-              "Vs. Löwenprotome mit fünfstrahliger Warze n. r. "
+              "Vorderseite"
             ]
           }
         }
@@ -475,12 +487,12 @@
         {
           "label": {
             "de": [
-              "Beschreibung"
+              "Seite"
             ]
           },
           "value": {
             "de": [
-              "Rs. zwei quadrata incusa"
+              "Rückseite"
             ]
           }
         }

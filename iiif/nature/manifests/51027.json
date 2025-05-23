@@ -142,6 +142,18 @@
     {
       "label": {
         "de": [
+          "Datierung"
+        ]
+      },
+      "value": {
+        "de": [
+          "540 v. Chr. bis 510 v. Chr."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
           "Datierungsart"
         ]
       },
@@ -314,12 +326,12 @@
         {
           "label": {
             "de": [
-              "Beschreibung"
+              "Seite"
             ]
           },
           "value": {
             "de": [
-              "Vs. Pegasos n.l., darunter Beizeichen "
+              "Vorderseite"
             ]
           }
         }
@@ -367,12 +379,12 @@
         {
           "label": {
             "de": [
-              "Beschreibung"
+              "Seite"
             ]
           },
           "value": {
             "de": [
-              "Rs. Kopf der Athena Chalkrinitis mit korinthischem Helm n.r., in quadratum incusum"
+              "Rückseite"
             ]
           }
         }

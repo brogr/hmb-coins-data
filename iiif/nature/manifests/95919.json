@@ -142,6 +142,18 @@
     {
       "label": {
         "de": [
+          "Datierung"
+        ]
+      },
+      "value": {
+        "de": [
+          "-450]/[-430"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
           "Datierungsart"
         ]
       },
@@ -374,12 +386,12 @@
         {
           "label": {
             "de": [
-              "Beschreibung"
+              "Seite"
             ]
           },
           "value": {
             "de": [
-              "Vs. Kuh säugt Kalb "
+              "Vorderseite"
             ]
           }
         }
@@ -427,12 +439,12 @@
         {
           "label": {
             "de": [
-              "Beschreibung"
+              "Seite"
             ]
           },
           "value": {
             "de": [
-              "Rs. Sternmuster, darunter liegende Keule"
+              "Rückseite"
             ]
           }
         }

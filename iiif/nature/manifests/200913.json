@@ -142,6 +142,18 @@
     {
       "label": {
         "de": [
+          "Datierung"
+        ]
+      },
+      "value": {
+        "de": [
+          "450 v. Chr. bis 400 v. Chr."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
           "Datierungsart"
         ]
       },
@@ -422,12 +434,12 @@
         {
           "label": {
             "de": [
-              "Beschreibung"
+              "Seite"
             ]
           },
           "value": {
             "de": [
-              "Vs. Kopf der Athena nach rechts mit Lorbeer und mit Ranken geschmückter Helm "
+              "Vorderseite"
             ]
           }
         }
@@ -475,12 +487,12 @@
         {
           "label": {
             "de": [
-              "Beschreibung"
+              "Seite"
             ]
           },
           "value": {
             "de": [
-              "Rs. stehende Eule in Quatratum incusum nach rechts, links oben Olivenzweig, Legende"
+              "Rückseite"
             ]
           }
         }

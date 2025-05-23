@@ -1,6 +1,7 @@
 import fs from "fs/promises";
 import path from "path";
 import sharp from "sharp";
+import edtf from "edtf";
 
 async function generateManifests() {
 	try {
@@ -47,6 +48,204 @@ async function generateManifests() {
 				// Return default dimensions if image can't be read
 				return { width: 1000, height: 1000 };
 			}
+		};
+
+		// Function to format EDTF date to human-readable German format
+		const formatEdtfDateToGerman = (edtfString) => {
+			if (!edtfString) return "";
+
+			// Clean up the input string - remove square brackets if present
+			let cleanEdtfString = edtfString.replace(/^\[|\]$/g, "");
+
+			// Special handling for negative years and problematic formats
+			if (
+				cleanEdtfString.includes("-") &&
+				!cleanEdtfString.match(/^\d{4}-\d{2}/)
+			) {
+				// Try custom parsing for negative years and date ranges
+				return parseSpecialEdtfFormats(cleanEdtfString);
+			}
+
+			try {
+				const date = edtf(cleanEdtfString);
+
+				// Try to use the library's built-in German locale support first
+				let result = "";
+
+				if (date.type === "Interval") {
+					// Handle intervals (date ranges)
+					const fromFormatted = formatSingleDateToGerman(date.from);
+					const toFormatted = formatSingleDateToGerman(date.to);
+
+					if (!fromFormatted && toFormatted) {
+						result = `bis ${toFormatted}`;
+					} else if (fromFormatted && !toFormatted) {
+						result = `ab ${fromFormatted}`;
+					} else if (fromFormatted && toFormatted) {
+						result = `${fromFormatted} bis ${toFormatted}`;
+					}
+				} else {
+					// Handle single dates
+					result = formatSingleDateToGerman(date);
+				}
+
+				return result || edtfString;
+			} catch (error) {
+				console.warn(
+					`Could not parse EDTF date: ${edtfString}, trying special format parsing`,
+					error
+				);
+				return parseSpecialEdtfFormats(cleanEdtfString) || edtfString;
+			}
+		};
+
+		// Special parser for problematic EDTF formats, especially with negative years
+		const parseSpecialEdtfFormats = (edtfString) => {
+			// Handle date ranges with negative years like "-299/-200"
+			const negativeYearRangeRegex = /^-(\d+)\/-(\d+)$/;
+			const match = edtfString.match(negativeYearRangeRegex);
+
+			if (match) {
+				const startYear = parseInt(match[1]);
+				const endYear = parseInt(match[2]);
+				return `${startYear} v. Chr. bis ${endYear} v. Chr.`;
+			}
+
+			// Handle single negative years like "-299"
+			const singleNegativeYearRegex = /^-(\d+)$/;
+			const singleMatch = edtfString.match(singleNegativeYearRegex);
+
+			if (singleMatch) {
+				const year = parseInt(singleMatch[1]);
+				return `${year} v. Chr.`;
+			}
+
+			// Handle mixed ranges (negative to positive) like "-50/50"
+			const mixedRangeRegex = /^-(\d+)\/(\d+)$/;
+			const mixedMatch = edtfString.match(mixedRangeRegex);
+
+			if (mixedMatch) {
+				const startYear = parseInt(mixedMatch[1]);
+				const endYear = parseInt(mixedMatch[2]);
+				return `${startYear} v. Chr. bis ${endYear} n. Chr.`;
+			}
+
+			// Handle date ranges with positive years like "1600/1660"
+			const positiveYearRangeRegex = /^(\d+)\/(\d+)$/;
+			const positiveMatch = edtfString.match(positiveYearRangeRegex);
+
+			if (positiveMatch) {
+				const startYear = parseInt(positiveMatch[1]);
+				const endYear = parseInt(positiveMatch[2]);
+				return `${startYear} n. Chr. bis ${endYear} n. Chr.`;
+			}
+
+			// Handle open start ranges like "../1660"
+			if (edtfString.startsWith("../")) {
+				const year = edtfString.substring(3);
+				return `bis ${year} n. Chr.`;
+			}
+
+			// Handle open end ranges like "1600/.."
+			if (edtfString.endsWith("/..")) {
+				const year = edtfString.substring(0, edtfString.length - 3);
+				return `ab ${year} n. Chr.`;
+			}
+
+			// If no special format matches, return the original string
+			return edtfString;
+		};
+
+		// Helper function to format a single date to German
+		const formatSingleDateToGerman = (date) => {
+			if (!date) return "";
+
+			try {
+				// Try to use the library's locale support if available
+				if (typeof date.toLocaleString === "function") {
+					try {
+						// Try German locale first
+						let localized = date.toLocaleString("de-DE", {
+							year: "numeric",
+							month: "long",
+							day: "numeric",
+						});
+
+						// Add BCE/CE notation and uncertainty markers
+						if (date.year < 0) {
+							localized =
+								localized.replace(/\d+/, Math.abs(date.year)) + " v. Chr.";
+						} else {
+							localized += " n. Chr.";
+						}
+
+						// Add uncertainty/approximation markers
+						if (date.uncertain) {
+							localized += " (unsicher)";
+						} else if (date.approximate) {
+							localized += " (ungefähr)";
+						}
+
+						return localized;
+					} catch (localeError) {
+						// Fall back to custom formatting if locale support fails
+						console.warn("Locale formatting failed, using custom formatting");
+					}
+				}
+
+				// Custom German formatting as fallback
+				return formatDateCustomGerman(date);
+			} catch (error) {
+				console.warn("Date formatting error:", error);
+				return date.toString();
+			}
+		};
+
+		// Custom German date formatting (fallback)
+		const formatDateCustomGerman = (date) => {
+			if (!date) return "";
+
+			const monthNames = [
+				"Januar",
+				"Februar",
+				"März",
+				"April",
+				"Mai",
+				"Juni",
+				"Juli",
+				"August",
+				"September",
+				"Oktober",
+				"November",
+				"Dezember",
+			];
+
+			let result = "";
+
+			// Handle BCE dates (negative years)
+			const isNegative = date.year < 0;
+			const yearAbs = Math.abs(date.year);
+
+			// Build the date string
+			if (date.day && date.month) {
+				result = `${date.day}. ${monthNames[date.month - 1]} ${yearAbs}`;
+			} else if (date.month) {
+				result = `${monthNames[date.month - 1]} ${yearAbs}`;
+			} else {
+				result = `${yearAbs}`;
+			}
+
+			// Add BCE/CE notation
+			result += isNegative ? " v. Chr." : " n. Chr.";
+
+			// Add uncertainty markers
+			if (date.uncertain) {
+				result += " (unsicher)";
+			} else if (date.approximate) {
+				result += " (ungefähr)";
+			}
+
+			return result;
 		};
 
 		// Read the template and data
@@ -158,6 +357,15 @@ async function generateManifests() {
 			if (coin.creation_range) {
 				addMetadata("Entstehungszeit", coin.creation_range.creation_period);
 				addMetadata("EDTF Datum", coin.creation_range.EDTF_date);
+
+				// Add human-readable German date from EDTF using library's locale support
+				if (coin.creation_range.EDTF_date) {
+					const germanDate = formatEdtfDateToGerman(
+						coin.creation_range.EDTF_date
+					);
+					addMetadata("Datierung", germanDate);
+				}
+
 				addMetadata("Datierungsart", coin.creation_range.date_label);
 				addMetadata("Datierungsinfo", coin.creation_range.date_info);
 				addMetadata("Datierungskommentar", coin.creation_range.date_comment);
@@ -341,6 +549,7 @@ async function generateManifests() {
 				const images = [frontImage, backImage];
 				const canvasDescriptions = [frontDescription, backDescription];
 				const imageDimensions = [frontDimensions, backDimensions];
+				const sideNames = ["Vorderseite", "Rückseite"];
 
 				// For each canvas in the template, update with the corresponding image
 				for (let i = 0; i < manifest.items.length && i < 2; i++) {
@@ -349,6 +558,7 @@ async function generateManifests() {
 					const imageSrc = images[i];
 					const canvasDescription = canvasDescriptions[i];
 					const dimensions = imageDimensions[i];
+					const sideName = sideNames[i];
 
 					// Update canvas ID and dimensions
 					canvas.id = `${MANIFEST_BASE_PATH}/${manifestId}/${canvasName}`;
@@ -360,19 +570,20 @@ async function generateManifests() {
 						canvas.label = { de: [canvasDescription] };
 					} else {
 						// Fallback to generic labels if no specific description is available
-						canvas.label = { de: [i === 0 ? "Vorderseite" : "Rückseite"] };
+						canvas.label = { de: [sideName] };
 					}
 
-					// Update canvas metadata with the canvas-specific description
+					// Update canvas metadata to show which side of the coin it is
 					if (canvas.metadata && canvas.metadata.length > 0) {
 						// Update existing metadata
-						canvas.metadata[0].value = { de: [canvas.label.de[0]] };
+						canvas.metadata[0].label = { de: ["Seite"] };
+						canvas.metadata[0].value = { de: [sideName] };
 					} else {
 						// Create metadata if it doesn't exist
 						canvas.metadata = [
 							{
-								label: { de: ["Beschreibung"] },
-								value: { de: [canvas.label.de[0]] },
+								label: { de: ["Seite"] },
+								value: { de: [sideName] },
 							},
 						];
 					}
@@ -420,6 +631,13 @@ async function generateManifests() {
 				`  Using original_id: ${manifestId} for manifest ID and filename`
 			);
 			console.log(`  Added ${manifest.metadata.length} metadata entries`);
+
+			// Log EDTF date conversion if available
+			if (coin.creation_range && coin.creation_range.EDTF_date) {
+				const edtfDate = coin.creation_range.EDTF_date;
+				const germanDate = formatEdtfDateToGerman(edtfDate);
+				console.log(`  EDTF date "${edtfDate}" converted to: "${germanDate}"`);
+			}
 
 			// Log the image URLs for verification
 			if (coin.image_selection.image_front) {

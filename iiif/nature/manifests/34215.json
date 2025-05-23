@@ -154,6 +154,18 @@
     {
       "label": {
         "de": [
+          "Datierung"
+        ]
+      },
+      "value": {
+        "de": [
+          "-450]/[-430"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
           "Datierungsart"
         ]
       },
@@ -398,12 +410,12 @@
         {
           "label": {
             "de": [
-              "Beschreibung"
+              "Seite"
             ]
           },
           "value": {
             "de": [
-              "Vs. Apollonkopf nach rechts "
+              "Vorderseite"
             ]
           }
         }
@@ -451,12 +463,12 @@
         {
           "label": {
             "de": [
-              "Beschreibung"
+              "Seite"
             ]
           },
           "value": {
             "de": [
-              "Rs. Löwenkopf mit offenem Maul nach rechts, umgeben von vier Gerstenkörnern"
+              "Rückseite"
             ]
           }
         }

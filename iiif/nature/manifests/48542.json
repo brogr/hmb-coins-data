@@ -142,6 +142,18 @@
     {
       "label": {
         "de": [
+          "Datierung"
+        ]
+      },
+      "value": {
+        "de": [
+          "202 v. Chr. bis 133 v. Chr."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
           "Datierungsinfo"
         ]
       },
@@ -386,12 +398,12 @@
         {
           "label": {
             "de": [
-              "Beschreibung"
+              "Seite"
             ]
           },
           "value": {
             "de": [
-              "Vs. Biene im Perlkreis "
+              "Vorderseite"
             ]
           }
         }
@@ -439,12 +451,12 @@
         {
           "label": {
             "de": [
-              "Beschreibung"
+              "Seite"
             ]
           },
           "value": {
             "de": [
-              "Rs. Damhirsch n.r. vor Palme, rechts Magistratenname"
+              "Rückseite"
             ]
           }
         }

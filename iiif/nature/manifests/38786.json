@@ -142,6 +142,18 @@
     {
       "label": {
         "de": [
+          "Datierung"
+        ]
+      },
+      "value": {
+        "de": [
+          "310 v. Chr. bis 305 v. Chr."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
           "Datierungsart"
         ]
       },
@@ -410,12 +422,12 @@
         {
           "label": {
             "de": [
-              "Beschreibung"
+              "Seite"
             ]
           },
           "value": {
             "de": [
-              "Vs. Kopf Alexanders des Grossen in Elefantenskalp n.r. "
+              "Vorderseite"
             ]
           }
         }
@@ -463,12 +475,12 @@
         {
           "label": {
             "de": [
-              "Beschreibung"
+              "Seite"
             ]
           },
           "value": {
             "de": [
-              "Rs. Athena Promachos mit Helm, Speer und Schild schreitend n.r., rechts Monogramm H, Helm und Adler n.r."
+              "Rückseite"
             ]
           }
         }

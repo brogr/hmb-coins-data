@@ -142,6 +142,18 @@
     {
       "label": {
         "de": [
+          "Datierung"
+        ]
+      },
+      "value": {
+        "de": [
+          "389 v. Chr. bis 369 v. Chr."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
           "Datierungsart"
         ]
       },
@@ -410,12 +422,12 @@
         {
           "label": {
             "de": [
-              "Beschreibung"
+              "Seite"
             ]
           },
           "value": {
             "de": [
-              "Vs.Kopf des Herkules im Löwenfell nach rechts "
+              "Vorderseite"
             ]
           }
         }
@@ -463,12 +475,12 @@
         {
           "label": {
             "de": [
-              "Beschreibung"
+              "Seite"
             ]
           },
           "value": {
             "de": [
-              "Rs. Stehendes Pferd nach rechts, Legenden"
+              "Rückseite"
             ]
           }
         }

@@ -154,6 +154,18 @@
     {
       "label": {
         "de": [
+          "Datierung"
+        ]
+      },
+      "value": {
+        "de": [
+          "-405]/[-385"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
           "Gewicht"
         ]
       },
@@ -338,7 +350,7 @@
         {
           "label": {
             "de": [
-              "Beschreibung"
+              "Seite"
             ]
           },
           "value": {
@@ -391,7 +403,7 @@
         {
           "label": {
             "de": [
-              "Beschreibung"
+              "Seite"
             ]
           },
           "value": {

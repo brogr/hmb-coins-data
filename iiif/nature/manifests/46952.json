@@ -142,6 +142,18 @@
     {
       "label": {
         "de": [
+          "Datierung"
+        ]
+      },
+      "value": {
+        "de": [
+          "2000 n. Chr."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
           "Datierungsinfo"
         ]
       },
@@ -350,12 +362,12 @@
         {
           "label": {
             "de": [
-              "Beschreibung"
+              "Seite"
             ]
           },
           "value": {
             "de": [
-              "Vs. Kopf mit geperltem Lorbeerkranz nach rechts "
+              "Vorderseite"
             ]
           }
         }
@@ -403,12 +415,12 @@
         {
           "label": {
             "de": [
-              "Beschreibung"
+              "Seite"
             ]
           },
           "value": {
             "de": [
-              "Rs. Reiter nach rechts (\"Entenschnabelpferd\")"
+              "Rückseite"
             ]
           }
         }

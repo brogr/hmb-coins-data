@@ -242,12 +242,12 @@
         {
           "label": {
             "de": [
-              "Beschreibung"
+              "Seite"
             ]
           },
           "value": {
             "de": [
-              "Vs. Büste des Herrschers v. vorn "
+              "Vorderseite"
             ]
           }
         }
@@ -295,12 +295,12 @@
         {
           "label": {
             "de": [
-              "Beschreibung"
+              "Seite"
             ]
           },
           "value": {
             "de": [
-              "Rs. Schreitendes Pferd n.r."
+              "Rückseite"
             ]
           }
         }
