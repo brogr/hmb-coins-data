@@ -1,0 +1,338 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/18785.json",
+  "type": "Manifest",
+  "label": {
+    "de": [
+      "Parther. Dareios I. (um 70 v. Chr. ), Aes"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "de": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "de": [
+        "Historisches Museum Basel"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://digitalesschaudepot.ch/",
+      "type": "Agent",
+      "label": {
+        "de": [
+          "Digitales Schaudepot"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://digitalesschaudepot.ch/",
+          "type": "Text",
+          "label": {
+            "de": [
+              "Digitales Schaudepot"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "de": [
+          "Urheber"
+        ]
+      },
+      "value": {
+        "de": [
+          "Digitales Schaudepot"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Sammlung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Nature on Coins"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "de": [
+          "Parther. Dareios I. (um 70 v. Chr. ), Aes"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Beschreibung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Diese Münze zeigt die Büste eines Herrschers mit einem schreitenden Pferd auf der Rückseite."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Original ID"
+        ]
+      },
+      "value": {
+        "de": [
+          "18785"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Schlagwörter"
+        ]
+      },
+      "value": {
+        "de": [
+          "BK 4.11. Vt. 48 - Siegeszug der geprägten Münze, BK 4.11.04. Die grosse Expansion: Hellenistisches Münzwesen, BK ausgestellte Objekte fehlende Datierung, DSD Digitales Schaudepot Münzkabinett"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Datierungsinfo"
+        ]
+      },
+      "value": {
+        "de": [
+          "Zeitraum: um; Datierung: 70 v. Chr. "
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Inventarnummer"
+        ]
+      },
+      "value": {
+        "de": [
+          "1908.2306."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Standortgeschichte"
+        ]
+      },
+      "value": {
+        "de": [
+          "BK UG, Münzkabinett, 48, 13.11.2011, Stammplatz, BK 4.11. Vt. 48 - Siegeszug der geprägten Münze"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Dokumentation vorhanden"
+        ]
+      },
+      "value": {
+        "de": [
+          "Nein"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Projekt-ID"
+        ]
+      },
+      "value": {
+        "de": [
+          "noterfassungLRYGQFSX"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Projektbezeichnung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Noterfassung"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Objektstatus"
+        ]
+      },
+      "value": {
+        "de": [
+          "Sammlungsobjekt"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Ausstellungskategorie"
+        ]
+      },
+      "value": {
+        "de": [
+          "nature"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Tier-Tag"
+        ]
+      },
+      "value": {
+        "de": [
+          "Pferd"
+        ]
+      }
+    }
+  ],
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/18785/canvas-front",
+      "type": "Canvas",
+      "width": 1963,
+      "height": 1809,
+      "label": {
+        "de": [
+          "Vs. Büste des Herrschers v. vorn "
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "de": [
+              "Beschreibung"
+            ]
+          },
+          "value": {
+            "de": [
+              "Vs. Büste des Herrschers v. vorn "
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/18785/canvas-front/annotation/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/18785/canvas-front/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908-2306_shmemp.png/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1963,
+                "height": 1809,
+                "service": [
+                  {
+                    "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908-2306_shmemp.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/18785/canvas-front"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/18785/canvas-back",
+      "type": "Canvas",
+      "width": 1987,
+      "height": 1840,
+      "label": {
+        "de": [
+          "Rs. Schreitendes Pferd n.r."
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "de": [
+              "Beschreibung"
+            ]
+          },
+          "value": {
+            "de": [
+              "Rs. Schreitendes Pferd n.r."
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/18785/canvas-back/annotation/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/18785/canvas-back/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908-2306--1_shmemp.png/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1987,
+                "height": 1840,
+                "service": [
+                  {
+                    "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908-2306--1_shmemp.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/18785/canvas-back"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

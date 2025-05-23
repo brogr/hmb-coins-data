@@ -1,0 +1,446 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/53192.json",
+  "type": "Manifest",
+  "label": {
+    "de": [
+      "Gela, Sizilien. Tetradrachme"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "de": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "de": [
+        "Historisches Museum Basel"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://digitalesschaudepot.ch/",
+      "type": "Agent",
+      "label": {
+        "de": [
+          "Digitales Schaudepot"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://digitalesschaudepot.ch/",
+          "type": "Text",
+          "label": {
+            "de": [
+              "Digitales Schaudepot"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "de": [
+          "Urheber"
+        ]
+      },
+      "value": {
+        "de": [
+          "Digitales Schaudepot"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Sammlung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Nature on Coins"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "de": [
+          "Gela, Sizilien. Tetradrachme"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Beschreibung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Der Stier mit langem Bart weist auf seine Symbolisierung von Zeus hin. Das Pferd auf der Rückseite könnte Areion sein, das von Poseidon und Demeter in Gestalt von Pferden gezeugt wurde."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Alternativer Titel"
+        ]
+      },
+      "value": {
+        "de": [
+          "Tetradrachmon"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Original ID"
+        ]
+      },
+      "value": {
+        "de": [
+          "53192"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Schlagwörter"
+        ]
+      },
+      "value": {
+        "de": [
+          "DSD Digitales Schaudepot Münzkabinett"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Entstehungszeit"
+        ]
+      },
+      "value": {
+        "de": [
+          "ca. 420 v. Chr. bis ca. 415 v. Chr."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "EDTF Datum"
+        ]
+      },
+      "value": {
+        "de": [
+          "[-420]/[-415]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Datierungsart"
+        ]
+      },
+      "value": {
+        "de": [
+          "ohne Jahr"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Gewicht"
+        ]
+      },
+      "value": {
+        "de": [
+          "17.41 g"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Durchmesser"
+        ]
+      },
+      "value": {
+        "de": [
+          "25 mm"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Inventarnummer"
+        ]
+      },
+      "value": {
+        "de": [
+          "1908.674."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Dokumentation vorhanden"
+        ]
+      },
+      "value": {
+        "de": [
+          "Nein"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Projekt-ID"
+        ]
+      },
+      "value": {
+        "de": [
+          "noterfassungLRYGQFSX"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Projektbezeichnung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Noterfassung"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Objektstatus"
+        ]
+      },
+      "value": {
+        "de": [
+          "Sammlungsobjekt"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Material"
+        ]
+      },
+      "value": {
+        "de": [
+          "Silber"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Technik"
+        ]
+      },
+      "value": {
+        "de": [
+          "geprägt"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Stempelstellung"
+        ]
+      },
+      "value": {
+        "de": [
+          "120°"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Erwerbungsart"
+        ]
+      },
+      "value": {
+        "de": [
+          "Alter Bestand"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Ausstellungskategorie"
+        ]
+      },
+      "value": {
+        "de": [
+          "nature"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Tier-Tag"
+        ]
+      },
+      "value": {
+        "de": [
+          "Stier; Pferd"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Mythologie-Tag"
+        ]
+      },
+      "value": {
+        "de": [
+          "Zeus; Areion; Demeter; Poseidon"
+        ]
+      }
+    }
+  ],
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/53192/canvas-front",
+      "type": "Canvas",
+      "width": 1654,
+      "height": 1666,
+      "label": {
+        "de": [
+          "Vorderseite"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "de": [
+              "Beschreibung"
+            ]
+          },
+          "value": {
+            "de": [
+              "Vorderseite"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/53192/canvas-front/annotation/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/53192/canvas-front/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908-674_shmsea.JPG/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1654,
+                "height": 1666,
+                "service": [
+                  {
+                    "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908-674_shmsea.JPG",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/53192/canvas-front"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/53192/canvas-back",
+      "type": "Canvas",
+      "width": 1672,
+      "height": 1738,
+      "label": {
+        "de": [
+          "Rückseite"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "de": [
+              "Beschreibung"
+            ]
+          },
+          "value": {
+            "de": [
+              "Rückseite"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/53192/canvas-back/annotation/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/53192/canvas-back/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908-674--1_shmsea.JPG/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1672,
+                "height": 1738,
+                "service": [
+                  {
+                    "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908-674--1_shmsea.JPG",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/53192/canvas-back"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/87370.json",
+  "type": "Manifest",
+  "label": {
+    "de": [
+      "Zeugitanien, Karthago. Elektron-Stater, 350-320 v. Chr."
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "de": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "de": [
+        "Historisches Museum Basel"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://digitalesschaudepot.ch/",
+      "type": "Agent",
+      "label": {
+        "de": [
+          "Digitales Schaudepot"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://digitalesschaudepot.ch/",
+          "type": "Text",
+          "label": {
+            "de": [
+              "Digitales Schaudepot"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "de": [
+          "Urheber"
+        ]
+      },
+      "value": {
+        "de": [
+          "Digitales Schaudepot"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Sammlung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Nature on Coins"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "de": [
+          "Zeugitanien, Karthago. Elektron-Stater, 350-320 v. Chr."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Beschreibung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Die Münze aus Karthago zeigt die Göttin der Fruchtbarkeit Tanit, welche die wichtigste weibliche Göttin Karthagos war. Auf der Rückseite steht ein Pferd."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Original ID"
+        ]
+      },
+      "value": {
+        "de": [
+          "87370"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Schlagwörter"
+        ]
+      },
+      "value": {
+        "de": [
+          "BK 4.08. Vt. 111 - Die Aussagekraft der Münzen, BK 4.08.01. Heilige Repräsentanten: Götter und Heilige, BK ausgestellte Objekte fehlende Datierung, DSD Digitales Schaudepot Münzkabinett"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Datierungsart"
+        ]
+      },
+      "value": {
+        "de": [
+          "ohne Jahr"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Datierungsinfo"
+        ]
+      },
+      "value": {
+        "de": [
+          "Datierung: 350 - 320 v. Chr."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Gewicht"
+        ]
+      },
+      "value": {
+        "de": [
+          "7.6 g"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Durchmesser"
+        ]
+      },
+      "value": {
+        "de": [
+          "19 mm"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Inventarnummer"
+        ]
+      },
+      "value": {
+        "de": [
+          "1908.2575."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Standortgeschichte"
+        ]
+      },
+      "value": {
+        "de": [
+          "BK UG, Münzkabinett, 111, 13.11.2011, Stammplatz, BK 4.08. Vt. 111 - Die Aussagekraft der Münzen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Dokumentation vorhanden"
+        ]
+      },
+      "value": {
+        "de": [
+          "Nein"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Projekt-ID"
+        ]
+      },
+      "value": {
+        "de": [
+          "dauerausstellung_neukonzeption_2007_20110BB1KMCC"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Projektbezeichnung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Dauerausstellung Neukonzeption 2007-2011"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Objektstatus"
+        ]
+      },
+      "value": {
+        "de": [
+          "Sammlungsobjekt"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Technik"
+        ]
+      },
+      "value": {
+        "de": [
+          "geprägt"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Entstehungsort"
+        ]
+      },
+      "value": {
+        "de": [
+          "Karthago"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Koordinaten"
+        ]
+      },
+      "value": {
+        "de": [
+          "36.85761332523813, 10.33160752800727"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Ausstellungskategorie"
+        ]
+      },
+      "value": {
+        "de": [
+          "nature"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Tier-Tag"
+        ]
+      },
+      "value": {
+        "de": [
+          "Pferd"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Mythologie-Tag"
+        ]
+      },
+      "value": {
+        "de": [
+          "Tanit"
+        ]
+      }
+    }
+  ],
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/87370/canvas-front",
+      "type": "Canvas",
+      "width": 1373,
+      "height": 1370,
+      "label": {
+        "de": [
+          "Vs.\tTanitkopf (Tanit = Hauptgöttin Karthagos) nach links mit Halskette "
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "de": [
+              "Beschreibung"
+            ]
+          },
+          "value": {
+            "de": [
+              "Vs.\tTanitkopf (Tanit = Hauptgöttin Karthagos) nach links mit Halskette "
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/87370/canvas-front/annotation/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/87370/canvas-front/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908-2575.png/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1373,
+                "height": 1370,
+                "service": [
+                  {
+                    "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908-2575.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/87370/canvas-front"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/87370/canvas-back",
+      "type": "Canvas",
+      "width": 1379,
+      "height": 1372,
+      "label": {
+        "de": [
+          "Rs.\tPferd nach rechts stehend"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "de": [
+              "Beschreibung"
+            ]
+          },
+          "value": {
+            "de": [
+              "Rs.\tPferd nach rechts stehend"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/87370/canvas-back/annotation/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/87370/canvas-back/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908-2575--1.png/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1379,
+                "height": 1372,
+                "service": [
+                  {
+                    "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908-2575--1.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/87370/canvas-back"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

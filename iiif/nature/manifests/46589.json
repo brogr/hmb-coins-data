@@ -1,0 +1,410 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/46589.json",
+  "type": "Manifest",
+  "label": {
+    "de": [
+      "Thrakien, Ainos. Tetradrachme"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "de": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "de": [
+        "Historisches Museum Basel"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://digitalesschaudepot.ch/",
+      "type": "Agent",
+      "label": {
+        "de": [
+          "Digitales Schaudepot"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://digitalesschaudepot.ch/",
+          "type": "Text",
+          "label": {
+            "de": [
+              "Digitales Schaudepot"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "de": [
+          "Urheber"
+        ]
+      },
+      "value": {
+        "de": [
+          "Digitales Schaudepot"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Sammlung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Nature on Coins"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "de": [
+          "Thrakien, Ainos. Tetradrachme"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Beschreibung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Der Adler ist Symbol des Zeus, die Ziege war eine häufige Opfergabe für ihn. Der Kopf von Hermes auf der anderen Seite soll möglicherweise die Botschaft an Zeus überbringen."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Original ID"
+        ]
+      },
+      "value": {
+        "de": [
+          "46589"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Schlagwörter"
+        ]
+      },
+      "value": {
+        "de": [
+          "BK 4.08. Vt. 111 - Die Aussagekraft der Münzen, BK 4.08.01. Heilige Repräsentanten: Götter und Heilige, BK ausgestellte Objekte fehlende Datierung, DSD Digitales Schaudepot Münzkabinett"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Datierungsart"
+        ]
+      },
+      "value": {
+        "de": [
+          "ohne Jahr"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Datierungsinfo"
+        ]
+      },
+      "value": {
+        "de": [
+          "Datierung: 359 - 356 v. Chr.-"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Inventarnummer"
+        ]
+      },
+      "value": {
+        "de": [
+          "1908.993."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Standortgeschichte"
+        ]
+      },
+      "value": {
+        "de": [
+          "BK UG, Münzkabinett, 111, 13.11.2011, Stammplatz, BK 4.08. Vt. 111 - Die Aussagekraft der Münzen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Dokumentation vorhanden"
+        ]
+      },
+      "value": {
+        "de": [
+          "Nein"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Projekt-ID"
+        ]
+      },
+      "value": {
+        "de": [
+          "dauerausstellung_neukonzeption_2007_20110BB1KMCC"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Projektbezeichnung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Dauerausstellung Neukonzeption 2007-2011"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Objektstatus"
+        ]
+      },
+      "value": {
+        "de": [
+          "Sammlungsobjekt"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Material"
+        ]
+      },
+      "value": {
+        "de": [
+          "Silber"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Technik"
+        ]
+      },
+      "value": {
+        "de": [
+          "geprägt"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Entstehungsort"
+        ]
+      },
+      "value": {
+        "de": [
+          "Ainos (Thrakien)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Koordinaten"
+        ]
+      },
+      "value": {
+        "de": [
+          "40.724227354324306, 26.08447327871501"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Ausstellungskategorie"
+        ]
+      },
+      "value": {
+        "de": [
+          "nature"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Tier-Tag"
+        ]
+      },
+      "value": {
+        "de": [
+          "Adler; Ziege"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Mythologie-Tag"
+        ]
+      },
+      "value": {
+        "de": [
+          "Zeus; Hermes"
+        ]
+      }
+    }
+  ],
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/46589/canvas-front",
+      "type": "Canvas",
+      "width": 2734,
+      "height": 2555,
+      "label": {
+        "de": [
+          "Vs. Hermeskopf fast frontal "
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "de": [
+              "Beschreibung"
+            ]
+          },
+          "value": {
+            "de": [
+              "Vs. Hermeskopf fast frontal "
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/46589/canvas-front/annotation/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/46589/canvas-front/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908-993.png/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2734,
+                "height": 2555,
+                "service": [
+                  {
+                    "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908-993.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/46589/canvas-front"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/46589/canvas-back",
+      "type": "Canvas",
+      "width": 2692,
+      "height": 2418,
+      "label": {
+        "de": [
+          "Rs. Ziege n.r. stehend"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "de": [
+              "Beschreibung"
+            ]
+          },
+          "value": {
+            "de": [
+              "Rs. Ziege n.r. stehend"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/46589/canvas-back/annotation/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/46589/canvas-back/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908-993--1.png/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2692,
+                "height": 2418,
+                "service": [
+                  {
+                    "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908-993--1.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/46589/canvas-back"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

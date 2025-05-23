@@ -1,0 +1,434 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/13602.json",
+  "type": "Manifest",
+  "label": {
+    "de": [
+      "Peleponnes, Elis. Stater, um 404 v. Chr."
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "de": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "de": [
+        "Historisches Museum Basel"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://digitalesschaudepot.ch/",
+      "type": "Agent",
+      "label": {
+        "de": [
+          "Digitales Schaudepot"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://digitalesschaudepot.ch/",
+          "type": "Text",
+          "label": {
+            "de": [
+              "Digitales Schaudepot"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "de": [
+          "Urheber"
+        ]
+      },
+      "value": {
+        "de": [
+          "Digitales Schaudepot"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Sammlung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Nature on Coins"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "de": [
+          "Peleponnes, Elis. Stater, um 404 v. Chr."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Beschreibung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Die Münze zeigt einen Adler, der mit einer Schlange kämpft. Auf der Rückseite ist ein gebündelter Blitz dargestellt. Sowohl der Adler als auch der Blitz sind Symbole für Zeus."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Original ID"
+        ]
+      },
+      "value": {
+        "de": [
+          "13602"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Schlagwörter"
+        ]
+      },
+      "value": {
+        "de": [
+          "BK 4.08. Vt. 111 - Die Aussagekraft der Münzen, BK 4.08.01. Heilige Repräsentanten: Götter und Heilige, BK ausgestellte Objekte fehlende Datierung, DSD Digitales Schaudepot Münzkabinett"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Datierungsart"
+        ]
+      },
+      "value": {
+        "de": [
+          "ohne Jahr"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Datierungsinfo"
+        ]
+      },
+      "value": {
+        "de": [
+          "Datierung: ca. 404 v. Chr."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Inventarnummer"
+        ]
+      },
+      "value": {
+        "de": [
+          "1942.160."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Standortgeschichte"
+        ]
+      },
+      "value": {
+        "de": [
+          "BK UG, Münzkabinett, 111, 13.11.2011, Stammplatz, BK 4.08. Vt. 111 - Die Aussagekraft der Münzen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Dokumentation vorhanden"
+        ]
+      },
+      "value": {
+        "de": [
+          "Nein"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Projekt-ID"
+        ]
+      },
+      "value": {
+        "de": [
+          "dauerausstellung_neukonzeption_2007_20110BB1KMCC"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Projektbezeichnung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Dauerausstellung Neukonzeption 2007-2011"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Objektstatus"
+        ]
+      },
+      "value": {
+        "de": [
+          "Sammlungsobjekt"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Material"
+        ]
+      },
+      "value": {
+        "de": [
+          "Silber"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Technik"
+        ]
+      },
+      "value": {
+        "de": [
+          "geprägt"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Entstehungsort"
+        ]
+      },
+      "value": {
+        "de": [
+          "Peleponnes und Kreta, Elis"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Koordinaten"
+        ]
+      },
+      "value": {
+        "de": [
+          "35.29591299769167, 25.032265804527203"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Erwerbungsart"
+        ]
+      },
+      "value": {
+        "de": [
+          "Alter Bestand"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Ausstellungskategorie"
+        ]
+      },
+      "value": {
+        "de": [
+          "nature"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Tier-Tag"
+        ]
+      },
+      "value": {
+        "de": [
+          "Adler; Schlange"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Mythologie-Tag"
+        ]
+      },
+      "value": {
+        "de": [
+          "Zeus"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Natur-Tag"
+        ]
+      },
+      "value": {
+        "de": [
+          "Blitz"
+        ]
+      }
+    }
+  ],
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/13602/canvas-front",
+      "type": "Canvas",
+      "width": 2223,
+      "height": 2163,
+      "label": {
+        "de": [
+          "Vs. Adler, der eine Schlange kröpft, auf Rundschild "
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "de": [
+              "Beschreibung"
+            ]
+          },
+          "value": {
+            "de": [
+              "Vs. Adler, der eine Schlange kröpft, auf Rundschild "
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/13602/canvas-front/annotation/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/13602/canvas-front/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1942-160.png/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2223,
+                "height": 2163,
+                "service": [
+                  {
+                    "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1942-160.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/13602/canvas-front"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/13602/canvas-back",
+      "type": "Canvas",
+      "width": 2421,
+      "height": 2336,
+      "label": {
+        "de": [
+          "Rs. Blitzbündel zwischen F - A"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "de": [
+              "Beschreibung"
+            ]
+          },
+          "value": {
+            "de": [
+              "Rs. Blitzbündel zwischen F - A"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/13602/canvas-back/annotation/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/13602/canvas-back/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1942-160--1.png/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2421,
+                "height": 2336,
+                "service": [
+                  {
+                    "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1942-160--1.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/13602/canvas-back"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

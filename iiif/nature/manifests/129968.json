@@ -1,0 +1,446 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/129968.json",
+  "type": "Manifest",
+  "label": {
+    "de": [
+      "Syrakus, Sizilien (Sikelia). Dekadrachmon von Euainetos (Signatur nicht sichtbar)"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "de": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "de": [
+        "Historisches Museum Basel"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://digitalesschaudepot.ch/",
+      "type": "Agent",
+      "label": {
+        "de": [
+          "Digitales Schaudepot"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://digitalesschaudepot.ch/",
+          "type": "Text",
+          "label": {
+            "de": [
+              "Digitales Schaudepot"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "de": [
+          "Urheber"
+        ]
+      },
+      "value": {
+        "de": [
+          "Digitales Schaudepot"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Sammlung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Nature on Coins"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "de": [
+          "Syrakus, Sizilien (Sikelia). Dekadrachmon von Euainetos (Signatur nicht sichtbar)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Beschreibung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Auf der Vorderseite ist der Kopf von Arethusa abgebildet, die von Delfinen umgeben ist. Dies ist eine Anspielung auf ihre Flucht durchs Meer, bevor sie in eine Quelle verwandelt wurde. Auf der Rückseite ist ein Viergespann an Pferden abgebildet."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Original ID"
+        ]
+      },
+      "value": {
+        "de": [
+          "129968"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Schlagwörter"
+        ]
+      },
+      "value": {
+        "de": [
+          "BK 4.09. Vt. 112 - Geld in der Welt, BK 4.09.01. Griechische Welt, BK ausgestellte Objekte fehlende Datierung, DSD Digitales Schaudepot Münzkabinett, Münzen und Medaillen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Datierungsinfo"
+        ]
+      },
+      "value": {
+        "de": [
+          "Datierung: um 405 v. Chr."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Gewicht"
+        ]
+      },
+      "value": {
+        "de": [
+          "42.935 g"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Inventarnummer"
+        ]
+      },
+      "value": {
+        "de": [
+          "1908.762."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Standortgeschichte"
+        ]
+      },
+      "value": {
+        "de": [
+          "BK UG, Münzkabinett, 112, 13.11.2011, Stammplatz, BK 4.09. Vt. 112 - Geld in der Welt"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Dokumentation vorhanden"
+        ]
+      },
+      "value": {
+        "de": [
+          "Nein"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Projekt-ID"
+        ]
+      },
+      "value": {
+        "de": [
+          "dauerausstellung_neukonzeption_2007_20110BB1KMCC"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Projektbezeichnung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Dauerausstellung Neukonzeption 2007-2011"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Objektstatus"
+        ]
+      },
+      "value": {
+        "de": [
+          "Sammlungsobjekt"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Material"
+        ]
+      },
+      "value": {
+        "de": [
+          "Silber"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Technik"
+        ]
+      },
+      "value": {
+        "de": [
+          "geprägt"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Stempelstellung"
+        ]
+      },
+      "value": {
+        "de": [
+          "60 °"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Entstehungsort"
+        ]
+      },
+      "value": {
+        "de": [
+          "Syrakus, Sizilien"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Koordinaten"
+        ]
+      },
+      "value": {
+        "de": [
+          "37.07517534845927, 15.286603247311954"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Inschrift"
+        ]
+      },
+      "value": {
+        "de": [
+          "Inschrift: Vs. (Signatur nicht sichtbar) Rs. ΣY - PAK - O - ΣI - ΩN"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Ausstellungskategorie"
+        ]
+      },
+      "value": {
+        "de": [
+          "nature"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Tier-Tag"
+        ]
+      },
+      "value": {
+        "de": [
+          "Delfin; Pferd"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Mythologie-Tag"
+        ]
+      },
+      "value": {
+        "de": [
+          "Arethusa"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Natur-Tag"
+        ]
+      },
+      "value": {
+        "de": [
+          "Meer; Quelle"
+        ]
+      }
+    }
+  ],
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/129968/canvas-front",
+      "type": "Canvas",
+      "width": 1338,
+      "height": 1258,
+      "label": {
+        "de": [
+          "Vs. Kopf der Persephone (oder Artemis-Arethusa?) mit Schilfblättern im stark geflochtem Haar nach links, dreiteiliges Ohrgehänge und einreihige Perlen-Halskette, umgeben von vier Delphinen, Perlkreis "
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "de": [
+              "Beschreibung"
+            ]
+          },
+          "value": {
+            "de": [
+              "Vs. Kopf der Persephone (oder Artemis-Arethusa?) mit Schilfblättern im stark geflochtem Haar nach links, dreiteiliges Ohrgehänge und einreihige Perlen-Halskette, umgeben von vier Delphinen, Perlkreis "
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/129968/canvas-front/annotation/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/129968/canvas-front/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908.762.-1908-762.png/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1338,
+                "height": 1258,
+                "service": [
+                  {
+                    "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908.762.-1908-762.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/129968/canvas-front"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/129968/canvas-back",
+      "type": "Canvas",
+      "width": 1290,
+      "height": 1327,
+      "label": {
+        "de": [
+          "Rs. Quadriga galoppierend nach links, Wagenlenker eine Peitsche haltend und von nach rechts fliegender Nike bekränzt, im Abschnitt Harnisch, Beinschienen, Schild und Helm"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "de": [
+              "Beschreibung"
+            ]
+          },
+          "value": {
+            "de": [
+              "Rs. Quadriga galoppierend nach links, Wagenlenker eine Peitsche haltend und von nach rechts fliegender Nike bekränzt, im Abschnitt Harnisch, Beinschienen, Schild und Helm"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/129968/canvas-back/annotation/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/129968/canvas-back/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908.762.-1908-762--1.png/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1290,
+                "height": 1327,
+                "service": [
+                  {
+                    "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908.762.-1908-762--1.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/129968/canvas-back"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

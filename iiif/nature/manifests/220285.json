@@ -1,0 +1,506 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/220285.json",
+  "type": "Manifest",
+  "label": {
+    "de": [
+      "Römisches Reich. Antonius Pius (138-161), sog. alexandrinische Tetradrachme"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "de": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "de": [
+        "Historisches Museum Basel"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://digitalesschaudepot.ch/",
+      "type": "Agent",
+      "label": {
+        "de": [
+          "Digitales Schaudepot"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://digitalesschaudepot.ch/",
+          "type": "Text",
+          "label": {
+            "de": [
+              "Digitales Schaudepot"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "de": [
+          "Urheber"
+        ]
+      },
+      "value": {
+        "de": [
+          "Digitales Schaudepot"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Sammlung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Nature on Coins"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "de": [
+          "Römisches Reich. Antonius Pius (138-161), sog. alexandrinische Tetradrachme"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Beschreibung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Neben einer Büste mit Lorbeeren ist auf dieser Münze ein Phönix dargestellt. Er war in der Antike ein Symbol für die Wiedergeburt, da er statt zu sterben verbrannte und aus seiner Asche wieder ein Phönix entstand."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Original ID"
+        ]
+      },
+      "value": {
+        "de": [
+          "220285"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Schlagwörter"
+        ]
+      },
+      "value": {
+        "de": [
+          "DSD Digitales Schaudepot Münzkabinett"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Entstehungszeit"
+        ]
+      },
+      "value": {
+        "de": [
+          "138 bis 139"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "EDTF Datum"
+        ]
+      },
+      "value": {
+        "de": [
+          "138/139"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Datierungsart"
+        ]
+      },
+      "value": {
+        "de": [
+          "mit Jahr"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Datierungsinfo"
+        ]
+      },
+      "value": {
+        "de": [
+          "Datierung: 138-139; Früheste Datierung: 138; Späteste Datierung: 139"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Gewicht"
+        ]
+      },
+      "value": {
+        "de": [
+          "13.03 g"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Durchmesser"
+        ]
+      },
+      "value": {
+        "de": [
+          "23.1 mm"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Inventarnummer"
+        ]
+      },
+      "value": {
+        "de": [
+          "2022.102."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Person Verkäufer"
+        ]
+      },
+      "value": {
+        "de": [
+          "Bernisches Historisches Museum"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Person Vorbesitzerin"
+        ]
+      },
+      "value": {
+        "de": [
+          "Spreng, Anna"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Dokumentation vorhanden"
+        ]
+      },
+      "value": {
+        "de": [
+          "Ja"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Projekt-ID"
+        ]
+      },
+      "value": {
+        "de": [
+          "eingange_2022GWAAFZ9R"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Projektbezeichnung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Eingänge 2022"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Objektstatus"
+        ]
+      },
+      "value": {
+        "de": [
+          "Sammlungsobjekt"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Material"
+        ]
+      },
+      "value": {
+        "de": [
+          "Erle"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Technik"
+        ]
+      },
+      "value": {
+        "de": [
+          "geprägt"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Stempelstellung"
+        ]
+      },
+      "value": {
+        "de": [
+          "15 °"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Entstehungsort"
+        ]
+      },
+      "value": {
+        "de": [
+          "Alexandria"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Koordinaten"
+        ]
+      },
+      "value": {
+        "de": [
+          "31.201102430650792, 29.906809149956977"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Inschrift"
+        ]
+      },
+      "value": {
+        "de": [
+          "Inschrift: Vs. AVT K T AIL ADR - ANTONINOS EUSEB (in griechischen Buchstaben) Rs. AI-ON, im Feld links L (demotisch), im Feld rechts B (griechisch)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Erwerbungsart"
+        ]
+      },
+      "value": {
+        "de": [
+          "Kauf"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Erwerbungsdatum"
+        ]
+      },
+      "value": {
+        "de": [
+          "2021-08-11"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Ausstellungskategorie"
+        ]
+      },
+      "value": {
+        "de": [
+          "nature"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Tier-Tag"
+        ]
+      },
+      "value": {
+        "de": [
+          "Phönix"
+        ]
+      }
+    }
+  ],
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/220285/canvas-front",
+      "type": "Canvas",
+      "width": 1567,
+      "height": 1531,
+      "label": {
+        "de": [
+          "Vs. Belorbeerte Büste nach rechts "
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "de": [
+              "Beschreibung"
+            ]
+          },
+          "value": {
+            "de": [
+              "Vs. Belorbeerte Büste nach rechts "
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/220285/canvas-front/annotation/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/220285/canvas-front/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F2022.102.-2022-102_shmsea.JPG/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1567,
+                "height": 1531,
+                "service": [
+                  {
+                    "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F2022.102.-2022-102_shmsea.JPG",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/220285/canvas-front"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/220285/canvas-back",
+      "type": "Canvas",
+      "width": 1573,
+      "height": 1510,
+      "label": {
+        "de": [
+          "Rs. Phönix nach rechts"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "de": [
+              "Beschreibung"
+            ]
+          },
+          "value": {
+            "de": [
+              "Rs. Phönix nach rechts"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/220285/canvas-back/annotation/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/220285/canvas-back/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F2022.102.-2022-102--1_shmsea.JPG/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1573,
+                "height": 1510,
+                "service": [
+                  {
+                    "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F2022.102.-2022-102--1_shmsea.JPG",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/220285/canvas-back"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

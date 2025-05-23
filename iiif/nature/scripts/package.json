@@ -5,5 +5,8 @@
 	"type": "module",
 	"scripts": {
 		"generate-manifests": "node generate-manifests-nature.js"
+	},
+	"dependencies": {
+		"sharp": "^0.34.2"
 	}
 }
