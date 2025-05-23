@@ -190,12 +190,24 @@
     {
       "label": {
         "de": [
-          "Person Donator"
+          "Institutionsnummer"
         ]
       },
       "value": {
         "de": [
-          "Fehlmann Marc"
+          "147252"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Person(Donator) Person"
+        ]
+      },
+      "value": {
+        "de": [
+          "Fehlmann Marc(18234)"
         ]
       }
     },
@@ -208,6 +220,18 @@
       "value": {
         "de": [
           "Vitrine 94"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Standort ID"
+        ]
+      },
+      "value": {
+        "de": [
+          "8614"
         ]
       }
     },
@@ -394,6 +418,18 @@
               "Vorderseite"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
+            ]
+          }
         }
       ],
       "items": [
@@ -445,6 +481,18 @@
           "value": {
             "de": [
               "Rückseite"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
             ]
           }
         }

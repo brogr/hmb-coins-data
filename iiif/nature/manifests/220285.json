@@ -190,24 +190,24 @@
     {
       "label": {
         "de": [
-          "Person Verkäufer"
+          "Institutionsnummer"
         ]
       },
       "value": {
         "de": [
-          "Bernisches Historisches Museum"
+          "154048, 154049"
         ]
       }
     },
     {
       "label": {
         "de": [
-          "Person Vorbesitzerin"
+          "Körperschaft(Verkäufer) Person"
         ]
       },
       "value": {
         "de": [
-          "Spreng, Anna"
+          "Bernisches Historisches Museum(20595)"
         ]
       }
     },
@@ -382,6 +382,18 @@
               "Vorderseite"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
+            ]
+          }
         }
       ],
       "items": [
@@ -433,6 +445,18 @@
           "value": {
             "de": [
               "Rückseite"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
             ]
           }
         }

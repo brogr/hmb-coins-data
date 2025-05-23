@@ -82,24 +82,24 @@
     {
       "label": {
         "de": [
-          "Beschreibung"
-        ]
-      },
-      "value": {
-        "de": [
-          "Der Stier mit langem Bart weist auf seine Symbolisierung von Zeus hin. Das Pferd auf der Rückseite könnte Areion sein, das von Poseidon und Demeter in Gestalt von Pferden gezeugt wurde."
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
           "Alternativer Titel"
         ]
       },
       "value": {
         "de": [
           "Tetradrachmon"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Beschreibung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Der Stier mit langem Bart weist auf seine Symbolisierung von Zeus hin. Das Pferd auf der Rückseite könnte Areion sein, das von Poseidon und Demeter in Gestalt von Pferden gezeugt wurde."
         ]
       }
     },
@@ -310,6 +310,18 @@
               "Vorderseite"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
+            ]
+          }
         }
       ],
       "items": [
@@ -361,6 +373,18 @@
           "value": {
             "de": [
               "Rückseite"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
             ]
           }
         }

@@ -82,24 +82,24 @@
     {
       "label": {
         "de": [
-          "Beschreibung"
-        ]
-      },
-      "value": {
-        "de": [
-          "Der abgebildete Stier repräsentiert in der griechischen Mythologie den König der Götter: Zeus."
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
           "Alternativer Titel"
         ]
       },
       "value": {
         "de": [
           "Didrachmon"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Beschreibung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Der abgebildete Stier repräsentiert in der griechischen Mythologie den König der Götter: Zeus."
         ]
       }
     },
@@ -298,6 +298,18 @@
               "Vorderseite"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
+            ]
+          }
         }
       ],
       "items": [
@@ -349,6 +361,18 @@
           "value": {
             "de": [
               "Rückseite"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
             ]
           }
         }

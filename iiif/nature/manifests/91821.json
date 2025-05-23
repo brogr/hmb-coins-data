@@ -82,24 +82,24 @@
     {
       "label": {
         "de": [
-          "Beschreibung"
-        ]
-      },
-      "value": {
-        "de": [
-          "Taras, Sohn des Poseidon, reitet einen Delfin, der ihm erschien. Die Münze zeigt eine klassische Darstellung des Gründers der Stadt Tarent."
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
           "Alternativer Titel"
         ]
       },
       "value": {
         "de": [
           "Didrachme"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Beschreibung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Taras, Sohn des Poseidon, reitet einen Delfin, der ihm erschien. Die Münze zeigt eine klassische Darstellung des Gründers der Stadt Tarent."
         ]
       }
     },
@@ -322,6 +322,18 @@
               "Vorderseite"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
+            ]
+          }
         }
       ],
       "items": [
@@ -373,6 +385,18 @@
           "value": {
             "de": [
               "Rückseite"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
             ]
           }
         }

@@ -118,6 +118,18 @@
     {
       "label": {
         "de": [
+          "Websites"
+        ]
+      },
+      "value": {
+        "de": [
+          "https://www.coinarchives.com/a/openlink.php?l=2279823|5537|27|dd218e7159d2f7a62f29cc907213c6bd, https://pro.coinarchives.com/a/lotviewer.php?LotID=2279823&AucID=5537&Lot=27"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
           "Entstehungszeit"
         ]
       },
@@ -190,12 +202,24 @@
     {
       "label": {
         "de": [
-          "Person Eigentümer"
+          "Institutionsnummer"
         ]
       },
       "value": {
         "de": [
-          "Stiftung für das Historische Museum Basel"
+          "18967"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Körperschaft(Eigentümer) Person"
+        ]
+      },
+      "value": {
+        "de": [
+          "Stiftung für das Historische Museum Basel(1847)"
         ]
       }
     },
@@ -406,6 +430,18 @@
               "Vorderseite"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
+            ]
+          }
         }
       ],
       "items": [
@@ -457,6 +493,18 @@
           "value": {
             "de": [
               "Rückseite"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
             ]
           }
         }

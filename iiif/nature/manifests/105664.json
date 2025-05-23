@@ -154,12 +154,24 @@
     {
       "label": {
         "de": [
-          "Person Donator"
+          "Institutionsnummer"
         ]
       },
       "value": {
         "de": [
-          "Dürr, Niklaus"
+          "86435"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Person(Donator) Person"
+        ]
+      },
+      "value": {
+        "de": [
+          "Dürr, Niklaus(6697)"
         ]
       }
     },
@@ -298,6 +310,18 @@
               "Vorderseite"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
+            ]
+          }
         }
       ],
       "items": [
@@ -349,6 +373,18 @@
           "value": {
             "de": [
               "Rückseite"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
             ]
           }
         }

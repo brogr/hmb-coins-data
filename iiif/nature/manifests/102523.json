@@ -82,24 +82,24 @@
     {
       "label": {
         "de": [
-          "Beschreibung"
-        ]
-      },
-      "value": {
-        "de": [
-          "Die Münze zeigt einen Hund und auf der Rückseite den Kopf einer Nymphe. Die Nymphe steht für die junge Frau im heiratsfähigen Alter. Der Hund könnte dementsprechend Lailaps sein, der unsterbliche Hund, den Europa von Zeus als Hochzeitsgeschenk erhielt."
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
           "Alternativer Titel"
         ]
       },
       "value": {
         "de": [
           "Didrachmon"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Beschreibung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Die Münze zeigt einen Hund und auf der Rückseite den Kopf einer Nymphe. Die Nymphe steht für die junge Frau im heiratsfähigen Alter. Der Hund könnte dementsprechend Lailaps sein, der unsterbliche Hund, den Europa von Zeus als Hochzeitsgeschenk erhielt."
         ]
       }
     },
@@ -346,6 +346,18 @@
               "Vorderseite"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
+            ]
+          }
         }
       ],
       "items": [
@@ -397,6 +409,18 @@
           "value": {
             "de": [
               "Rückseite"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
             ]
           }
         }

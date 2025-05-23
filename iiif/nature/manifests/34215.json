@@ -82,24 +82,24 @@
     {
       "label": {
         "de": [
-          "Beschreibung"
-        ]
-      },
-      "value": {
-        "de": [
-          "Die Münze zeigt Apollon, Gott der Künste und des Frühlings. Auf der Rückseite ist ein Löwenkopf umgeben von vier Gerstenkörnen abgebildet."
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
           "Alternativer Titel"
         ]
       },
       "value": {
         "de": [
           "Tetradrachmon"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Beschreibung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Die Münze zeigt Apollon, Gott der Künste und des Frühlings. Auf der Rückseite ist ein Löwenkopf umgeben von vier Gerstenkörnen abgebildet."
         ]
       }
     },
@@ -190,12 +190,24 @@
     {
       "label": {
         "de": [
-          "Person Erblasser"
+          "Institutionsnummer"
         ]
       },
       "value": {
         "de": [
-          "Brüderlin-Ronus Rudolf"
+          "112349"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Person(Erblasser) Person"
+        ]
+      },
+      "value": {
+        "de": [
+          "Brüderlin-Ronus Rudolf(737)"
         ]
       }
     },
@@ -346,6 +358,18 @@
               "Vorderseite"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
+            ]
+          }
         }
       ],
       "items": [
@@ -397,6 +421,18 @@
           "value": {
             "de": [
               "Rückseite"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
             ]
           }
         }

@@ -190,12 +190,24 @@
     {
       "label": {
         "de": [
-          "Person Donatorin"
+          "Institutionsnummer"
         ]
       },
       "value": {
         "de": [
-          "Alföldi-Rosenbaum, Elisabeth"
+          "141584"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Person(Donatorin) Person"
+        ]
+      },
+      "value": {
+        "de": [
+          "Alföldi-Rosenbaum, Elisabeth(8563)"
         ]
       }
     },
@@ -370,6 +382,18 @@
               "Vorderseite"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
+            ]
+          }
         }
       ],
       "items": [
@@ -421,6 +445,18 @@
           "value": {
             "de": [
               "Rückseite"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
             ]
           }
         }

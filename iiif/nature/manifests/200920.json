@@ -190,12 +190,24 @@
     {
       "label": {
         "de": [
-          "Person Erblasserin"
+          "Institutionsnummer"
         ]
       },
       "value": {
         "de": [
-          "Der Grigorian-Müller Sophie"
+          "154592"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Person(Erblasserin) Person"
+        ]
+      },
+      "value": {
+        "de": [
+          "Der Grigorian-Müller Sophie(13246)"
         ]
       }
     },
@@ -358,6 +370,18 @@
               "Vorderseite"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
+            ]
+          }
         }
       ],
       "items": [
@@ -409,6 +433,18 @@
           "value": {
             "de": [
               "Rückseite"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
             ]
           }
         }

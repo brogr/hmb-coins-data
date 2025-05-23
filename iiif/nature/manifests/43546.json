@@ -82,24 +82,24 @@
     {
       "label": {
         "de": [
-          "Beschreibung"
-        ]
-      },
-      "value": {
-        "de": [
-          "Pegasus, das geflügelte Pferd, war in der griechischen Mythologie das Kind von Poseidon und Medusa, das Legenden zufolge bei der Köpfung von Medusa aus deren Nacken entsprang. "
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
           "Alternativer Titel"
         ]
       },
       "value": {
         "de": [
           "Didrachmon"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Beschreibung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Pegasus, das geflügelte Pferd, war in der griechischen Mythologie das Kind von Poseidon und Medusa, das Legenden zufolge bei der Köpfung von Medusa aus deren Nacken entsprang. "
         ]
       }
     },
@@ -310,6 +310,18 @@
               "Vorderseite"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
+            ]
+          }
         }
       ],
       "items": [
@@ -361,6 +373,18 @@
           "value": {
             "de": [
               "Rückseite"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
             ]
           }
         }

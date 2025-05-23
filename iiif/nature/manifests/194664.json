@@ -166,12 +166,24 @@
     {
       "label": {
         "de": [
-          "Person Hersteller"
+          "Institutionsnummer"
         ]
       },
       "value": {
         "de": [
-          "Ready Robert Cooper"
+          "134944"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Person(Hersteller) Person"
+        ]
+      },
+      "value": {
+        "de": [
+          "Ready Robert Cooper(15365)"
         ]
       }
     },
@@ -298,6 +310,18 @@
               "Vorderseite"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
+            ]
+          }
         }
       ],
       "items": [
@@ -349,6 +373,18 @@
           "value": {
             "de": [
               "Rückseite"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
             ]
           }
         }

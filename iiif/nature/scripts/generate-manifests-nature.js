@@ -141,8 +141,15 @@ async function generateManifests() {
 			addMetadata("Urheber", "Digitales Schaudepot");
 			addMetadata("Sammlung", "Nature on Coins");
 			addMetadata("Titel", title);
-			addMetadata("Beschreibung", coin.DSD_project_info?.description || "");
 			addMetadata("Alternativer Titel", coin.coin_title?.alternative_title);
+			addMetadata(
+				"Beschreibung",
+				coin.DSD_project_info?.description || coin.coin_description?.description
+			);
+			addMetadata(
+				"Beschreibung Seite",
+				coin.coin_description?.description_side
+			);
 
 			// Add identifier information
 			if (coin.identifier) {
@@ -152,6 +159,11 @@ async function generateManifests() {
 			// Add keywords
 			if (coin.keywords && coin.keywords.length > 0) {
 				addMetadata("Schlagwörter", coin.keywords);
+			}
+
+			// Add websites
+			if (coin.websites && coin.websites.length > 0) {
+				addMetadata("Websites", coin.websites);
 			}
 
 			// Add creation range information
@@ -186,31 +198,43 @@ async function generateManifests() {
 					"Inventarnummer",
 					coin.inventory_relations.inventory_number
 				);
+				addMetadata(
+					"Institutionsnummer",
+					coin.inventory_relations.relation_institution_id
+				);
 
 				// Handle person information if available
 				if (coin.inventory_relations.person_name) {
-					const personType = coin.inventory_relations.person_type;
-					const personName = coin.inventory_relations.person_name;
+					const personCategory = Array.isArray(
+						coin.inventory_relations.person_category
+					)
+						? coin.inventory_relations.person_category[0]
+						: coin.inventory_relations.person_category;
+					const personType = Array.isArray(coin.inventory_relations.person_type)
+						? coin.inventory_relations.person_type[0]
+						: coin.inventory_relations.person_type;
+					const personName = Array.isArray(coin.inventory_relations.person_name)
+						? coin.inventory_relations.person_name[0]
+						: coin.inventory_relations.person_name;
+					const personId = Array.isArray(coin.inventory_relations.person_id)
+						? coin.inventory_relations.person_id[0]
+						: coin.inventory_relations.person_id;
 
-					if (
-						Array.isArray(personName) &&
-						Array.isArray(personType) &&
-						personName.length === personType.length
-					) {
-						// If we have matching arrays of person names and types
-						for (let i = 0; i < personName.length; i++) {
-							addMetadata(personType[i], personName[i], "Person");
-						}
-					} else {
-						// Otherwise just add the person name
-						addMetadata("Person", personName);
-					}
+					const personLabel = `${personCategory ?? "Person"}${
+						personType ? "(" + personType + ")" : ""
+					}`;
+					const PersonNameId = `${personName}${
+						personId ? "(" + personId + ")" : ""
+					}`;
+
+					addMetadata("Person", PersonNameId, personLabel);
 				}
 			}
 
 			// Add location in museum
 			if (coin.location_in_museum) {
 				addMetadata("Standort", coin.location_in_museum.location_title);
+				addMetadata("Standort ID", coin.location_in_museum.location_id);
 				addMetadata(
 					"Standortgeschichte",
 					coin.location_in_museum.location_history
@@ -312,6 +336,7 @@ async function generateManifests() {
 				} else if (descriptions.length > 0) {
 					frontDescription = descriptions[0] || "";
 				}
+				let frontCaption = coinDesc?.legend_front ?? "";
 
 				// For back description: use description_back if not null, otherwise use descriptions[1]
 				let backDescription = "";
@@ -323,11 +348,13 @@ async function generateManifests() {
 				} else if (descriptions.length > 1) {
 					backDescription = descriptions[1] || "";
 				}
+				let backCaption = coinDesc?.legend_back ?? "";
 
 				// Canvas names to match the template
 				const canvasNames = ["canvas-front", "canvas-back"];
 				const images = [frontImage, backImage];
 				const canvasDescriptions = [frontDescription, backDescription];
+				const canvasCaptions = [frontCaption, backCaption];
 				const imageDimensions = [frontDimensions, backDimensions];
 				const sideNames = ["Vorderseite", "Rückseite"];
 
@@ -337,6 +364,7 @@ async function generateManifests() {
 					const canvasName = canvasNames[i];
 					const imageSrc = images[i];
 					const canvasDescription = canvasDescriptions[i];
+					const canvasCaption = canvasCaptions[i];
 					const dimensions = imageDimensions[i];
 					const sideName = sideNames[i];
 
@@ -367,6 +395,12 @@ async function generateManifests() {
 							},
 						];
 					}
+
+					// Add caption to metadata
+					canvas.metadata.push({
+						label: { de: ["Legende"] },
+						value: { de: [canvasCaption] },
+					});
 
 					// Update canvas items (annotation page and annotations)
 					if (canvas.items && canvas.items.length > 0) {

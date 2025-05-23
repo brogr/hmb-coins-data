@@ -190,12 +190,24 @@
     {
       "label": {
         "de": [
-          "Person Erblasser"
+          "Institutionsnummer"
         ]
       },
       "value": {
         "de": [
-          "Brüderlin-Ronus Rudolf"
+          "112358"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Person(Erblasser) Person"
+        ]
+      },
+      "value": {
+        "de": [
+          "Brüderlin-Ronus Rudolf(737)"
         ]
       }
     },
@@ -370,6 +382,18 @@
               "Vorderseite"
             ]
           }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
+            ]
+          }
         }
       ],
       "items": [
@@ -421,6 +445,18 @@
           "value": {
             "de": [
               "Rückseite"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
             ]
           }
         }
