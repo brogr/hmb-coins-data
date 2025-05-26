@@ -1,9 +1,12 @@
 {
 	"name": "hmb-coins-iiif-manifest-generator-interview",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Generates IIIF manifests from interview data",
 	"type": "module",
 	"scripts": {
-		"generate-manifests": "node generate-manifests.js"
+		"generate-manifests": "node generate-manifests-interview.js"
+	},
+	"dependencies": {
+		"sharp": "^0.34.2"
 	}
 }

@@ -92,6 +92,8 @@
                   "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D004.jpg/full/max/0/default.jpg",
                   "type": "Image",
                   "format": "image/jpeg",
+                  "width": 2733,
+                  "height": 2047,
                   "service": [
                     {
                       "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D004.jpg",

@@ -1,5 +1,6 @@
 import fs from "fs/promises";
 import path from "path";
+import sharp from "sharp";
 
 async function generateManifests() {
 	try {
@@ -18,8 +19,13 @@ async function generateManifests() {
 		// Define the interview prefix
 		const INTERVIEW_PREFIX = "Interview mit Münzsammlerin M. Bieri: ";
 
+		// Local path to the folder containing the image files
+		// Adjust this path to match your local setup
+		const LOCAL_IMAGE_PATH =
+			"/Users/fv/Documents/Lohnarbeit/Brogramming/DSD Numismatik/Material/20250320 All data/images/interview";
+
 		// Define file paths
-		const TEMPLATE_PATH = "../manifests/_template.json";
+		const TEMPLATE_PATH = "../manifests/_template-interview.json";
 		const INTERVIEW_DATA_PATH = "../../../data/interview.json";
 		const OUTPUT_DIR = "../manifests";
 
@@ -34,9 +40,27 @@ async function generateManifests() {
 			}
 		}
 
+		// Function to get image dimensions from a local file
+		const getImageDimensions = async (imagePath) => {
+			try {
+				const metadata = await sharp(imagePath).metadata();
+				return {
+					width: metadata.width || 1000, // fallback width
+					height: metadata.height || 1000, // fallback height
+				};
+			} catch (error) {
+				console.warn(
+					`Could not read dimensions for ${imagePath}: ${error.message}`
+				);
+				// Return default dimensions if image can't be read
+				return { width: 1000, height: 1000 };
+			}
+		};
+
 		// Read the template and interview data
 		console.log(`Reading template from: ${TEMPLATE_PATH}`);
 		console.log(`Reading interview data from: ${INTERVIEW_DATA_PATH}`);
+		console.log(`Looking for images in: ${LOCAL_IMAGE_PATH}`);
 
 		const templateData = JSON.parse(await fs.readFile(TEMPLATE_PATH, "utf8"));
 		const interviewData = JSON.parse(
@@ -146,6 +170,18 @@ async function generateManifests() {
 
 								// Update image body with URL encoded image source
 								if (annotation.body) {
+									// Get image dimensions
+									const imagePath = path.join(LOCAL_IMAGE_PATH, image.src);
+									const dimensions = await getImageDimensions(imagePath);
+									console.log(
+										`image dimensions: ${dimensions.width}x${dimensions.height}`
+									);
+									if (dimensions.width && dimensions.height) {
+										// Update image dimensions
+										annotation.body.width = dimensions.width;
+										annotation.body.height = dimensions.height;
+									}
+
 									// URL encode the image source
 									const encodedImageSrc = encodeURIComponent(image.src);
 
