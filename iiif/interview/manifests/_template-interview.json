@@ -5,10 +5,29 @@
 	"label": {
 		"de": ["Interview mit Münzsammlerin M. Bieri: Einführung zum Album"]
 	},
+	"requiredStatement": {
+		"label": { "de": ["Attribution"] },
+		"value": { "de": ["M. Bieri, Digitales Schaudepot"] }
+	},
+	"provider": [
+		{
+			"id": "https://digitalesschaudepot.ch/",
+			"type": "Agent",
+			"label": { "de": ["Digitales Schaudepot"] },
+			"homepage": [
+				{
+					"id": "https://digitalesschaudepot.ch/",
+					"type": "Text",
+					"label": { "de": ["Digitales Schaudepot"] },
+					"format": "text/html"
+				}
+			]
+		}
+	],
 	"metadata": [
 		{
 			"label": {
-				"de": ["Creator"]
+				"de": ["Urheber"]
 			},
 			"value": {
 				"de": ["Digitales Schaudepot"]
@@ -16,10 +35,26 @@
 		},
 		{
 			"label": {
-				"de": ["Description"]
+				"de": ["Autorin"]
 			},
 			"value": {
-				"de": ["Interview mit Münzsammlerin M. Bieri: Einführung zum Album"]
+				"de": ["M. Bieri"]
+			}
+		},
+		{
+			"label": {
+				"de": ["Sammlung"]
+			},
+			"value": {
+				"de": ["Interview mit Münzsammlerin M. Bieri"]
+			}
+		},
+		{
+			"label": {
+				"de": ["Beschreibung"]
+			},
+			"value": {
+				"de": ["Einführung zum Album"]
 			}
 		}
 	],
@@ -37,7 +72,7 @@
 				"metadata": [
 					{
 						"label": {
-							"de": ["Description"]
+							"de": ["Beschreibung"]
 						},
 						"value": {
 							"de": ["Einführung zum Album"]
@@ -59,7 +94,7 @@
 								"metadata": [
 									{
 										"label": {
-											"de": ["Description"]
+											"de": ["Beschreibung"]
 										},
 										"value": {
 											"de": ["Zeigen über der Gesamtansicht des Albums"]

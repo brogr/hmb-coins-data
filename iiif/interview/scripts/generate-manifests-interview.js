@@ -112,13 +112,15 @@ async function generateManifests() {
 				// Apply the SAME prefixed label to both manifest label and metadata description
 				manifest.label = { de: [prefixedLabel] };
 
-				// Update metadata with the SAME prefixed label
-				if (manifest.metadata && manifest.metadata.length >= 2) {
-					manifest.metadata[1].value = { de: [prefixedLabel] };
-				}
-
 				// Get description without prefix for deeper elements
 				const description = image.description || snippet.title;
+
+				// Update metadata without description
+				if (manifest.metadata && manifest.metadata.length >= 2) {
+					manifest.metadata[manifest.metadata.length - 1].value = {
+						de: [description],
+					};
+				}
 
 				// Ensure duration is a float
 				const durationFloat = parseFloat(image.duration);

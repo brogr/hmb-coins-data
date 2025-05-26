@@ -7,11 +7,46 @@
       "Interview mit Münzsammlerin M. Bieri: Entstehung des Münzalbums – II"
     ]
   },
+  "requiredStatement": {
+    "label": {
+      "de": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "de": [
+        "M. Bieri, Digitales Schaudepot"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://digitalesschaudepot.ch/",
+      "type": "Agent",
+      "label": {
+        "de": [
+          "Digitales Schaudepot"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://digitalesschaudepot.ch/",
+          "type": "Text",
+          "label": {
+            "de": [
+              "Digitales Schaudepot"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
   "metadata": [
     {
       "label": {
         "de": [
-          "Creator"
+          "Urheber"
         ]
       },
       "value": {
@@ -23,12 +58,36 @@
     {
       "label": {
         "de": [
-          "Description"
+          "Autorin"
         ]
       },
       "value": {
         "de": [
-          "Interview mit Münzsammlerin M. Bieri: Entstehung des Münzalbums – II"
+          "M. Bieri"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Sammlung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Interview mit Münzsammlerin M. Bieri"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Beschreibung"
+        ]
+      },
+      "value": {
+        "de": [
+          "II"
         ]
       }
     }
@@ -50,7 +109,7 @@
           {
             "label": {
               "de": [
-                "Description"
+                "Beschreibung"
               ]
             },
             "value": {
@@ -78,7 +137,7 @@
                   {
                     "label": {
                       "de": [
-                        "Description"
+                        "Beschreibung"
                       ]
                     },
                     "value": {
