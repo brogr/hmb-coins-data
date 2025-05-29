@@ -247,6 +247,11 @@ async function generateManifests() {
 				coin.documentation_available ? "Ja" : "Nein"
 			);
 
+			// Add analogue_photoarchive
+			if (coin.analogue_photoarchive) {
+				addMetadata("Fotoarchiv", coin.analogue_photoarchive);
+			}
+
 			// Add collection info
 			if (coin.collection_info) {
 				addMetadata("Projekt-ID", coin.collection_info.project_identifier);
