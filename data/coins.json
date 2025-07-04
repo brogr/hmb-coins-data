@@ -107,8 +107,8 @@
       ]
     },
     "image_selection": {
-      "image_front": "1995-21_shmsea.JPG",
-      "image_back": "1995-21--1_shmsea.JPG"
+      "image_front": "1995.21.-1995-21--1.JPG",
+      "image_back": "1995.21.-1995-21.JPG"
     }
   },
   {
@@ -310,8 +310,8 @@
       "nature_tag": []
     },
     "image_selection": {
-      "image_front": "2020-295_shmsea.jpg",
-      "image_back": "2020-295--1_shmsea.jpg"
+      "image_front": "2020.295.-2020-295-4_shmsea.jpg",
+      "image_back": "2020.295.-2020-295--1_shmsea.jpg"
     }
   },
   {
@@ -1093,108 +1093,8 @@
       "nature_tag": []
     },
     "image_selection": {
-      "image_front": "1908-589_shmeaa_c2524_Noummos.jpg",
+      "image_front": "1908-589.png",
       "image_back": "1908-589--1.png"
-    }
-  },
-  {
-    "identifier": {
-      "original_id": 28304
-    },
-    "file_names": [
-      "1908-626"
-    ],
-    "image_resources_file_names": [
-      "1908-626--1.png",
-      "1908-626.png"
-    ],
-    "coin_title": {
-      "title": "Akragas. Didrachme",
-      "alternative_title": null
-    },
-    "coin_description": {
-      "description": [
-        "Vs. Adler nach links stehend ",
-        "Rs. Krabbe"
-      ],
-      "legend_front": null,
-      "description_front": null,
-      "legend_back": null,
-      "description_back": null,
-      "description_side": null
-    },
-    "keywords": [
-      "BK 4.07. Vt. 105 - Was verrät die Münze? - Die Münze als Geschichtsquelle",
-      "BK 4.07.03.  Religion: Zeus und Baal",
-      "DSD Digitales Schaudepot Münzkabinett"
-    ],
-    "creation_range": {
-      "creation_period": "450 v. Chr. bis 413 v. Chr.",
-      "EDTF_date": "-450/-413",
-      "date_label": "ohne Jahr",
-      "date_info": "Zeitraum: vor; Datierung: 413 v. Chr.; Früheste Datierung: -450; Späteste Datierung: -413",
-      "date_comment": null
-    },
-    "coin_measurements": {
-      "coin_weight": null,
-      "weight_unit": null,
-      "coin_diameter": null,
-      "diameter_unit": null
-    },
-    "provenance": null,
-    "inventory_relations": {
-      "relation_institution_id": null,
-      "person_type": null,
-      "person_id": null,
-      "person_category": null,
-      "person_name": null,
-      "inventory_number": "1908.626."
-    },
-    "location_in_museum": {
-      "location_id": null,
-      "location_title": null,
-      "location_history": "BK UG, Münzkabinett, 105, 13.11.2011, Stammplatz, BK 4.07. Vt. 105 - Was verrät die Münze? - Die Münze als Geschichtsquelle"
-    },
-    "documentation_available": false,
-    "collection_info": {
-      "project_identifier": "dauerausstellung_neukonzeption_2007_20110BB1KMCC",
-      "project_label": "Dauerausstellung Neukonzeption 2007-2011",
-      "object_status": "Sammlungsobjekt"
-    },
-    "creation_details": {
-      "material": "Silber",
-      "technique": "geprägt",
-      "stamp_alignment": null,
-      "place_of_origin": "Akragas",
-      "coordinates_to_origin": "37.30885648318068, 13.585316625358479",
-      "inscription": "Inschrift: Vs. AKRA"
-    },
-    "acquisition_details": {
-      "acquisition_type": null,
-      "acquisition_date": null,
-      "acquisition_remark": null,
-      "acquisition_price": null,
-      "value_estimate": null,
-      "value_estimate_description": null
-    },
-    "culture-historical_context": null,
-    "published_object_description": null,
-    "DSD_project_info": {
-      "description": "Adler und Krebs stehen in dieser Kombination für die obersten griechischen Götter Hera und Zeus.",
-      "exhibition_category": "nature",
-      "animal_tag": [
-        "Adler",
-        "Krebs"
-      ],
-      "mythology_tag": [
-        "Hera",
-        "Zeus"
-      ],
-      "nature_tag": []
-    },
-    "image_selection": {
-      "image_front": "1908-626--1.png",
-      "image_back": "1908-626.png"
     }
   },
   {
@@ -1676,8 +1576,8 @@
       ]
     },
     "image_selection": {
-      "image_front": "1908-753_shmemp.png",
-      "image_back": "1908-753--1_shmemp.png"
+      "image_front": "1908.753.-1908-753_shmemp.png",
+      "image_back": "1908.753.-1908-753--1_shmemp.png"
     }
   },
   {
@@ -1782,8 +1682,8 @@
       ]
     },
     "image_selection": {
-      "image_front": "1908-762.JPG",
-      "image_back": "1908-762--1.JPG"
+      "image_front": "1908.762.-1908-762.png",
+      "image_back": "1908.762.-1908-762--1.png"
     }
   },
   {
@@ -1986,8 +1886,8 @@
       "nature_tag": []
     },
     "image_selection": {
-      "image_front": "1908-896.JPG",
-      "image_back": "1908-896--1.JPG"
+      "image_front": "1908-896.png",
+      "image_back": "1908-896--1.png"
     }
   },
   {
@@ -2473,8 +2373,8 @@
       "nature_tag": []
     },
     "image_selection": {
-      "image_front": "1908-1130--1.png",
-      "image_back": "1908-1130.png"
+      "image_front": "1908.1130.-1908-1130--1.png",
+      "image_back": "1908.1130.-1908-1130.png"
     }
   },
   {
@@ -2666,8 +2566,8 @@
       ]
     },
     "image_selection": {
-      "image_front": "1908-1336_shmemp.png",
-      "image_back": "1908-1336--1_shmemp.png"
+      "image_front": "1908.1336.-1908-1336_shmemp.png",
+      "image_back": "1908.1336.-1908-1336--1_shmemp.png"
     }
   },
   {
@@ -3156,8 +3056,8 @@
       "nature_tag": []
     },
     "image_selection": {
-      "image_front": "1908-1442_shmsea.JPG",
-      "image_back": "1908-1442-1_shmsea.JPG"
+      "image_front": "1908.1442.-1908-1442_shmsea.JPG",
+      "image_back": "1908.1442.-1908-1442-1_shmsea.JPG"
     }
   },
   {
@@ -3447,8 +3347,8 @@
       "nature_tag": []
     },
     "image_selection": {
-      "image_front": "1908-1469--1.png",
-      "image_back": "1908-1469.png"
+      "image_front": "1908.1489.-1908-1469--1.png",
+      "image_back": "1908.1489.-1908-1469.png"
     }
   },
   {
@@ -3545,8 +3445,8 @@
       "nature_tag": []
     },
     "image_selection": {
-      "image_front": "1908-1494_shmemp.png",
-      "image_back": "1908-1494--1_shmemp.png"
+      "image_front": "1908.1494.-1908-1494_shmemp.png",
+      "image_back": "1908.1494.-1908-1494--1_shmemp.png"
     }
   },
   {
@@ -4225,7 +4125,7 @@
       "nature_tag": []
     },
     "image_selection": {
-      "image_front": "1908-1979.JPG",
+      "image_front": "1908-1979.png",
       "image_back": "1908-1979--1.png"
     }
   },
@@ -4912,8 +4812,8 @@
       ]
     },
     "image_selection": {
-      "image_front": "1908-2558.JPG",
-      "image_back": "1908-2558--1.JPG"
+      "image_front": "1908-2558.png",
+      "image_back": "1908-2558--1.png"
     }
   },
   {
@@ -5212,8 +5112,8 @@
       "nature_tag": []
     },
     "image_selection": {
-      "image_front": "1908-627.png",
-      "image_back": "1908-627--1.png"
+      "image_front": "1908.627.-1908-627.png",
+      "image_back": "1908.627.-1908-627--1.png"
     }
   },
   {
@@ -5311,8 +5211,8 @@
       "nature_tag": []
     },
     "image_selection": {
-      "image_front": "1908-1943--2_shmsea.JPG",
-      "image_back": "1908-1943--4_shmsea.JPG"
+      "image_front": "1908.1943.-1908-1943--2_shmsea.JPG",
+      "image_back": "1908.1943.-1908-1943--4_shmsea.JPG"
     }
   },
   {
@@ -5509,8 +5409,8 @@
       "nature_tag": []
     },
     "image_selection": {
-      "image_front": "1908-2580.png",
-      "image_back": "1908-2580--1.png"
+      "image_front": "1908.2580.-1908-2580.png",
+      "image_back": "1908.2580.-1908-2580--1.png"
     }
   },
   {
@@ -5931,8 +5831,8 @@
       "nature_tag": []
     },
     "image_selection": {
-      "image_front": "1935-216--1.png",
-      "image_back": "1935-216.png"
+      "image_front": "1935.216.-1935-216--1.png",
+      "image_back": "1935.216.-1935-216.png"
     }
   },
   {
@@ -6135,8 +6035,8 @@
       "nature_tag": []
     },
     "image_selection": {
-      "image_front": "1951-274.JPG",
-      "image_back": "1951-274--1.JPG"
+      "image_front": "1951-274.png",
+      "image_back": "1951-274--1.png"
     }
   },
   {
@@ -6351,8 +6251,8 @@
       "nature_tag": []
     },
     "image_selection": {
-      "image_front": "1989-508_shmemp.png",
-      "image_back": "1989-508--1_shmemp.png"
+      "image_front": "1989.508.-1989-508_shmemp.png",
+      "image_back": "1989.508.-1989-508--1_shmemp.png"
     }
   },
   {
@@ -6570,8 +6470,8 @@
       ]
     },
     "image_selection": {
-      "image_front": "1989-515.JPG",
-      "image_back": "1989-515--1.JPG"
+      "image_front": "1989-515_shmemp.png",
+      "image_back": "1989-515--1_shmemp.png"
     }
   },
   {
@@ -6673,8 +6573,8 @@
       "nature_tag": []
     },
     "image_selection": {
-      "image_front": "1989-510.JPG",
-      "image_back": "1989-510--1.JPG"
+      "image_front": "1989.510.-1989-510.png",
+      "image_back": "1989.510.-1989-510--1.png"
     }
   },
   {
@@ -7095,8 +6995,8 @@
       "nature_tag": []
     },
     "image_selection": {
-      "image_front": "2022-102_shmsea.JPG",
-      "image_back": "2022-102--1_shmsea.JPG"
+      "image_front": "2022.102.-2022-102_shmsea.JPG",
+      "image_back": "2022.102.-2022-102--1_shmsea.JPG"
     }
   },
   {
@@ -7187,8 +7087,8 @@
       "nature_tag": []
     },
     "image_selection": {
-      "image_front": "1903-333_shmsea.JPG",
-      "image_back": "1903-333--1_shmsea.JPG"
+      "image_front": "1903.333.-1903-333_shmsea.JPG",
+      "image_back": "1903.333.-1903-333--1_shmsea.JPG"
     }
   },
   {
@@ -7292,8 +7192,8 @@
       "nature_tag": []
     },
     "image_selection": {
-      "image_front": "1905-884--1.jpg",
-      "image_back": "1905-884.jpg"
+      "image_front": "1905-884--1_shmsea.JPG",
+      "image_back": "1905-884_shmsea.JPG"
     }
   },
   {
@@ -7384,8 +7284,8 @@
       "nature_tag": []
     },
     "image_selection": {
-      "image_front": "1905-6278_shmsea.JPG",
-      "image_back": "1905-6278--1_shmsea.JPG"
+      "image_front": "1905.6278.-1905-6278_shmsea.JPG",
+      "image_back": "1905.6278.-1905-6278--1_shmsea.JPG"
     }
   },
   {
@@ -7483,8 +7383,8 @@
       "nature_tag": []
     },
     "image_selection": {
-      "image_front": "1989-540.JPG",
-      "image_back": "1989-540--1.JPG"
+      "image_front": "1989-540_shmsea.JPG",
+      "image_back": "1989-540--1_shmsea.JPG"
     }
   },
   {
@@ -7582,8 +7482,8 @@
       "nature_tag": []
     },
     "image_selection": {
-      "image_front": "1989-545--1.JPG",
-      "image_back": "1989-545.JPG"
+      "image_front": "1989-545--1_shmsea.JPG",
+      "image_back": "1989-545_shmsea.JPG"
     }
   },
   {
@@ -7686,8 +7586,8 @@
       "nature_tag": []
     },
     "image_selection": {
-      "image_front": "1995-24.JPG",
-      "image_back": "1995-24--1.JPG"
+      "image_front": "1995-24_shmsea.JPG",
+      "image_back": "1995-24--1_shmsea.JPG"
     }
   },
   {
@@ -7887,8 +7787,8 @@
       "nature_tag": []
     },
     "image_selection": {
-      "image_front": "2008-229--1.JPG",
-      "image_back": "2008-229--1a.JPG"
+      "image_front": "2008.229.1-2.-2008-229--1.JPG",
+      "image_back": "2008.229.1-2.-2008-229--1a.JPG"
     }
   },
   {
@@ -8896,8 +8796,8 @@
       "nature_tag": []
     },
     "image_selection": {
-      "image_front": "2023-1519-3-7--1_shmsea.JPG",
-      "image_back": "2023-1519-3-7_shmsea.JPG"
+      "image_front": "2023-1519-3-1--1_shmsea.JPG",
+      "image_back": "2023-1519-3-1_shmsea.JPG"
     }
   },
   {
@@ -9199,8 +9099,8 @@
       ]
     },
     "image_selection": {
-      "image_front": "1917-1505.png",
-      "image_back": "1917-1505--1.png"
+      "image_front": "1917.1505.-1917-1505.png",
+      "image_back": "1917.1505.-1917-1505--1.png"
     }
   }
 ]
