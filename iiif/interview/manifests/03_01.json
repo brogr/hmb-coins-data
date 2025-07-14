@@ -7,18 +7,6 @@
       "Interview mit Münzsammlerin M. Bieri: Gedicht zum Münzalbum – Vorgelesenes Gedicht"
     ]
   },
-  "requiredStatement": {
-    "label": {
-      "de": [
-        "Attribution"
-      ]
-    },
-    "value": {
-      "de": [
-        "M. Bieri, Digitales Schaudepot"
-      ]
-    }
-  },
   "provider": [
     {
       "id": "https://digitalesschaudepot.ch/",

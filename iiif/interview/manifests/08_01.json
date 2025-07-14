@@ -7,18 +7,6 @@
       "Interview mit Münzsammlerin M. Bieri: Die erste Reise der Sammlung - Griechenland – Frühe Reise nach Griechenland"
     ]
   },
-  "requiredStatement": {
-    "label": {
-      "de": [
-        "Attribution"
-      ]
-    },
-    "value": {
-      "de": [
-        "M. Bieri, Digitales Schaudepot"
-      ]
-    }
-  },
   "provider": [
     {
       "id": "https://digitalesschaudepot.ch/",
@@ -151,8 +139,8 @@
                   "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D014.jpg/full/max/0/default.jpg",
                   "type": "Image",
                   "format": "image/jpeg",
-                  "width": 7320,
-                  "height": 5484,
+                  "width": 1000,
+                  "height": 1000,
                   "service": [
                     {
                       "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D014.jpg",

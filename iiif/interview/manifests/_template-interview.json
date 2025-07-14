@@ -5,10 +5,6 @@
 	"label": {
 		"de": ["Interview mit Münzsammlerin M. Bieri: Einführung zum Album"]
 	},
-	"requiredStatement": {
-		"label": { "de": ["Attribution"] },
-		"value": { "de": ["M. Bieri, Digitales Schaudepot"] }
-	},
 	"provider": [
 		{
 			"id": "https://digitalesschaudepot.ch/",
