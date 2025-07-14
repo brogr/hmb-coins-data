@@ -355,19 +355,19 @@
       "height": 3007,
       "label": {
         "de": [
-          "Vs. Vorderseitenstempel von einem Kreuzer des 18. Jahrhunderts (Berner Wappen)"
+          "Vorderseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Vorderseite"
+              "Vs. Vorderseitenstempel von einem Kreuzer des 18. Jahrhunderts (Berner Wappen)"
             ]
           }
         },
@@ -420,19 +420,19 @@
       "height": 2055,
       "label": {
         "de": [
-          "Rs. Vorderseitenstempel von einem Kreuzer des 18. Jahrhunderts (Berner Wappen)"
+          "Rückseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Rückseite"
+              "Rs. Vorderseitenstempel von einem Kreuzer des 18. Jahrhunderts (Berner Wappen)"
             ]
           }
         },

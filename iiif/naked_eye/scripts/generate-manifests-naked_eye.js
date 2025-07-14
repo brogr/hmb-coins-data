@@ -378,25 +378,20 @@ async function generateManifests() {
 					canvas.width = dimensions.width;
 					canvas.height = dimensions.height;
 
-					// Use canvas-specific description if available, otherwise use default labels
-					if (canvasDescription && canvasDescription.trim() !== "") {
-						canvas.label = { de: [canvasDescription] };
-					} else {
-						// Fallback to generic labels if no specific description is available
-						canvas.label = { de: [sideName] };
-					}
+					// generic canvas labels
+					canvas.label = { de: [sideName] };
 
 					// Update canvas metadata to show which side of the coin it is
 					if (canvas.metadata && canvas.metadata.length > 0) {
 						// Update existing metadata
-						canvas.metadata[0].label = { de: ["Seite"] };
-						canvas.metadata[0].value = { de: [sideName] };
+						canvas.metadata[0].label = { de: ["Beschreibung"] };
+						canvas.metadata[0].value = { de: [canvasDescription] };
 					} else {
 						// Create metadata if it doesn't exist
 						canvas.metadata = [
 							{
-								label: { de: ["Seite"] },
-								value: { de: [sideName] },
+								label: { de: ["Beschreibung"] },
+								value: { de: [canvasDescription] },
 							},
 						];
 					}

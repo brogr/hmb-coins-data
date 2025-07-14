@@ -295,19 +295,19 @@
       "height": 2466,
       "label": {
         "de": [
-          "Vs. Eppichblatt "
+          "Vorderseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Vorderseite"
+              "Vs. Eppichblatt "
             ]
           }
         },
@@ -360,19 +360,19 @@
       "height": 2489,
       "label": {
         "de": [
-          "Rs. Zehnteiliges quadratum incusum"
+          "Rückseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Rückseite"
+              "Rs. Zehnteiliges quadratum incusum"
             ]
           }
         },

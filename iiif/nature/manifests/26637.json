@@ -199,19 +199,19 @@
       "height": 1317,
       "label": {
         "de": [
-          "Athenakopf n.r."
+          "Vorderseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Vorderseite"
+              "Athenakopf n.r."
             ]
           }
         },
@@ -271,12 +271,12 @@
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Rückseite"
+              ""
             ]
           }
         },

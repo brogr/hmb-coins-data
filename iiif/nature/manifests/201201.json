@@ -367,19 +367,19 @@
       "height": 1275,
       "label": {
         "de": [
-          "Vs.Kopf des Herkules im Löwenfell nach rechts"
+          "Vorderseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Vorderseite"
+              "Vs.Kopf des Herkules im Löwenfell nach rechts"
             ]
           }
         },
@@ -432,19 +432,19 @@
       "height": 1321,
       "label": {
         "de": [
-          "Rs. Stehendes Pferd nach rechts, Legenden"
+          "Rückseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Rückseite"
+              "Rs. Stehendes Pferd nach rechts, Legenden"
             ]
           }
         },

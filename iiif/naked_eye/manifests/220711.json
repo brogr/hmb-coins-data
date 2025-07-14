@@ -319,19 +319,19 @@
       "height": 1825,
       "label": {
         "de": [
-          "Vs. Stadtwappen"
+          "Vorderseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Vorderseite"
+              "Vs. Stadtwappen"
             ]
           }
         },
@@ -384,19 +384,19 @@
       "height": 1840,
       "label": {
         "de": [
-          "Rs. Sitzende Frau, ihren Mantel um eine Vielzahl Kinder schlagend"
+          "Rückseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Rückseite"
+              "Rs. Sitzende Frau, ihren Mantel um eine Vielzahl Kinder schlagend"
             ]
           }
         },

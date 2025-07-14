@@ -283,19 +283,19 @@
       "height": 1463,
       "label": {
         "de": [
-          "Vs. Kornähre "
+          "Vorderseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Vorderseite"
+              "Vs. Kornähre "
             ]
           }
         },
@@ -348,19 +348,19 @@
       "height": 1501,
       "label": {
         "de": [
-          "Rs. Bukranion (inkus)"
+          "Rückseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Rückseite"
+              "Rs. Bukranion (inkus)"
             ]
           }
         },

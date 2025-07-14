@@ -367,19 +367,19 @@
       "height": 2428,
       "label": {
         "de": [
-          "Beidseitig stilisierte Delphindarstellung in Form und Relief"
+          "Vorderseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Vorderseite"
+              "Beidseitig stilisierte Delphindarstellung in Form und Relief"
             ]
           }
         },
@@ -439,12 +439,12 @@
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Rückseite"
+              ""
             ]
           }
         },

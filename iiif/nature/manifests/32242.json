@@ -259,19 +259,19 @@
       "height": 868,
       "label": {
         "de": [
-          "Vs. Seeschildkröte"
+          "Vorderseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Vorderseite"
+              "Vs. Seeschildkröte"
             ]
           }
         },
@@ -324,19 +324,19 @@
       "height": 955,
       "label": {
         "de": [
-          "Rs. Quatratum incusum mit \"Windmühlenmuster\""
+          "Rückseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Rückseite"
+              "Rs. Quatratum incusum mit \"Windmühlenmuster\""
             ]
           }
         },

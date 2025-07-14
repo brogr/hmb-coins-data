@@ -379,19 +379,19 @@
       "height": 1717,
       "label": {
         "de": [
-          "Vs. Legende "
+          "Vorderseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Vorderseite"
+              "Vs. Legende "
             ]
           }
         },
@@ -444,19 +444,19 @@
       "height": 1687,
       "label": {
         "de": [
-          "Rs. Nummer"
+          "Rückseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Rückseite"
+              "Rs. Nummer"
             ]
           }
         },

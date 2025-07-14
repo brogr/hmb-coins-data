@@ -295,19 +295,19 @@
       "height": 1667,
       "label": {
         "de": [
-          "Vs. Adler nach links stehend"
+          "Vorderseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Vorderseite"
+              "Vs. Adler nach links stehend"
             ]
           }
         },
@@ -360,19 +360,19 @@
       "height": 1655,
       "label": {
         "de": [
-          "Rs. Krabbe"
+          "Rückseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Rückseite"
+              "Rs. Krabbe"
             ]
           }
         },

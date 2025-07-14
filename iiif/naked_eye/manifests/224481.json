@@ -319,19 +319,19 @@
       "height": 1642,
       "label": {
         "de": [
-          "1. 100 Reichmark 7. Februar 1908 2. 100 Reichmark 7. Februar 1908 3. 100 Reichmark 7. Februar 1908 4. 1000 Reichmark 21. April 1910 5. 1000 Reichmark 21. April 1910 6. 50 Reichmark 21 April 1910 7. 20 Reichmark 19. Februar 1914 8. 20 Reichmark 4. November 1915 9. 20 Reichmark 4. November 1915 10. 5 Mark Darlehnskassenschein 1 August 1917 11. 20 Mark Darlehnskassenschein 20. Februar 1918 12. 50 Reichsmark 24. Juni 1919 13. 10 Reichsmark 6. Februar 1920 14. 10 Reichsmark 6. Februar 1920 15. 10 Reichsmark 6. Februar 1920 16. 2 Mark Darlehnskassenschein 1. März 1920 17. 1 Mark Darlehnskassenschein 1. März 1920 18. Spottmarke zu einer Mark (Stadt Tonndorf-Lohe) 30. März 1921 19. 1000 Reichsmark 15. September 1922 20. 1000 Reichsmark 15. September 1922 21. 5000000 Mark Gutschein der Stadt Plauen 1. August 1923 22. 5000000 Reichsmark 1. Mai 1923"
+          "Vorderseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Vorderseite"
+              "1. 100 Reichmark 7. Februar 1908 2. 100 Reichmark 7. Februar 1908 3. 100 Reichmark 7. Februar 1908 4. 1000 Reichmark 21. April 1910 5. 1000 Reichmark 21. April 1910 6. 50 Reichmark 21 April 1910 7. 20 Reichmark 19. Februar 1914 8. 20 Reichmark 4. November 1915 9. 20 Reichmark 4. November 1915 10. 5 Mark Darlehnskassenschein 1 August 1917 11. 20 Mark Darlehnskassenschein 20. Februar 1918 12. 50 Reichsmark 24. Juni 1919 13. 10 Reichsmark 6. Februar 1920 14. 10 Reichsmark 6. Februar 1920 15. 10 Reichsmark 6. Februar 1920 16. 2 Mark Darlehnskassenschein 1. März 1920 17. 1 Mark Darlehnskassenschein 1. März 1920 18. Spottmarke zu einer Mark (Stadt Tonndorf-Lohe) 30. März 1921 19. 1000 Reichsmark 15. September 1922 20. 1000 Reichsmark 15. September 1922 21. 5000000 Mark Gutschein der Stadt Plauen 1. August 1923 22. 5000000 Reichsmark 1. Mai 1923"
             ]
           }
         },
@@ -391,12 +391,12 @@
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Rückseite"
+              ""
             ]
           }
         },

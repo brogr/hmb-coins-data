@@ -259,19 +259,19 @@
       "height": 2361,
       "label": {
         "de": [
-          "Vs. Helioskopf v.v. "
+          "Vorderseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Vorderseite"
+              "Vs. Helioskopf v.v. "
             ]
           }
         },
@@ -324,19 +324,19 @@
       "height": 2381,
       "label": {
         "de": [
-          "Rs. Aufblühende Rose"
+          "Rückseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Rückseite"
+              "Rs. Aufblühende Rose"
             ]
           }
         },

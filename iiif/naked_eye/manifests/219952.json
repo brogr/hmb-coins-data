@@ -403,19 +403,19 @@
       "height": 1744,
       "label": {
         "de": [
-          "Vs. Legende um Schweizerkreuz und Wertangabe "
+          "Vorderseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Vorderseite"
+              "Vs. Legende um Schweizerkreuz und Wertangabe "
             ]
           }
         },
@@ -468,19 +468,19 @@
       "height": 1732,
       "label": {
         "de": [
-          "Rs. Physikalisch-chemische Darstellung vom Element Platin"
+          "Rückseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Rückseite"
+              "Rs. Physikalisch-chemische Darstellung vom Element Platin"
             ]
           }
         },

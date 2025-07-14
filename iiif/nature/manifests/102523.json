@@ -331,19 +331,19 @@
       "height": 1810,
       "label": {
         "de": [
-          "Vs. Hund nach rechts"
+          "Vorderseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Vorderseite"
+              "Vs. Hund nach rechts"
             ]
           }
         },
@@ -396,19 +396,19 @@
       "height": 1789,
       "label": {
         "de": [
-          "Rs. Nymphenkopf nach rechts"
+          "Rückseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Rückseite"
+              "Rs. Nymphenkopf nach rechts"
             ]
           }
         },

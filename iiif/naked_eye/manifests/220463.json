@@ -355,19 +355,19 @@
       "height": 1810,
       "label": {
         "de": [
-          "Vs. Chinesische Schriftzeichen"
+          "Vorderseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Vorderseite"
+              "Vs. Chinesische Schriftzeichen"
             ]
           }
         },
@@ -420,19 +420,19 @@
       "height": 1696,
       "label": {
         "de": [
-          "Rs. Chinesische Schriftzeichen"
+          "Rückseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Rückseite"
+              "Rs. Chinesische Schriftzeichen"
             ]
           }
         },

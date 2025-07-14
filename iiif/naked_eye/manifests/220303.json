@@ -307,19 +307,19 @@
       "height": 1591,
       "label": {
         "de": [
-          "Vs. Basler Wappen, dahinter Kreuz"
+          "Vorderseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Vorderseite"
+              "Vs. Basler Wappen, dahinter Kreuz"
             ]
           }
         },
@@ -379,12 +379,12 @@
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Rückseite"
+              ""
             ]
           }
         },

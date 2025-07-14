@@ -343,19 +343,19 @@
       "height": 2884,
       "label": {
         "de": [
-          "Vs. Wertzahl, Legende, Jahreszahl, Umschrift, doppelter Perlkreis"
+          "Vorderseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Vorderseite"
+              "Vs. Wertzahl, Legende, Jahreszahl, Umschrift, doppelter Perlkreis"
             ]
           }
         },
@@ -408,19 +408,19 @@
       "height": 2876,
       "label": {
         "de": [
-          "Rs. bekrönter Doppeladler mit Szepter und Reichsapfel, Perlkreis"
+          "Rückseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Rückseite"
+              "Rs. bekrönter Doppeladler mit Szepter und Reichsapfel, Perlkreis"
             ]
           }
         },

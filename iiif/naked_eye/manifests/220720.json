@@ -331,19 +331,19 @@
       "height": 1681,
       "label": {
         "de": [
-          "Vs. Nominal auf horizontaler Linie"
+          "Vorderseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Vorderseite"
+              "Vs. Nominal auf horizontaler Linie"
             ]
           }
         },
@@ -396,19 +396,19 @@
       "height": 1705,
       "label": {
         "de": [
-          "Rs. Fisch von links und unten"
+          "Rückseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Rückseite"
+              "Rs. Fisch von links und unten"
             ]
           }
         },

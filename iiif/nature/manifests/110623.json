@@ -283,19 +283,19 @@
       "height": 2386,
       "label": {
         "de": [
-          "Vs. Bärtiger Mars mit korinthischem Helm n.r."
+          "Vorderseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Vorderseite"
+              "Vs. Bärtiger Mars mit korinthischem Helm n.r."
             ]
           }
         },
@@ -348,19 +348,19 @@
       "height": 2327,
       "label": {
         "de": [
-          "Rs. Kornähre"
+          "Rückseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Rückseite"
+              "Rs. Kornähre"
             ]
           }
         },

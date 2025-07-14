@@ -206,12 +206,12 @@
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Vorderseite"
+              ""
             ]
           }
         },
@@ -271,12 +271,12 @@
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Rückseite"
+              ""
             ]
           }
         },

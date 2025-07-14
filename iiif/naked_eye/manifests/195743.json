@@ -355,19 +355,19 @@
       "height": 1202,
       "label": {
         "de": [
-          "Wertzahl 5 in ovalem Feld Rs. "
+          "Vorderseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Vorderseite"
+              "Wertzahl 5 in ovalem Feld Rs. "
             ]
           }
         },
@@ -420,19 +420,19 @@
       "height": 1197,
       "label": {
         "de": [
-          "Deutscher heraldischer Adler im offenen Flug"
+          "Rückseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Rückseite"
+              "Deutscher heraldischer Adler im offenen Flug"
             ]
           }
         },

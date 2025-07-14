@@ -331,19 +331,19 @@
       "height": 1594,
       "label": {
         "de": [
-          "Vs. Nominal auf horizontaler Linie "
+          "Vorderseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Vorderseite"
+              "Vs. Nominal auf horizontaler Linie "
             ]
           }
         },
@@ -396,19 +396,19 @@
       "height": 1636,
       "label": {
         "de": [
-          "Rs. Auf einem Fisch reitende Putte von halblinks und unten"
+          "Rückseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Rückseite"
+              "Rs. Auf einem Fisch reitende Putte von halblinks und unten"
             ]
           }
         },

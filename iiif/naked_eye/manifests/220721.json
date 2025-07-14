@@ -331,19 +331,19 @@
       "height": 1819,
       "label": {
         "de": [
-          "Vs. Nominal in einem Achteck zwischen zwei gebogenen Blattlinien"
+          "Vorderseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Vorderseite"
+              "Vs. Nominal in einem Achteck zwischen zwei gebogenen Blattlinien"
             ]
           }
         },
@@ -396,19 +396,19 @@
       "height": 1807,
       "label": {
         "de": [
-          "Rs. Mutter mit Kind von vorn in einem Achteck"
+          "Rückseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Rückseite"
+              "Rs. Mutter mit Kind von vorn in einem Achteck"
             ]
           }
         },

@@ -307,19 +307,19 @@
       "height": 1660,
       "label": {
         "de": [
-          "Vs. Flügeleber"
+          "Vorderseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Vorderseite"
+              "Vs. Flügeleber"
             ]
           }
         },
@@ -372,19 +372,19 @@
       "height": 1666,
       "label": {
         "de": [
-          "Rs. Quadratum incusum"
+          "Rückseite"
         ]
       },
       "metadata": [
         {
           "label": {
             "de": [
-              "Seite"
+              "Beschreibung"
             ]
           },
           "value": {
             "de": [
-              "Rückseite"
+              "Rs. Quadratum incusum"
             ]
           }
         },
