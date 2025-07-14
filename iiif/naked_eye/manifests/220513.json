@@ -1,0 +1,482 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/naked_eye/manifests/220513.json",
+  "type": "Manifest",
+  "label": {
+    "de": [
+      "Bern, Republik. Geldersatzmarke für arme Personen im Hungerwinter 1816/1817"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "de": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "de": [
+        "Historisches Museum Basel"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://digitalesschaudepot.ch/",
+      "type": "Agent",
+      "label": {
+        "de": [
+          "Digitales Schaudepot"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://digitalesschaudepot.ch/",
+          "type": "Text",
+          "label": {
+            "de": [
+              "Digitales Schaudepot"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "de": [
+          "Urheber"
+        ]
+      },
+      "value": {
+        "de": [
+          "Digitales Schaudepot"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Sammlung"
+        ]
+      },
+      "value": {
+        "de": [
+          "More than the Naked Eye Can See"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "de": [
+          "Bern, Republik. Geldersatzmarke für arme Personen im Hungerwinter 1816/1817"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Beschreibung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Dieses Geldersatzstück hat Bern im Hungerwinter 1816/1817 an Arme ausgegeben. Darauf abgebildet ist der Stempel des Berner Kreuzers inklusive Berner Wappen."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Original ID"
+        ]
+      },
+      "value": {
+        "de": [
+          "220513"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Schlagwörter"
+        ]
+      },
+      "value": {
+        "de": [
+          "DSD Digitales Schaudepot Münzkabinett"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Entstehungszeit"
+        ]
+      },
+      "value": {
+        "de": [
+          "1816 bis 1817"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Datierungsart"
+        ]
+      },
+      "value": {
+        "de": [
+          "ohne Jahr"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Datierungsinfo"
+        ]
+      },
+      "value": {
+        "de": [
+          "Datierung: 19. Jh.; Früheste Datierung: 1816; Späteste Datierung: 1817"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Durchmesser"
+        ]
+      },
+      "value": {
+        "de": [
+          "28.1 mm"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Provenienz"
+        ]
+      },
+      "value": {
+        "de": [
+          "Provenienz: Bernisches Historisches Museum, Sammlung unbekannter Herkunft"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Inventarnummer"
+        ]
+      },
+      "value": {
+        "de": [
+          "2022.166."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Institutionsnummer"
+        ]
+      },
+      "value": {
+        "de": [
+          "154324"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Körperschaft (Verkäufer)"
+        ]
+      },
+      "value": {
+        "de": [
+          "Bernisches Historisches Museum (20595)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Dokumentation vorhanden"
+        ]
+      },
+      "value": {
+        "de": [
+          "Ja"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Projekt-ID"
+        ]
+      },
+      "value": {
+        "de": [
+          "eingange_2022GWAAFZ9R"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Projektbezeichnung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Eingänge 2022"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Objektstatus"
+        ]
+      },
+      "value": {
+        "de": [
+          "Sammlungsobjekt"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Material"
+        ]
+      },
+      "value": {
+        "de": [
+          "Messing"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Technik"
+        ]
+      },
+      "value": {
+        "de": [
+          "geprägt"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Entstehungsort"
+        ]
+      },
+      "value": {
+        "de": [
+          "Bern"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Koordinaten"
+        ]
+      },
+      "value": {
+        "de": [
+          "46.94542360028137, 7.4460885063164"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Inschrift"
+        ]
+      },
+      "value": {
+        "de": [
+          "Inschrift: Vs. MONETA REPUBLICA BERNENSIS Rs. PORTSMOUTH AND CHICHESTER . / HALF - PENNY im Abschnitt 1794"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Erwerbungsart"
+        ]
+      },
+      "value": {
+        "de": [
+          "Kauf"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Erwerbungsdatum"
+        ]
+      },
+      "value": {
+        "de": [
+          "2021-11-10"
+        ]
+      }
+    }
+  ],
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/naked_eye/manifests/220513/canvas-front",
+      "type": "Canvas",
+      "width": 3060,
+      "height": 3007,
+      "label": {
+        "de": [
+          "Vs. Vorderseitenstempel von einem Kreuzer des 18. Jahrhunderts (Berner Wappen)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "de": [
+              "Seite"
+            ]
+          },
+          "value": {
+            "de": [
+              "Vorderseite"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/naked_eye/manifests/220513/canvas-front/annotation/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/naked_eye/manifests/220513/canvas-front/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnaked_eye%2F2022-166--1_shmsea.JPG/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 3060,
+                "height": 3007,
+                "service": [
+                  {
+                    "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnaked_eye%2F2022-166--1_shmsea.JPG",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/naked_eye/manifests/220513/canvas-front"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/naked_eye/manifests/220513/canvas-back",
+      "type": "Canvas",
+      "width": 2517,
+      "height": 2055,
+      "label": {
+        "de": [
+          "Rs. Vorderseitenstempel von einem Kreuzer des 18. Jahrhunderts (Berner Wappen)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "de": [
+              "Seite"
+            ]
+          },
+          "value": {
+            "de": [
+              "Rückseite"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/naked_eye/manifests/220513/canvas-back/annotation/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/naked_eye/manifests/220513/canvas-back/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnaked_eye%2F2022-166_shmsea.JPG/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2517,
+                "height": 2055,
+                "service": [
+                  {
+                    "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnaked_eye%2F2022-166_shmsea.JPG",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/naked_eye/manifests/220513/canvas-back"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

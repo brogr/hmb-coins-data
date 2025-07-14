@@ -1,0 +1,12 @@
+{
+	"name": "hmb-coins-iiif-manifest-generator-naked_eye",
+	"version": "1.0.1",
+	"description": "Generates IIIF manifests from naked_eye data",
+	"type": "module",
+	"scripts": {
+		"generate-manifests": "node generate-manifests-naked_eye.js"
+	},
+	"dependencies": {
+		"sharp": "^0.34.2"
+	}
+}

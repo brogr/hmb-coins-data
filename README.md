@@ -16,16 +16,16 @@ Contains IIIF Representation API manifests, the data and scripts to generate the
 - manifests: `cd ./iiif/interview/scripts/ && npm run generate-manifests` ingests [interview.json](./data/interview.json) to generate [manifests](./iiif/interview/manifests/) based on [\_template.json](./iiif/interview/manifests/_template.json), which are then linked to from the Exhibit.so story
 - audio files: change into the directory containing the files to be compressed; execute [compress_mp3.sh](./iiif/interview/scripts/compress_mp3.sh); move the resulting files from the `_compressed/` directory to [./iiif/interview/audio/](./iiif/interview/audio/)
 
-# traces
+# naked_eye
 
-[/iiif/traces/](./iiif/traces/) contains additional data for the _More than the Naked Eye Can See_ IIIF presentation:
+[/iiif/naked_eye/](./iiif/traces/) contains additional data for the _More than the Naked Eye Can See_ IIIF presentation:
 
-- IIIF Representation API [manifests](./iiif/traces/manifests/)
-- [data](./iiif/traces/data/) and the [script](./iiif/traces/scripts/generate-manifests.js) to generate the manifests
+- IIIF Representation API [manifests](./iiif/naked_eye/manifests/)
+- [data](./iiif/traces/data/) and the [script](./iiif/naked_eye/scripts/generate-manifests.js) to generate the manifests
 
 ## Use
 
-`cd ./iiif/traces/scripts/ && npm run generate-manifests`
+`cd ./iiif/naked_eye/scripts/ && npm run generate-manifests`
 
 # nature
 

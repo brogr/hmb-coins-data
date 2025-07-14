@@ -1,0 +1,530 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/naked_eye/manifests/219952.json",
+  "type": "Manifest",
+  "label": {
+    "de": [
+      "Schweiz, Eidgenossenschaft (1848 - ). 25 Franken Sondermünze \"Platinum\", mit Originalbox"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "de": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "de": [
+        "Historisches Museum Basel"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://digitalesschaudepot.ch/",
+      "type": "Agent",
+      "label": {
+        "de": [
+          "Digitales Schaudepot"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://digitalesschaudepot.ch/",
+          "type": "Text",
+          "label": {
+            "de": [
+              "Digitales Schaudepot"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "de": [
+          "Urheber"
+        ]
+      },
+      "value": {
+        "de": [
+          "Digitales Schaudepot"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Sammlung"
+        ]
+      },
+      "value": {
+        "de": [
+          "More than the Naked Eye Can See"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "de": [
+          "Schweiz, Eidgenossenschaft (1848 - ). 25 Franken Sondermünze \"Platinum\", mit Originalbox"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Beschreibung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Das Material der Münze, Platin, wird auf der Rückseite als Element physikalisch-chemisch dargestellt."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Original ID"
+        ]
+      },
+      "value": {
+        "de": [
+          "219952"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Schlagwörter"
+        ]
+      },
+      "value": {
+        "de": [
+          "DSD Digitales Schaudepot Münzkabinett"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Entstehungszeit"
+        ]
+      },
+      "value": {
+        "de": [
+          "2022"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Datierungsart"
+        ]
+      },
+      "value": {
+        "de": [
+          "mit Jahr"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Datierungsinfo"
+        ]
+      },
+      "value": {
+        "de": [
+          "Datierung: 2022; Früheste Datierung: 2022; Späteste Datierung: 2022"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Durchmesser"
+        ]
+      },
+      "value": {
+        "de": [
+          "25 mm"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Inventarnummer"
+        ]
+      },
+      "value": {
+        "de": [
+          "2022.215."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Institutionsnummer"
+        ]
+      },
+      "value": {
+        "de": [
+          "153566, 153567, 155797"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Körperschaft (Hersteller)"
+        ]
+      },
+      "value": {
+        "de": [
+          "Swissmint (840)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Standortgeschichte"
+        ]
+      },
+      "value": {
+        "de": [
+          "ST -2, M, 2.85., 04.02.2022, Stammplatz"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Dokumentation vorhanden"
+        ]
+      },
+      "value": {
+        "de": [
+          "Ja"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Projekt-ID"
+        ]
+      },
+      "value": {
+        "de": [
+          "eingange_2022GWAAFZ9R"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Projektbezeichnung"
+        ]
+      },
+      "value": {
+        "de": [
+          "Eingänge 2022"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Objektstatus"
+        ]
+      },
+      "value": {
+        "de": [
+          "Sammlungsobjekt"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Material"
+        ]
+      },
+      "value": {
+        "de": [
+          "Platin"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Technik"
+        ]
+      },
+      "value": {
+        "de": [
+          "geprägt"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Stempelstellung"
+        ]
+      },
+      "value": {
+        "de": [
+          "360 °"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Entstehungsort"
+        ]
+      },
+      "value": {
+        "de": [
+          "Bern"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Koordinaten"
+        ]
+      },
+      "value": {
+        "de": [
+          "46.94542360028137, 7.4460885063164"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Inschrift"
+        ]
+      },
+      "value": {
+        "de": [
+          "Inschrift: Vs. CONFOEDERATIO / HELVETICA / 2022, + / 25 / B / FR, im Feld links in Kreis Pt / 999.5 Rs. PT / PLATINUM, im Feld unten R(retrograd)M in Kreis Rand: DOMINVS PROVIDEBIT *************"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Erwerbungsart"
+        ]
+      },
+      "value": {
+        "de": [
+          "Kauf"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Erwerbungsdatum"
+        ]
+      },
+      "value": {
+        "de": [
+          "2022-01-13"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Erwerbungsvermerk"
+        ]
+      },
+      "value": {
+        "de": [
+          "Ausgabedatum 13.01.2022."
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Erwerbungspreis"
+        ]
+      },
+      "value": {
+        "de": [
+          "799.00 CHF"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Wertschätzung"
+        ]
+      },
+      "value": {
+        "de": [
+          "3500.- CHF, 07.10.2022"
+        ]
+      }
+    }
+  ],
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/naked_eye/manifests/219952/canvas-front",
+      "type": "Canvas",
+      "width": 1723,
+      "height": 1744,
+      "label": {
+        "de": [
+          "Vs. Legende um Schweizerkreuz und Wertangabe "
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "de": [
+              "Seite"
+            ]
+          },
+          "value": {
+            "de": [
+              "Vorderseite"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/naked_eye/manifests/219952/canvas-front/annotation/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/naked_eye/manifests/219952/canvas-front/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnaked_eye%2F2022-215_shmsea.JPG/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1723,
+                "height": 1744,
+                "service": [
+                  {
+                    "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnaked_eye%2F2022-215_shmsea.JPG",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/naked_eye/manifests/219952/canvas-front"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/naked_eye/manifests/219952/canvas-back",
+      "type": "Canvas",
+      "width": 1720,
+      "height": 1732,
+      "label": {
+        "de": [
+          "Rs. Physikalisch-chemische Darstellung vom Element Platin"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "de": [
+              "Seite"
+            ]
+          },
+          "value": {
+            "de": [
+              "Rückseite"
+            ]
+          }
+        },
+        {
+          "label": {
+            "de": [
+              "Legende"
+            ]
+          },
+          "value": {
+            "de": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/naked_eye/manifests/219952/canvas-back/annotation/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/naked_eye/manifests/219952/canvas-back/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnaked_eye%2F2022-215--1_shmsea.JPG/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1720,
+                "height": 1732,
+                "service": [
+                  {
+                    "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnaked_eye%2F2022-215--1_shmsea.JPG",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/naked_eye/manifests/219952/canvas-back"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

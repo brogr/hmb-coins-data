@@ -99,7 +99,7 @@
       },
       "value": {
         "de": [
-          "Pegasus, das geflügelte Pferd, war in der griechischen Mythologie das Kind von Poseidon und Medusa, das Legenden zufolge bei der Köpfung von Medusa aus deren Nacken entsprang. "
+          "Pegasus, das geflügelte Pferd, war in der griechischen Mythologie das Kind von Poseidon und Medusa, das Legenden zufolge bei der Köpfung von Medusa aus deren Nacken entsprang."
         ]
       }
     },
@@ -356,8 +356,8 @@
     {
       "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/43546/canvas-back",
       "type": "Canvas",
-      "width": 1744,
-      "height": 1678,
+      "width": 1801,
+      "height": 1789,
       "label": {
         "de": [
           "Rückseite"
@@ -399,14 +399,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908-987--1_shmsea.JPG/full/max/0/default.jpg",
+                "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908-735--1_shmsea.JPG/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 1744,
-                "height": 1678,
+                "width": 1801,
+                "height": 1789,
                 "service": [
                   {
-                    "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908-987--1_shmsea.JPG",
+                    "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908-735--1_shmsea.JPG",
                     "type": "ImageService3",
                     "profile": "level2"
                   }

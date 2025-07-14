@@ -14,7 +14,7 @@ async function generateManifests() {
 		// Local path to the folder containing the image files
 		// Adjust this path to match your local setup
 		const LOCAL_IMAGE_PATH =
-			"/Users/fv/Documents/Lohnarbeit/Brogramming/DSD Numismatik/Material/20250320 All data/images/nature_on_coins";
+			"/Users/fv/Documents/Lohnarbeit/Brogramming/DSD Numismatik/Material/20250320 All data/Complete_Data/Images_final/nature_on_coins";
 
 		// Define file paths
 		const TEMPLATE_PATH = "../manifests/_template-nature.json";

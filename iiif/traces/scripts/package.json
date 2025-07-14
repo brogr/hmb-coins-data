@@ -1,9 +1,0 @@
-{
-	"name": "hmb-coins-iiif-manifest-generator-eye",
-	"version": "1.0.0",
-	"description": "Generates IIIF manifests from traces data",
-	"type": "module",
-	"scripts": {
-		"generate-manifests": "node generate-manifests.js"
-	}
-}

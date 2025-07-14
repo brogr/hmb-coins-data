@@ -303,11 +303,11 @@
     {
       "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/94389/canvas-front",
       "type": "Canvas",
-      "width": 1438,
-      "height": 1368,
+      "width": 1465,
+      "height": 1325,
       "label": {
         "de": [
-          "Vs. Pegasos nach rechts, darunter Alpha "
+          "Vs. Pegasos nach rechts, darunter Alpha"
         ]
       },
       "metadata": [
@@ -346,14 +346,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908.1130.-1908-1130.png/full/max/0/default.jpg",
+                "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908.1130.-1908-1130--1.png/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 1438,
-                "height": 1368,
+                "width": 1465,
+                "height": 1325,
                 "service": [
                   {
-                    "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908.1130.-1908-1130.png",
+                    "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908.1130.-1908-1130--1.png",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -368,8 +368,8 @@
     {
       "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/nature/manifests/94389/canvas-back",
       "type": "Canvas",
-      "width": 1465,
-      "height": 1325,
+      "width": 1438,
+      "height": 1368,
       "label": {
         "de": [
           "Rs. Kopf der Pallas Athene mit korinthischen Helm nach rechts"
@@ -411,14 +411,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908.1130.-1908-1130--1.png/full/max/0/default.jpg",
+                "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908.1130.-1908-1130.png/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 1465,
-                "height": 1325,
+                "width": 1438,
+                "height": 1368,
                 "service": [
                   {
-                    "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908.1130.-1908-1130--1.png",
+                    "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Fnature_on_coins%2F1908.1130.-1908-1130.png",
                     "type": "ImageService3",
                     "profile": "level2"
                   }

@@ -22,7 +22,7 @@ async function generateManifests() {
 		// Local path to the folder containing the image files
 		// Adjust this path to match your local setup
 		const LOCAL_IMAGE_PATH =
-			"/Users/fv/Documents/Lohnarbeit/Brogramming/DSD Numismatik/Material/20250320 All data/images/interview";
+			"/Users/fv/Documents/Lohnarbeit/Brogramming/DSD Numismatik/Material/20250428 Interview data/interview";
 
 		// Define file paths
 		const TEMPLATE_PATH = "../manifests/_template-interview.json";
