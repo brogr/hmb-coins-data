@@ -11,6 +11,7 @@
 
 - `accompanyingCanvas` limits functionality, preventing otherwise supported features:
   - zoom with audio: due to `accompanyingCanvas`
+    - [ ] try cheating it by: remove accompanyingCanvas, add item in exhibit, set zoom, re-add accompanyingCanvas
   - multiple canvases per manifest: works without audio / `accompanyingCanvas`
 - multiple items/images per canvas?
 - `annotations`
