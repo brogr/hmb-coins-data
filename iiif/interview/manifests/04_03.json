@@ -4,7 +4,7 @@
   "type": "Manifest",
   "label": {
     "de": [
-      "Interview mit Münzsammlerin M. Bieri: Besondere Formen – Zweifarbige Münzen - Frankreich"
+      "Interview mit Münzsammlerin M. Bieri: Besondere Formen – Zweifarbige Münzen - Italien"
     ]
   },
   "provider": [
@@ -75,7 +75,7 @@
       },
       "value": {
         "de": [
-          "Zweifarbige Münzen - Frankreich"
+          "Zweifarbige Münzen - Italien"
         ]
       }
     }
@@ -84,13 +84,13 @@
     {
       "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_03/canvas",
       "type": "Canvas",
-      "duration": 29,
+      "duration": 18,
       "accompanyingCanvas": {
         "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_03/canvas/accompanying",
         "type": "Canvas",
         "label": {
           "de": [
-            "Zweifarbige Münzen - Frankreich"
+            "Zweifarbige Münzen - Italien"
           ]
         },
         "metadata": [
@@ -102,7 +102,7 @@
             },
             "value": {
               "de": [
-                "Zweifarbige Münzen - Frankreich"
+                "Zweifarbige Münzen - Italien"
               ]
             }
           }
@@ -118,7 +118,7 @@
                 "motivation": "painting",
                 "label": {
                   "de": [
-                    "Zweifarbige Münzen - Frankreich"
+                    "Zweifarbige Münzen - Italien"
                   ]
                 },
                 "metadata": [
@@ -130,20 +130,20 @@
                     },
                     "value": {
                       "de": [
-                        "Zweifarbige Münzen - Frankreich"
+                        "Zweifarbige Münzen - Italien"
                       ]
                     }
                   }
                 ],
                 "body": {
-                  "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D009.jpg/full/max/0/default.jpg",
+                  "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D008.jpg/full/max/0/default.jpg",
                   "type": "Image",
                   "format": "image/jpeg",
                   "width": 7320,
                   "height": 5484,
                   "service": [
                     {
-                      "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D009.jpg",
+                      "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D008.jpg",
                       "type": "ImageService3",
                       "profile": "level2"
                     }
@@ -166,14 +166,14 @@
               "motivation": "painting",
               "label": {
                 "de": [
-                  "Zweifarbige Münzen - Frankreich"
+                  "Zweifarbige Münzen - Italien"
                 ]
               },
               "body": {
-                "id": "https://media.githubusercontent.com/media/brogr/hmb-coins-data/refs/heads/main/iiif/interview/audio/04_03_Besondere_Formen.mp3",
+                "id": "https://media.githubusercontent.com/media/brogr/hmb-coins-data/refs/heads/main/iiif/interview/audio/04_02_Besondere_Formen.mp3",
                 "type": "Sound",
                 "format": "audio/mp3",
-                "duration": 29
+                "duration": 18
               },
               "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_03/canvas"
             }

@@ -58,12 +58,30 @@
 					"src": "2020-160_shmjan_Muenzalbum_D011.jpg",
 					"startTime": 1674,
 					"endTime": 1700,
-					"duration": 26,
+					"duration": 10,
+					"fileName": "04_01_Besondere_Formen.mp3",
+					"description": "Formen"
+				},
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D011.jpg",
+					"iiifImageRegion": "4850,2150,400,400",
+					"startTime": 1674,
+					"endTime": 1700,
+					"duration": 16,
 					"fileName": "04_01_Besondere_Formen.mp3",
 					"description": "Formen"
 				},
 				{
 					"src": "2020-160_shmjan_Muenzalbum_D008.jpg",
+					"startTime": 1732,
+					"endTime": 1750,
+					"duration": 18,
+					"fileName": "04_02_Besondere_Formen.mp3",
+					"description": "Zweifarbige Münzen - Italien"
+				},
+				{
+					"src": "2020-160_shmjan_Muenzalbum_D008.jpg",
+					"iiifImageRegion": "3020,1910,450,450",
 					"startTime": 1732,
 					"endTime": 1750,
 					"duration": 18,

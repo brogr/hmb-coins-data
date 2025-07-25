@@ -15,3 +15,5 @@
 - multiple items/images per canvas?
 - `annotations`
   -- use metadata instead
+- BG setting for text-area only
+- mobile scroll

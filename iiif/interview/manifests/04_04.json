@@ -1,10 +1,10 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_01.json",
+  "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_04.json",
   "type": "Manifest",
   "label": {
     "de": [
-      "Interview mit Münzsammlerin M. Bieri: Besondere Formen – Formen"
+      "Interview mit Münzsammlerin M. Bieri: Besondere Formen – Zweifarbige Münzen - Italien"
     ]
   },
   "provider": [
@@ -75,22 +75,22 @@
       },
       "value": {
         "de": [
-          "Formen"
+          "Zweifarbige Münzen - Italien"
         ]
       }
     }
   ],
   "items": [
     {
-      "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_01/canvas",
+      "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_04/canvas",
       "type": "Canvas",
-      "duration": 10,
+      "duration": 18,
       "accompanyingCanvas": {
-        "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_01/canvas/accompanying",
+        "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_04/canvas/accompanying",
         "type": "Canvas",
         "label": {
           "de": [
-            "Formen"
+            "Zweifarbige Münzen - Italien"
           ]
         },
         "metadata": [
@@ -102,23 +102,23 @@
             },
             "value": {
               "de": [
-                "Formen"
+                "Zweifarbige Münzen - Italien"
               ]
             }
           }
         ],
         "items": [
           {
-            "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_01/canvas/accompanying/annotation/page",
+            "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_04/canvas/accompanying/annotation/page",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_01/canvas/accompanying/annotation/image",
+                "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_04/canvas/accompanying/annotation/image",
                 "type": "Annotation",
                 "motivation": "painting",
                 "label": {
                   "de": [
-                    "Formen"
+                    "Zweifarbige Münzen - Italien"
                   ]
                 },
                 "metadata": [
@@ -130,26 +130,26 @@
                     },
                     "value": {
                       "de": [
-                        "Formen"
+                        "Zweifarbige Münzen - Italien"
                       ]
                     }
                   }
                 ],
                 "body": {
-                  "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D011.jpg/full/max/0/default.jpg",
+                  "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D008.jpg/3020,1910,450,450/max/0/default.jpg",
                   "type": "Image",
                   "format": "image/jpeg",
                   "width": 7320,
                   "height": 5484,
                   "service": [
                     {
-                      "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D011.jpg",
+                      "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D008.jpg",
                       "type": "ImageService3",
                       "profile": "level2"
                     }
                   ]
                 },
-                "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_01/canvas/accompanying"
+                "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_04/canvas/accompanying"
               }
             ]
           }
@@ -157,25 +157,25 @@
       },
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_01/canvas/annopage",
+          "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_04/canvas/annopage",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_01/canvas/annopage/annotation",
+              "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_04/canvas/annopage/annotation",
               "type": "Annotation",
               "motivation": "painting",
               "label": {
                 "de": [
-                  "Formen"
+                  "Zweifarbige Münzen - Italien"
                 ]
               },
               "body": {
-                "id": "https://media.githubusercontent.com/media/brogr/hmb-coins-data/refs/heads/main/iiif/interview/audio/04_01_Besondere_Formen.mp3",
+                "id": "https://media.githubusercontent.com/media/brogr/hmb-coins-data/refs/heads/main/iiif/interview/audio/04_02_Besondere_Formen.mp3",
                 "type": "Sound",
                 "format": "audio/mp3",
-                "duration": 10
+                "duration": 18
               },
-              "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_01/canvas"
+              "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_04/canvas"
             }
           ]
         }
