@@ -133,104 +133,108 @@ async function generateManifests() {
 					// Set duration as float
 					canvas.duration = durationFloat;
 
-					// Update accompanying canvas if it exists
-					if (canvas.accompanyingCanvas) {
-						canvas.accompanyingCanvas.id = `${MANIFEST_BASE_PATH}/${manifestId}/canvas/accompanying`;
+					if (image.fileName) {
+						// Update accompanying canvas if it exists
+						if (canvas.accompanyingCanvas) {
+							canvas.accompanyingCanvas.id = `${MANIFEST_BASE_PATH}/${manifestId}/canvas/accompanying`;
 
-						// Use description WITHOUT prefix for deeper elements
-						canvas.accompanyingCanvas.label = { de: [description] };
+							// Use description WITHOUT prefix for deeper elements
+							canvas.accompanyingCanvas.label = { de: [description] };
 
-						// Update description in accompanying canvas metadata
-						if (
-							canvas.accompanyingCanvas.metadata &&
-							canvas.accompanyingCanvas.metadata.length > 0
-						) {
-							canvas.accompanyingCanvas.metadata[0].value = {
-								de: [description],
-							};
-						}
+							// Update description in accompanying canvas metadata
+							if (
+								canvas.accompanyingCanvas.metadata &&
+								canvas.accompanyingCanvas.metadata.length > 0
+							) {
+								canvas.accompanyingCanvas.metadata[0].value = {
+									de: [description],
+								};
+							}
 
-						// Update annotation
-						if (
-							canvas.accompanyingCanvas.items &&
-							canvas.accompanyingCanvas.items.length > 0
-						) {
-							const annoPage = canvas.accompanyingCanvas.items[0];
-							annoPage.id = `${MANIFEST_BASE_PATH}/${manifestId}/canvas/accompanying/annotation/page`;
+							// Update annotation
+							if (
+								canvas.accompanyingCanvas.items &&
+								canvas.accompanyingCanvas.items.length > 0
+							) {
+								const annoPage = canvas.accompanyingCanvas.items[0];
+								annoPage.id = `${MANIFEST_BASE_PATH}/${manifestId}/canvas/accompanying/annotation/page`;
 
-							if (annoPage.items && annoPage.items.length > 0) {
-								const annotation = annoPage.items[0];
-								annotation.id = `${MANIFEST_BASE_PATH}/${manifestId}/canvas/accompanying/annotation/image`;
+								if (annoPage.items && annoPage.items.length > 0) {
+									const annotation = annoPage.items[0];
+									annotation.id = `${MANIFEST_BASE_PATH}/${manifestId}/canvas/accompanying/annotation/image`;
 
-								// Use description WITHOUT prefix
-								annotation.label = { de: [description] };
+									// Use description WITHOUT prefix
+									annotation.label = { de: [description] };
 
-								// Update description in annotation metadata
-								if (annotation.metadata && annotation.metadata.length > 0) {
-									annotation.metadata[0].value = { de: [description] };
-								}
-
-								// Update image body with URL encoded image source
-								if (annotation.body) {
-									// Get image dimensions
-									const imagePath = path.join(LOCAL_IMAGE_PATH, image.src);
-									const dimensions = await getImageDimensions(imagePath);
-									console.log(
-										`image dimensions: ${dimensions.width}x${dimensions.height}`
-									);
-									if (dimensions.width && dimensions.height) {
-										// Update image dimensions
-										annotation.body.width = dimensions.width;
-										annotation.body.height = dimensions.height;
+									// Update description in annotation metadata
+									if (annotation.metadata && annotation.metadata.length > 0) {
+										annotation.metadata[0].value = { de: [description] };
 									}
 
-									// URL encode the image source
-									const encodedImageSrc = encodeURIComponent(image.src);
+									// Update image body with URL encoded image source
+									if (annotation.body) {
+										// Get image dimensions
+										const imagePath = path.join(LOCAL_IMAGE_PATH, image.src);
+										const dimensions = await getImageDimensions(imagePath);
+										console.log(
+											`image dimensions: ${dimensions.width}x${dimensions.height}`
+										);
+										if (dimensions.width && dimensions.height) {
+											// Update image dimensions
+											annotation.body.width = dimensions.width;
+											annotation.body.height = dimensions.height;
+										}
 
-									// Use iiifImageRegion if available, otherwise use "full"
-									const imageRegion = image.iiifImageRegion
-										? image.iiifImageRegion
-										: "full";
+										// URL encode the image source
+										const encodedImageSrc = encodeURIComponent(image.src);
 
-									// Construct the image URL with the appropriate region
-									annotation.body.id = `${IMAGE_BASE_PATH}${encodedImageSrc}/${imageRegion}/max/0/default.jpg`;
+										// Use iiifImageRegion if available, otherwise use "full"
+										const imageRegion = image.iiifImageRegion
+											? image.iiifImageRegion
+											: "full";
 
-									if (
-										annotation.body.service &&
-										annotation.body.service.length > 0
-									) {
-										annotation.body.service[0].id = `${IMAGE_BASE_PATH}${encodedImageSrc}`;
+										// Construct the image URL with the appropriate region
+										annotation.body.id = `${IMAGE_BASE_PATH}${encodedImageSrc}/${imageRegion}/max/0/default.jpg`;
+
+										if (
+											annotation.body.service &&
+											annotation.body.service.length > 0
+										) {
+											annotation.body.service[0].id = `${IMAGE_BASE_PATH}${encodedImageSrc}`;
+										}
 									}
-								}
 
-								annotation.target = canvas.accompanyingCanvas.id;
+									annotation.target = canvas.accompanyingCanvas.id;
+								}
 							}
 						}
 					}
 
 					// Update canvas items
 					if (canvas.items && canvas.items.length > 0) {
-						const annoPage = canvas.items[0];
-						annoPage.id = `${MANIFEST_BASE_PATH}/${manifestId}/canvas/annopage`;
+						if (image.fileName) {
+							const annoPage = canvas.items[0];
+							annoPage.id = `${MANIFEST_BASE_PATH}/${manifestId}/canvas/annopage`;
 
-						if (annoPage.items && annoPage.items.length > 0) {
-							const annotation = annoPage.items[0];
-							annotation.id = `${MANIFEST_BASE_PATH}/${manifestId}/canvas/annopage/annotation`;
+							if (annoPage.items && annoPage.items.length > 0) {
+								const annotation = annoPage.items[0];
+								annotation.id = `${MANIFEST_BASE_PATH}/${manifestId}/canvas/annopage/annotation`;
 
-							// Use description WITHOUT prefix
-							annotation.label = { de: [description] };
+								// Use description WITHOUT prefix
+								annotation.label = { de: [description] };
 
-							// Update audio body with URL encoded filename
-							if (annotation.body) {
-								// URL encode the MP3 filename
-								const encodedFileName = encodeURIComponent(image.fileName);
-								annotation.body.id = `${AUDIO_BASE_URL}/${encodedFileName}`;
+								// Update audio body with URL encoded filename
+								if (annotation.body) {
+									// URL encode the MP3 filename
+									const encodedFileName = encodeURIComponent(image.fileName);
+									annotation.body.id = `${AUDIO_BASE_URL}/${encodedFileName}`;
 
-								// Set duration as float
-								annotation.body.duration = durationFloat;
+									// Set duration as float
+									annotation.body.duration = durationFloat;
+								}
+
+								annotation.target = canvas.id;
 							}
-
-							annotation.target = canvas.id;
 						}
 					}
 				}
