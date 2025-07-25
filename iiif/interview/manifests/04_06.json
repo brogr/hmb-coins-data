@@ -1,185 +1,124 @@
 {
-  "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_06.json",
-  "type": "Manifest",
-  "label": {
-    "de": [
-      "Interview mit Münzsammlerin M. Bieri: Besondere Formen – Zweifarbige Münzen - TEST"
-    ]
-  },
-  "provider": [
-    {
-      "id": "https://digitalesschaudepot.ch/",
-      "type": "Agent",
-      "label": {
-        "de": [
-          "Digitales Schaudepot"
-        ]
-      },
-      "homepage": [
-        {
-          "id": "https://digitalesschaudepot.ch/",
-          "type": "Text",
-          "label": {
-            "de": [
-              "Digitales Schaudepot"
-            ]
-          },
-          "format": "text/html"
-        }
-      ]
-    }
-  ],
-  "metadata": [
-    {
-      "label": {
-        "de": [
-          "Urheber"
-        ]
-      },
-      "value": {
-        "de": [
-          "Digitales Schaudepot"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Autorin"
-        ]
-      },
-      "value": {
-        "de": [
-          "M. Bieri"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Sammlung"
-        ]
-      },
-      "value": {
-        "de": [
-          "Interview mit Münzsammlerin M. Bieri"
-        ]
-      }
-    },
-    {
-      "label": {
-        "de": [
-          "Beschreibung"
-        ]
-      },
-      "value": {
-        "de": [
-          "Zweifarbige Münzen - TEST"
-        ]
-      }
-    }
-  ],
-  "items": [
-    {
-      "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_06/canvas",
-      "type": "Canvas",
-      "duration": 29,
-      "accompanyingCanvas": {
-        "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_06/canvas/accompanying",
-        "type": "Canvas",
-        "label": {
-          "de": [
-            "Zweifarbige Münzen - TEST"
-          ]
-        },
-        "metadata": [
-          {
-            "label": {
-              "de": [
-                "Beschreibung"
-              ]
-            },
-            "value": {
-              "de": [
-                "Zweifarbige Münzen - TEST"
-              ]
-            }
-          }
-        ],
-        "items": [
-          {
-            "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_06/canvas/accompanying/annotation/page",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_06/canvas/accompanying/annotation/image",
-                "type": "Annotation",
-                "motivation": "painting",
-                "label": {
-                  "de": [
-                    "Zweifarbige Münzen - TEST"
-                  ]
-                },
-                "metadata": [
-                  {
-                    "label": {
-                      "de": [
-                        "Beschreibung"
-                      ]
-                    },
-                    "value": {
-                      "de": [
-                        "Zweifarbige Münzen - TEST"
-                      ]
-                    }
-                  }
-                ],
-                "body": {
-                  "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D009.jpg/full/max/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 7320,
-                  "height": 5484,
-                  "service": [
-                    {
-                      "id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D009.jpg",
-                      "type": "ImageService3",
-                      "profile": "level2"
-                    }
-                  ]
-                },
-                "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_06/canvas/accompanying"
-              }
-            ]
-          }
-        ]
-      },
-      "items": [
-        {
-          "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_06/canvas/annopage",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_06/canvas/annopage/annotation",
-              "type": "Annotation",
-              "motivation": "painting",
-              "label": {
-                "de": [
-                  "Zweifarbige Münzen - TEST"
-                ]
-              },
-              "body": {
-                "id": "https://media.githubusercontent.com/media/brogr/hmb-coins-data/refs/heads/main/iiif/interview/audio/undefined",
-                "type": "Sound",
-                "format": "audio/mp3",
-                "duration": 29
-              },
-              "target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_06/canvas"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+	"@context": "http://iiif.io/api/presentation/3/context.json",
+	"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_06.json",
+	"type": "Manifest",
+	"label": {
+		"de": [
+			"Interview mit Münzsammlerin M. Bieri: Besondere Formen – Zweifarbige Münzen - TEST"
+		]
+	},
+	"provider": [
+		{
+			"id": "https://digitalesschaudepot.ch/",
+			"type": "Agent",
+			"label": {
+				"de": ["Digitales Schaudepot"]
+			},
+			"homepage": [
+				{
+					"id": "https://digitalesschaudepot.ch/",
+					"type": "Text",
+					"label": {
+						"de": ["Digitales Schaudepot"]
+					},
+					"format": "text/html"
+				}
+			]
+		}
+	],
+	"metadata": [
+		{
+			"label": {
+				"de": ["Urheber"]
+			},
+			"value": {
+				"de": ["Digitales Schaudepot"]
+			}
+		},
+		{
+			"label": {
+				"de": ["Autorin"]
+			},
+			"value": {
+				"de": ["M. Bieri"]
+			}
+		},
+		{
+			"label": {
+				"de": ["Sammlung"]
+			},
+			"value": {
+				"de": ["Interview mit Münzsammlerin M. Bieri"]
+			}
+		},
+		{
+			"label": {
+				"de": ["Beschreibung"]
+			},
+			"value": {
+				"de": ["Zweifarbige Münzen - TEST"]
+			}
+		}
+	],
+	"items": [
+		{
+			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_06/canvas",
+			"type": "Canvas",
+			"duration": 29,
+			"label": {
+				"de": ["Zweifarbige Münzen - TEST"]
+			},
+			"metadata": [
+				{
+					"label": {
+						"de": ["Beschreibung"]
+					},
+					"value": {
+						"de": ["Zweifarbige Münzen - TEST"]
+					}
+				}
+			],
+			"items": [
+				{
+					"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_06/canvas/accompanying/annotation/page",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_06/canvas/accompanying/annotation/image",
+							"type": "Annotation",
+							"motivation": "painting",
+							"label": {
+								"de": ["Zweifarbige Münzen - TEST"]
+							},
+							"metadata": [
+								{
+									"label": {
+										"de": ["Beschreibung"]
+									},
+									"value": {
+										"de": ["Zweifarbige Münzen - TEST"]
+									}
+								}
+							],
+							"body": {
+								"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D009.jpg/full/max/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"width": 7320,
+								"height": 5484,
+								"service": [
+									{
+										"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D009.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
+							},
+							"target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_06/canvas/accompanying"
+						}
+					]
+				}
+			]
+		}
+	]
 }
