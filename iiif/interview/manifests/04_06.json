@@ -65,56 +65,83 @@
 			"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_06/canvas",
 			"type": "Canvas",
 			"duration": 29,
-			"label": {
-				"de": ["Zweifarbige Münzen - TEST"]
-			},
-			"metadata": [
-				{
-					"label": {
-						"de": ["Beschreibung"]
-					},
-					"value": {
-						"de": ["Zweifarbige Münzen - TEST"]
+			"accompanyingCanvas": {
+				"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_06/canvas/accompanying",
+				"type": "Canvas",
+				"label": {
+					"de": ["Zweifarbige Münzen - TEST"]
+				},
+				"metadata": [
+					{
+						"label": {
+							"de": ["Beschreibung"]
+						},
+						"value": {
+							"de": ["Zweifarbige Münzen - TEST"]
+						}
 					}
-				}
-			],
+				],
+				"items": [
+					{
+						"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_06/canvas/accompanying/annotation/page",
+						"type": "AnnotationPage",
+						"items": [
+							{
+								"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_06/canvas/accompanying/annotation/image",
+								"type": "Annotation",
+								"motivation": "painting",
+								"label": {
+									"de": ["Zweifarbige Münzen - TEST"]
+								},
+								"metadata": [
+									{
+										"label": {
+											"de": ["Beschreibung"]
+										},
+										"value": {
+											"de": ["Zweifarbige Münzen - TEST"]
+										}
+									}
+								],
+								"body": {
+									"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D009.jpg/full/max/0/default.jpg",
+									"type": "Image",
+									"format": "image/jpeg",
+									"width": 7320,
+									"height": 5484,
+									"service": [
+										{
+											"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D009.jpg",
+											"type": "ImageService3",
+											"profile": "level2"
+										}
+									]
+								},
+								"target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_06/canvas/accompanying"
+							}
+						]
+					}
+				]
+			},
 			"items": [
 				{
-					"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_06/canvas/accompanying/annotation/page",
+					"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_06/canvas/annopage",
 					"type": "AnnotationPage",
 					"items": [
 						{
-							"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_06/canvas/accompanying/annotation/image",
+							"id": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_06/canvas/annopage/annotation",
 							"type": "Annotation",
 							"motivation": "painting",
 							"label": {
 								"de": ["Zweifarbige Münzen - TEST"]
 							},
-							"metadata": [
-								{
-									"label": {
-										"de": ["Beschreibung"]
-									},
-									"value": {
-										"de": ["Zweifarbige Münzen - TEST"]
-									}
-								}
-							],
 							"body": {
-								"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D009.jpg/full/max/0/default.jpg",
-								"type": "Image",
-								"format": "image/jpeg",
-								"width": 7320,
-								"height": 5484,
-								"service": [
-									{
-										"id": "https://philhist-vanuatu.philhist.unibas.ch/iiif/3/coins%2Finterview%2F2020-160_shmjan_Muenzalbum_D009.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
-									}
-								]
+								"id": "https://media.githubusercontent.com/media/brogr/hmb-coins-data/refs/heads/main/iiif/interview/audio/undefined",
+								"type": "Sound",
+								"format": "audio/mp3",
+								"duration": 29
 							},
-							"target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_06/canvas/accompanying"
+							"target": "https://raw.githubusercontent.com/brogr/hmb-coins-data/refs/heads/main/iiif/interview/manifests/04_06/canvas"
 						}
 					]
 				}
