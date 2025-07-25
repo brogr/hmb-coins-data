@@ -4,7 +4,7 @@
   "type": "Manifest",
   "label": {
     "de": [
-      "Interview mit Münzsammlerin M. Bieri: Besondere Formen – Formen"
+      "Interview mit Münzsammlerin M. Bieri: Besondere Formen – Formen (Zoom)"
     ]
   },
   "provider": [
@@ -75,7 +75,7 @@
       },
       "value": {
         "de": [
-          "Formen"
+          "Formen (Zoom)"
         ]
       }
     }
@@ -90,7 +90,7 @@
         "type": "Canvas",
         "label": {
           "de": [
-            "Formen"
+            "Formen (Zoom)"
           ]
         },
         "metadata": [
@@ -102,7 +102,7 @@
             },
             "value": {
               "de": [
-                "Formen"
+                "Formen (Zoom)"
               ]
             }
           }
@@ -118,7 +118,7 @@
                 "motivation": "painting",
                 "label": {
                   "de": [
-                    "Formen"
+                    "Formen (Zoom)"
                   ]
                 },
                 "metadata": [
@@ -130,7 +130,7 @@
                     },
                     "value": {
                       "de": [
-                        "Formen"
+                        "Formen (Zoom)"
                       ]
                     }
                   }
@@ -166,7 +166,7 @@
               "motivation": "painting",
               "label": {
                 "de": [
-                  "Formen"
+                  "Formen (Zoom)"
                 ]
               },
               "body": {
